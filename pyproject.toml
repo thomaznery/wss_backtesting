@@ -8,7 +8,14 @@ packages = [{include = "wss_backtesting"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+yfinance = "^0.2.9"
+pandas = "^1.5.3"
+abcmeta = "^2.1.1"
+stocksymbol = "^0.0.5"
 
+
+[tool.poetry.group.test.dependencies]
+pytest = "^7.2.1"
 
 [build-system]
 requires = ["poetry-core"]

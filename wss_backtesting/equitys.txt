@@ -1,0 +1,1923 @@
+AAPL34.SA APPLE       DRN Apple Inc. SAO br_market EQUITY
+MSFT34.SA MICROSOFT   DRN Microsoft Corporation SAO br_market EQUITY
+GOGL34.SA ALPHABET    DRN A Alphabet Inc. SAO br_market EQUITY
+GOGL35.SA ALPHABET    DRN C Alphabet Inc. SAO br_market EQUITY
+AMZO34.SA AMAZON      DRN Amazon.com, Inc. SAO br_market EQUITY
+TSLA34.SA TESLA INC   DRN Tesla, Inc. SAO br_market EQUITY
+FBOK34.SA META PLAT   DRN Meta Platforms, Inc. SAO br_market EQUITY
+BERK34.SA BERKSHIRE   DRN Berkshire Hathaway Inc. SAO br_market EQUITY
+NVDC34.SA NVIDIA CORP DRN NVIDIA Corporation SAO br_market EQUITY
+H1SB34.SA HSBC HOLDINGDRN HSBC Holdings plc SAO br_market EQUITY
+VISA34.SA VISA INC    DRN Visa Inc. SAO br_market EQUITY
+JNJB34.SA JOHNSON     DRN Johnson & Johnson SAO br_market EQUITY
+UNHH34.SA UNITEDHEALTHDRN UnitedHealth Group Incorporated SAO br_market EQUITY
+HOME34.SA HOME DEPOT  DRN The Home Depot, Inc. SAO br_market EQUITY
+WALM34.SA WAL MART    DRN Walmart Inc. SAO br_market EQUITY
+PGCO34.SA PG          DRN The Procter & Gamble Company SAO br_market EQUITY
+MSCD34.SA MASTERCARD  DRN Mastercard Incorporated SAO br_market EQUITY
+PFIZ34.SA PFIZER      DRN Pfizer Inc. SAO br_market EQUITY
+EXXO34.SA EXXON MOBIL DRN Exxon Mobil Corporation SAO br_market EQUITY
+DISB34.SA WALT DISNEY DRN The Walt Disney Company SAO br_market EQUITY
+COCA34.SA COCA COLA   DRN The Coca-Cola Company SAO br_market EQUITY
+CSCO34.SA CISCO       DRN Cisco Systems, Inc. SAO br_market EQUITY
+AVGO34.SA BROADCOM INCDRN ED Broadcom Inc. SAO br_market EQUITY
+LILY34.SA LILLY       DRN Eli Lilly and Company SAO br_market EQUITY
+NIKE34.SA NIKE        DRN NIKE, Inc. SAO br_market EQUITY
+NFLX34.SA NETFLIX     DRN Netflix, Inc. SAO br_market EQUITY
+ADBE34.SA ADOBE INC   DRN Adobe Inc. SAO br_market EQUITY
+CHVX34.SA CHEVRON     DRN Chevron Corporation SAO br_market EQUITY
+PEPB34.SA PEPSICO INC DRN PepsiCo, Inc. SAO br_market EQUITY
+ABTT34.SA ABBOTT      DRN Abbott Laboratories SAO br_market EQUITY
+ACNB34.SA ACCENTURE   DRN Accenture plc SAO br_market EQUITY
+TMOS34.SA THERMFISCHERDRN Thermo Fisher Scientific Inc. SAO br_market EQUITY
+ABBV34.SA ABBVIE      DRN AbbVie Inc. SAO br_market EQUITY
+COWC34.SA COSTCO      DRN Costco Wholesale Corporation SAO br_market EQUITY
+ORCL34.SA ORACLE      DRN Oracle Corporation SAO br_market EQUITY
+VERZ34.SA VERIZON     DRN Verizon Communications Inc. SAO br_market EQUITY
+CMCS34.SA COMCAST     DRN Comcast Corporation SAO br_market EQUITY
+SSFO34.SA SALESFORCE  DRN salesforce.com, inc. SAO br_market EQUITY
+ULEV34.SA UNILEVER    DRN Unilever PLC SAO br_market EQUITY
+PYPL34.SA PAYPAL HOLD DRN PayPal Holdings, Inc. SAO br_market EQUITY
+WFCO34.SA WELLS FARGO DRN Wells Fargo & Company SAO br_market EQUITY
+ITLC34.SA INTEL       DRN Intel Corporation SAO br_market EQUITY
+DHER34.SA DANAHER CORPDRN ED Danaher Corporation SAO br_market EQUITY
+N1VS34.SA NOVARTIS AG DRN Novartis AG SAO br_market EQUITY
+MRCK34.SA MERCK       DRN Merck & Co., Inc. SAO br_market EQUITY
+QCOM34.SA QUALCOMM    DRN QUALCOMM Incorporated SAO br_market EQUITY
+MCDC34.SA MCDONALDS   DRN McDonald's Corporation SAO br_market EQUITY
+UPSS34.SA UPS         DRN United Parcel Service, Inc. SAO br_market EQUITY
+ATTB34.SA ATT INC     DRN AT&T Inc. SAO br_market EQUITY
+RDSA35.SA RD SHELL    DRN Royal Dutch Shell plc SAO br_market EQUITY
+SCHW34.SA SCHWAB      DRN The Charles Schwab Corporation SAO br_market EQUITY
+LOWC34.SA LOWES COMPA DRN Lowe's Companies, Inc. SAO br_market EQUITY
+L1IN34.SA LINDE PLC   DRN Linde plc SAO br_market EQUITY
+NEXT34.SA NEXTERA ENERDRN NextEra Energy, Inc. SAO br_market EQUITY
+TEXA34.SA TEXAS INC   DRN Texas Instruments Incorporated SAO br_market EQUITY
+UPAC34.SA UNIONPACIFICDRN Union Pacific Corporation SAO br_market EQUITY
+INTU34.SA INTUIT INC  DRN Intuit Inc. SAO br_market EQUITY
+A1MD34.SA ADVANCED MICDRN Advanced Micro Devices, Inc. SAO br_market EQUITY
+N1VO34.SA NOVO NORDISKDRN Novo Nordisk A/S SAO br_market EQUITY
+GSGI34.SA GOLDMANSACHSDRN The Goldman Sachs Group, Inc. SAO br_market EQUITY
+PHMO34.SA PHILIP MORRIDRN ED Philip Morris International Inc. SAO br_market EQUITY
+RDSA34.SA RD SHELL    DRN Royal Dutch Shell plc SAO br_market EQUITY
+JDCO34.SA JD COM      DRN JD.com, Inc. SAO br_market EQUITY
+HONB34.SA HONEYWELL   DRN Honeywell International Inc. SAO br_market EQUITY
+S2HO34.SA SHOPIFY INC DRN Shopify Inc. SAO br_market EQUITY
+MDTC34.SA MEDTRONIC   DRN ED Medtronic plc SAO br_market EQUITY
+BMYB34.SA BRISTOLMYERSDRN Bristol-Myers Squibb Company SAO br_market EQUITY
+CVSH34.SA CVS HEALTH  DRN CVS Health Corporation SAO br_market EQUITY
+T1MU34.SA T-MOBILE US DRN T-Mobile US, Inc. SAO br_market EQUITY
+BLAK34.SA BLACKROCK   DRN BlackRock, Inc. SAO br_market EQUITY
+RYTT34.SA RAYTHEONTECHDRN Raytheon Technologies Corporation SAO br_market EQUITY
+AXPB34.SA AMERICAN EXPDRN American Express Company SAO br_market EQUITY
+A1MT34.SA APPLIED MATEDRN Applied Materials, Inc. SAO br_market EQUITY
+AMGN34.SA AMGEN       DRN Amgen Inc. SAO br_market EQUITY
+ELCI34.SA ESTEE LAUDERDRN The Estée Lauder Companies Inc. SAO br_market EQUITY
+BOAC34.SA BANK AMERICADRN Bank of America Corporation SAO br_market EQUITY
+SBUB34.SA STARBUCKS   DRN Starbucks Corporation SAO br_market EQUITY
+BOEI34.SA BOEING      DRN The Boeing Company SAO br_market EQUITY
+IBMB34.SA IBM         DRN International Business Machines Corporation SAO br_market EQUITY
+T1OW34.SA AMERICAN TOWDRN ED American Tower Corporation SAO br_market EQUITY
+CATP34.SA CATERPILLAR DRN Caterpillar Inc. SAO br_market EQUITY
+DEEC34.SA DEERE CO    DRN ED Deere & Company SAO br_market EQUITY
+ABUD34.SA AB INBEV    DRN Anheuser-Busch InBev SA/NV SAO br_market EQUITY
+I1SR34.SA INTUITIVE SUDRN Intuitive Surgical, Inc. SAO br_market EQUITY
+JPMC34.SA JPMORGAN    DRN JPMorgan Chase & Co. SAO br_market EQUITY
+P1LD34.SA PROLOGIS INCDRN Prologis, Inc. SAO br_market EQUITY
+N1OW34.SA SERVICENOW  DRN ServiceNow, Inc. SAO br_market EQUITY
+GEOO34.SA GE          DRN General Electric Company SAO br_market EQUITY
+TGTB34.SA TARGET CORP DRN Target Corporation SAO br_market EQUITY
+CHCM34.SA CHARTER COMMDRN Charter Communications, Inc. SAO br_market EQUITY
+COPH34.SA COPHILLIPS  DRN ED ConocoPhillips SAO br_market EQUITY
+SPGI34.SA SP GLOBAL   DRN S&P Global Inc. SAO br_market EQUITY
+MUTC34.SA MICRON TECHNDRN ED Micron Technology, Inc. SAO br_market EQUITY
+A1NT34.SA ANTHEM INC  DRN Anthem, Inc. SAO br_market EQUITY
+AIRB34.SA AIRBNB      DRN Airbnb, Inc. SAO br_market EQUITY
+B1BL34.SA BHP GROUP PLDRN BHP Group SAO br_market EQUITY
+MMMC34.SA 3M          DRN 3M Company SAO br_market EQUITY
+ADPR34.SA AUTOMATIC DTDRN Automatic Data Processing, Inc. SAO br_market EQUITY
+Z1TS34.SA ZOETIS INC  DRN Zoetis Inc. SAO br_market EQUITY
+BKNG34.SA BOOKING     DRN Booking Holdings Inc. SAO br_market EQUITY
+LMTB34.SA LOCKHEED    DRN Lockheed Martin Corporation SAO br_market EQUITY
+FDMO34.SA FORD MOTORS DRN Ford Motor Company SAO br_market EQUITY
+PNCS34.SA PNCFNANCIAL DRN The PNC Financial Services Group, Inc. SAO br_market EQUITY
+L1RC34.SA LAM RESEARCHDRN Lam Research Corporation SAO br_market EQUITY
+MDLZ34.SA MONDELEZ INTDRN ED Mondelez International, Inc. SAO br_market EQUITY
+MOOO34.SA ALTRIA GROUPDRN ED Altria Group, Inc. SAO br_market EQUITY
+S2NW34.SA SNOWFLAKE   DRN Snowflake Inc. SAO br_market EQUITY
+USBC34.SA US BANCORP  DRN ED U.S. Bancorp SAO br_market EQUITY
+GMCO34.SA GENERAL MOT DRN General Motors Company SAO br_market EQUITY
+GILD34.SA GILEAD      DRN Gilead Sciences, Inc. SAO br_market EQUITY
+B1AM34.SA BROOKFIELD ADRN Brookfield Asset Management Inc. SAO br_market EQUITY
+TJXC34.SA TJX COMPANIEDRN The TJX Companies, Inc. SAO br_market EQUITY
+A1DI34.SA ANALOG DEVICDRN Analog Devices, Inc. SAO br_market EQUITY
+M1RN34.SA MODERNA INC DRN Moderna, Inc. SAO br_market EQUITY
+S1HW34.SA THE SHERWIN DRN The Sherwin-Williams Company SAO br_market EQUITY
+M1MC34.SA MARSH E MCLEDRN Marsh & McLennan Companies, Inc. SAO br_market EQUITY
+C1CI34.SA CROWN CASTLEDRN Crown Castle International Corp. SAO br_market EQUITY
+CSXC34.SA CSX CORP    DRN CSX Corporation SAO br_market EQUITY
+CHME34.SA CME GROUP   DRN ED CME Group Inc. SAO br_market EQUITY
+U1BE34.SA UBER TECH INDRN Uber Technologies, Inc. SAO br_market EQUITY
+DUKB34.SA DUKE ENERGY DRN Duke Energy Corporation SAO br_market EQUITY
+B1PP34.SA BP PLC      DRN BP p.l.c. SAO br_market EQUITY
+H1CA34.SA HCA HEALTHCADRN HCA Healthcare, Inc. SAO br_market EQUITY
+T1AM34.SA ATLASSIAN CODRN Atlassian Corporation Plc SAO br_market EQUITY
+E1WL34.SA EDWARDS LIFEDRN Edwards Lifesciences Corporation SAO br_market EQUITY
+C1IC34.SA CIGNA CORP  DRN Cigna Corporation SAO br_market EQUITY
+T1SO34.SA THE SOUTHERNDRN The Southern Company SAO br_market EQUITY
+B1DX34.SA BECTON DICKIDRN Becton, Dickinson and Company SAO br_market EQUITY
+F1IS34.SA FISERV INC  DRN Fiserv, Inc. SAO br_market EQUITY
+N1SC34.SA NORFOLK SOUTDRN Norfolk Southern Corporation SAO br_market EQUITY
+VALE3.SA VALE        ON      NM Vale S.A. SAO br_market EQUITY
+F1NI34.SA FIDELITY NATDRN Fidelity National Information Services, Inc. SAO br_market EQUITY
+COLG34.SA COLGATE     DRN Colgate-Palmolive Company SAO br_market EQUITY
+EQIX34.SA EQUINIX INC DRN Equinix, Inc. SAO br_market EQUITY
+CPRL34.SA CANAD PACIFIDRN ED Canadian Pacific Railway Limited SAO br_market EQUITY
+C1HI34.SA CHINA PETROLDRN China Petroleum & Chemical Corporation SAO br_market EQUITY
+FDXB34.SA FEDEX CORP  DRN FedEx Corporation SAO br_market EQUITY
+MCOR34.SA MOODYS CORP DRN Moody's Corporation SAO br_market EQUITY
+PETR4.SA PETROBRAS   PN      N2 Petróleo Brasileiro S.A. - Petrobras SAO br_market EQUITY
+PETR3.SA PETROBRAS   ON      N2 Petróleo Brasileiro S.A. - Petrobras SAO br_market EQUITY
+W1MC34.SA WASTE MANAG DRN Waste Management, Inc. SAO br_market EQUITY
+E1TN34.SA EATON CORP PDRN Eaton Corporation plc SAO br_market EQUITY
+UBSG34.SA UBS GROUP   DRN UBS Group AG SAO br_market EQUITY
+S2QU34.SA BLOCK INC.  DRN Block, Inc. SAO br_market EQUITY
+REGN34.SA REGENERON PHDRN Regeneron Pharmaceuticals, Inc. SAO br_market EQUITY
+D1OM34.SA DOMINION ENEDRN Dominion Energy, Inc. SAO br_market EQUITY
+A1ON34.SA AON PLC     DRN Aon plc SAO br_market EQUITY
+P1SA34.SA PUBLIC STORADRN Public Storage SAO br_market EQUITY
+K1LA34.SA KLA CORP    DRN KLA Corporation SAO br_market EQUITY
+NOCG34.SA NORTHROP GRUDRN Northrop Grumman Corporation SAO br_market EQUITY
+W1DA34.SA WORKDAY INC DRN Workday, Inc. SAO br_market EQUITY
+FCXO34.SA FREEPORT    DRN Freeport-McMoRan Inc. SAO br_market EQUITY
+TAKP34.SA TAKEDAPH    DRN Takeda Pharmaceutical Company Limited SAO br_market EQUITY
+B1SX34.SA BOSTON SCIENDRN Boston Scientific Corporation SAO br_market EQUITY
+GDBR34.SA GEN DYNAMICSDRN General Dynamics Corporation SAO br_market EQUITY
+N1XP34.SA NXP SEMICONDDRN NXP Semiconductors N.V. SAO br_market EQUITY
+I1LM34.SA ILLUMINA INCDRN Illumina, Inc. SAO br_market EQUITY
+A1UT34.SA AUTODESK INCDRN Autodesk, Inc. SAO br_market EQUITY
+E1OG34.SA EOG RESOURCEDRN EOG Resources, Inc. SAO br_market EQUITY
+E1MR34.SA EMERSON ELECDRN Emerson Electric Co. SAO br_market EQUITY
+METB34.SA METLIFE INC DRN MetLife, Inc. SAO br_market EQUITY
+VRTX34.SA VERTEX PHARMDRN Vertex Pharmaceuticals Incorporated SAO br_market EQUITY
+J1CI34.SA JOHNSON CONTDRN Johnson Controls International plc SAO br_market EQUITY
+E1XC34.SA EXELON CORP DRN Exelon Corporation SAO br_market EQUITY
+DGCO34.SA DOLLAR GENERDRN ED Dollar General Corporation SAO br_market EQUITY
+X1LN34.SA XILINX INC  DRN Xilinx, Inc. SAO br_market EQUITY
+MELI34.SA MERCADOLIBREDRN MercadoLibre, Inc. SAO br_market EQUITY
+M1TT34.SA MARRIOTT INTDRN Marriott International, Inc. SAO br_market EQUITY
+A1BB34.SA ABB LTD     DRN ABB Ltd SAO br_market EQUITY
+SIMN34.SA SIMON PROP  DRN Simon Property Group, Inc. SAO br_market EQUITY
+I1NF34.SA IHS MARKIT LDRN IHS Markit Ltd. SAO br_market EQUITY
+BONY34.SA BNY MELLON  DRN The Bank of New York Mellon Corporation SAO br_market EQUITY
+F1TN34.SA FORTINET INCDRN Fortinet, Inc. SAO br_market EQUITY
+Z1OM34.SA ZOOM VIDEO  DRN Zoom Video Communications, Inc. SAO br_market EQUITY
+R1OP34.SA ROPER TECHNODRN Roper Technologies, Inc. SAO br_market EQUITY
+A1GI34.SA AGILENT TECHDRN ED Agilent Technologies, Inc. SAO br_market EQUITY
+E2PD34.SA ENTERPRISEPPDRN Enterprise Products Partners L.P. SAO br_market EQUITY
+S1NP34.SA SYNOPSYS INCDRN Synopsys, Inc. SAO br_market EQUITY
+C2OI34.SA COINBASEGLOBDRN Coinbase Global, Inc. SAO br_market EQUITY
+ATVI34.SA ACTIVISION  DRN Activision Blizzard, Inc. SAO br_market EQUITY
+SLBG34.SA SCHLUMBERGERDRN Schlumberger Limited SAO br_market EQUITY
+M1NS34.SA MONSTER BEVEDRN Monster Beverage Corporation SAO br_market EQUITY
+I1QV34.SA IQVIA HOLDINDRN IQVIA Holdings Inc. SAO br_market EQUITY
+R2BL34.SA ROBLOX CORP DRN Roblox Corporation SAO br_market EQUITY
+M1CH34.SA MICROCHIP TEDRN Microchip Technology Incorporated SAO br_market EQUITY
+A1PH34.SA AMPHENOL CORDRN Amphenol Corporation SAO br_market EQUITY
+P1IO34.SA PIONEER NATUDRN ED Pioneer Natural Resources Company SAO br_market EQUITY
+KMBB34.SA KIMBERLY CL DRN Kimberly-Clark Corporation SAO br_market EQUITY
+C1DN34.SA CADENCE DESIDRN Cadence Design Systems, Inc. SAO br_market EQUITY
+N1EM34.SA NEWMONT GOLDDRN Newmont Corporation SAO br_market EQUITY
+APTV34.SA APTIV PLC   DRN Aptiv PLC SAO br_market EQUITY
+ORLY34.SA OREILLY AUT DRN O'Reilly Automotive, Inc. SAO br_market EQUITY
+I1DX34.SA IDEXX LABORADRN IDEXX Laboratories, Inc. SAO br_market EQUITY
+D1EX34.SA DEXCOM INC  DRN DexCom, Inc. SAO br_market EQUITY
+WGBA34.SA WALGREENS   DRN Walgreens Boots Alliance, Inc. SAO br_market EQUITY
+M1SC34.SA MSCI INC    DRN MSCI Inc. SAO br_market EQUITY
+L1UL34.SA LULULEMON ATDRN Lululemon Athletica Inc. SAO br_market EQUITY
+STZB34.SA CONSTELLATIODRN Constellation Brands, Inc. SAO br_market EQUITY
+CTSH34.SA COGNIZANT   DRN Cognizant Technology Solutions Corporation SAO br_market EQUITY
+D1LR34.SA DIGITAL REALDRN Digital Realty Trust, Inc. SAO br_market EQUITY
+W1BK34.SA WESTPAC BANKDRN Westpac Banking Corporation SAO br_market EQUITY
+KHCB34.SA KRAFT HEINZ DRN The Kraft Heinz Company SAO br_market EQUITY
+A1EP34.SA AMERICAN ELEDRN American Electric Power Company, Inc. SAO br_market EQUITY
+C1RR34.SA CARRIER GLOBDRN ED Carrier Global Corporation SAO br_market EQUITY
+C1MG34.SA CHIPOTLE MEXDRN Chipotle Mexican Grill, Inc. SAO br_market EQUITY
+D1DG34.SA DATADOG INC DRN Datadog, Inc. SAO br_market EQUITY
+D1EL34.SA DELL TECHNOLDRN Dell Technologies Inc. SAO br_market EQUITY
+T1RO34.SA T ROWE PRICEDRN T. Rowe Price Group, Inc. SAO br_market EQUITY
+M1PC34.SA MARATHON PETDRN Marathon Petroleum Corporation SAO br_market EQUITY
+M1SI34.SA MOTOROLA SOLDRN Motorola Solutions, Inc. SAO br_market EQUITY
+D1OW34.SA DOW INC     DRN Dow Inc. SAO br_market EQUITY
+G1PI34.SA GLOBAL PAYMEDRN Global Payments Inc. SAO br_market EQUITY
+B1AX34.SA BAXTER INTERDRN Baxter International Inc. SAO br_market EQUITY
+B1CS34.SA BARCLAYS PLCDRN Barclays PLC SAO br_market EQUITY
+AZOI34.SA AUTOZONE INCDRN AutoZone, Inc. SAO br_market EQUITY
+R1SG34.SA REPUBLIC SERDRN ED Republic Services, Inc. SAO br_market EQUITY
+S1IV34.SA SVB FINANCIADRN SVB Financial Group SAO br_market EQUITY
+C1TA34.SA CINTAS CORP DRN Cintas Corporation SAO br_market EQUITY
+A1LG34.SA ALIGN TECHNODRN Align Technology, Inc. SAO br_market EQUITY
+DDNB34.SA DUPONT N INCDRN DuPont de Nemours, Inc. SAO br_market EQUITY
+S1PO34.SA SPOTIFY TECHDRN Spotify Technology S.A. SAO br_market EQUITY
+HPQB34.SA HP COMPANY  DRN HP Inc. SAO br_market EQUITY
+EBAY34.SA EBAY        DRN eBay Inc. SAO br_market EQUITY
+P1HC34.SA PARKER-HANNIDRN Parker-Hannifin Corporation SAO br_market EQUITY
+G1MI34.SA GENERAL MILLDRN General Mills, Inc. SAO br_market EQUITY
+A1FL34.SA AFLAC INC   DRN Aflac Incorporated SAO br_market EQUITY
+T1WL34.SA TWILIO INC  DRN Twilio Inc. SAO br_market EQUITY
+S1YY34.SA SYSCO CORP  DRN Sysco Corporation SAO br_market EQUITY
+P1PG34.SA PPG INDUSTRIDRN PPG Industries, Inc. SAO br_market EQUITY
+S1BA34.SA SBA COMMUNICDRN SBA Communications Corporation SAO br_market EQUITY
+R1IN34.SA REALTY INCOMDRN ED Realty Income Corporation SAO br_market EQUITY
+HSHY34.SA HERSHEY CO  DRN The Hershey Company SAO br_market EQUITY
+ABEV3.SA AMBEV S/A   ON Ambev S.A. SAO br_market EQUITY
+A1NE34.SA ARISTA NETWODRN Arista Networks, Inc. SAO br_market EQUITY
+KMIC34.SA KINDER MORGADRN Kinder Morgan Kansas, Inc. SAO br_market EQUITY
+A1DM34.SA ARCHER DANIEDRN Archer-Daniels-Midland Company SAO br_market EQUITY
+O1DF34.SA OLD DOMINIONDRN Old Dominion Freight Line, Inc. SAO br_market EQUITY
+M1CK34.SA MCKESSON CORDRN McKesson Corporation SAO br_market EQUITY
+W1EL34.SA WELLTOWER INDRN Welltower Inc. SAO br_market EQUITY
+T2TD34.SA TRADE DESK  DRN The Trade Desk, Inc. SAO br_market EQUITY
+MSBR34.SA MORGAN STAN DRN Morgan Stanley SAO br_market EQUITY
+EAIN34.SA ELECTR ARTS DRN Electronic Arts Inc. SAO br_market EQUITY
+M1TC34.SA MATCH GROUP DRN Match Group, Inc. SAO br_market EQUITY
+X1EL34.SA XCEL ENERGY DRN Xcel Energy Inc. SAO br_market EQUITY
+ROST34.SA ROSS STORES DRN Ross Stores, Inc. SAO br_market EQUITY
+M1TD34.SA METTLER-TOLEDRN Mettler-Toledo International Inc. SAO br_market EQUITY
+V2EE34.SA VEEVASYSTEMSDRN Veeva Systems Inc. SAO br_market EQUITY
+O1TI34.SA OTIS WORLDWIDRN Otis Worldwide Corporation SAO br_market EQUITY
+K1SG34.SA KEYSIGHT TECDRN Keysight Technologies, Inc. SAO br_market EQUITY
+ITUB4.SA ITAUUNIBANCOPN  EJ  N1 Itaú Unibanco Holding S.A. SAO br_market EQUITY
+T1DG34.SA TRANSDIGM GRDRN TransDigm Group Incorporated SAO br_market EQUITY
+I1CE34.SA INTERCONTINEDRN Intercontinental Exchange, Inc. SAO br_market EQUITY
+ITUB3.SA ITAUUNIBANCOON  EJ  N1 Itaú Unibanco Holding S.A. SAO br_market EQUITY
+P1SX34.SA PHILLIPS 66 DRN Phillips 66 SAO br_market EQUITY
+V1RS34.SA VERISK ANALYDRN Verisk Analytics, Inc. SAO br_market EQUITY
+C1BR34.SA CBRE GROUP IDRN CBRE Group, Inc. SAO br_market EQUITY
+A1MP34.SA AMERIPRISE FDRN Ameriprise Financial, Inc. SAO br_market EQUITY
+C1TV34.SA CORTEVA INC DRN Corteva, Inc. SAO br_market EQUITY
+U2ST34.SA UNITY SOFTWRDRN Unity Software Inc. SAO br_market EQUITY
+FASL34.SA FASTENAL    DRN Fastenal Company SAO br_market EQUITY
+A1VB34.SA AVALONBAY CODRN ED AvalonBay Communities, Inc. SAO br_market EQUITY
+B1FC34.SA BROWN FORMANDRN Brown-Forman Corporation SAO br_market EQUITY
+BIIB34.SA BIOGEN      DRN Biogen Inc. SAO br_market EQUITY
+W1MB34.SA WILLIAMS COSDRN The Williams Companies, Inc. SAO br_market EQUITY
+D1HI34.SA DR HORTON INDRN D.R. Horton, Inc. SAO br_market EQUITY
+A1RE34.SA ALEXANDRIA RDRN ED Alexandria Real Estate Equities, Inc. SAO br_market EQUITY
+E1QR34.SA EQUITY RESIDDRN ED Equity Residential SAO br_market EQUITY
+P2LT34.SA PALANTIRTECHDRN Palantir Technologies Inc. SAO br_market EQUITY
+VLOE34.SA VALERO ENER DRN Valero Energy Corporation SAO br_market EQUITY
+D1VN34.SA DEVON ENERGYDRN Devon Energy Corporation SAO br_market EQUITY
+TSNF34.SA TYSON FOODS DRN Tyson Foods, Inc. SAO br_market EQUITY
+G1LW34.SA CORNING INC DRN Corning Incorporated SAO br_market EQUITY
+N1UE34.SA NUCOR CORP  DRN ED Nucor Corporation SAO br_market EQUITY
+L1YB34.SA LYONDELLBASEDRN LyondellBasell Industries N.V. SAO br_market EQUITY
+N1DA34.SA NASDAQ INC  DRN Nasdaq, Inc. SAO br_market EQUITY
+A1WK34.SA AMERICAN WATDRN American Water Works Company, Inc. SAO br_market EQUITY
+TWTR34.SA TWITTER     DRN Twitter, Inc. SAO br_market EQUITY
+DLTR34.SA DOLLAR TREE DRN Dollar Tree, Inc. SAO br_market EQUITY
+O1KT34.SA OKTA INC    DRN Okta, Inc. SAO br_market EQUITY
+A1NS34.SA ANSYS INC   DRN ANSYS, Inc. SAO br_market EQUITY
+BBDC4.SA BRADESCO    PN  EDJ N1 Banco Bradesco S.A. SAO br_market EQUITY
+BBDC3.SA BRADESCO    ON  EDJ N1 Banco Bradesco S.A. SAO br_market EQUITY
+OXYP34.SA OCCIDENT PTRDRN Occidental Petroleum Corporation SAO br_market EQUITY
+W1YC34.SA WEYERHAEUSERDRN Weyerhaeuser Company SAO br_market EQUITY
+B1LL34.SA BALL CORP   DRN Ball Corporation SAO br_market EQUITY
+Z1BR34.SA ZEBRA TECHNODRN Zebra Technologies Corporation SAO br_market EQUITY
+L1VS34.SA LAS VEGAS SADRN Las Vegas Sands Corp. SAO br_market EQUITY
+E1XR34.SA EXTRA SPACE DRN Extra Space Storage Inc. SAO br_market EQUITY
+M1DB34.SA MONGODB INC DRN MongoDB, Inc. SAO br_market EQUITY
+CTGP34.SA CITIGROUP   DRN Citigroup Inc. SAO br_market EQUITY
+C1GP34.SA COSTAR GROUPDRN CoStar Group, Inc. SAO br_market EQUITY
+C1DW34.SA CDW CORP    DRN CDW Corporation SAO br_market EQUITY
+A1MB34.SA AMERISOURCEBDRN AmerisourceBergen Corporation SAO br_market EQUITY
+O1KE34.SA ONEOK INC   DRN ONEOK, Inc. SAO br_market EQUITY
+LBRD34.SA LIBERTY BROADRN Liberty Broadband Corporation SAO br_market EQUITY
+V1MC34.SA VULCAN MATERDRN Vulcan Materials Company SAO br_market EQUITY
+S1OU34.SA SOUTHWEST AIDRN Southwest Airlines Co. SAO br_market EQUITY
+A1LB34.SA ALBEMARLE CODRN Albemarle Corporation SAO br_market EQUITY
+VRSN34.SA VERISIGN INCDRN VeriSign, Inc. SAO br_market EQUITY
+S1GE34.SA SEAGEN      DRN Seagen Inc. SAO br_market EQUITY
+L1CA34.SA LABORATORY CDRN Laboratory Corporation of America Holdings SAO br_market EQUITY
+H1RL34.SA HORMEL FOODSDRN Hormel Foods Corporation SAO br_market EQUITY
+D1OC34.SA DOCUSIGN INCDRN DocuSign, Inc. SAO br_market EQUITY
+L1YV34.SA LIVE NATION DRN Live Nation Entertainment, Inc. SAO br_market EQUITY
+DEAI34.SA DELTA       DRN Delta Air Lines, Inc. SAO br_market EQUITY
+T1SC34.SA TRACTOR SUPPDRN Tractor Supply Company SAO br_market EQUITY
+S1YF34.SA SYNCHRONY FIDRN Synchrony Financial SAO br_market EQUITY
+D1OV34.SA DOVER CORP  DRN Dover Corporation SAO br_market EQUITY
+CRIP34.SA CTRIPCOM    DRN Trip.com Group Limited SAO br_market EQUITY
+F1TV34.SA FORTIVE CORPDRN Fortive Corporation SAO br_market EQUITY
+S1TX34.SA SEAGATE HOLDDRN ED Seagate Technology Holdings plc SAO br_market EQUITY
+C1CL34.SA CARNIVAL CORDRN Carnival Corporation & plc SAO br_market EQUITY
+M1AA34.SA MID-AMERICA DRN Mid-America Apartment Communities, Inc. SAO br_market EQUITY
+BBYY34.SA BEST BUY    DRN Best Buy Co., Inc. SAO br_market EQUITY
+G1AR34.SA GARTNER INC DRN Gartner, Inc. SAO br_market EQUITY
+FMXB34.SA FEMSA       DRN Fomento Económico Mexicano, S.A.B. de C.V. SAO br_market EQUITY
+H2UB34.SA HUBSPOT INC DRN HubSpot, Inc. SAO br_market EQUITY
+SANB11.SA SANTANDER BRUNT Banco Santander (Brasil) S.A. SAO br_market EQUITY
+B1GN34.SA BEIGENE LTD DRN BeiGene, Ltd. SAO br_market EQUITY
+R1KU34.SA ROKU INC    DRN Roku, Inc. SAO br_market EQUITY
+D1RE34.SA DUKE REALTY DRN Duke Realty Corporation SAO br_market EQUITY
+S1TE34.SA STERIS PLC  DRN STERIS Corporation SAO br_market EQUITY
+U1RI34.SA UNITED RENTADRN United Rentals, Inc. SAO br_market EQUITY
+E2TS34.SA ETSY INC    DRN Etsy, Inc. SAO br_market EQUITY
+HALI34.SA HALLIBURTON DRN Halliburton Company SAO br_market EQUITY
+C1BS34.SA VIACOMCBS   DRN ViacomCBS Inc. SAO br_market EQUITY
+NOKI34.SA NOKIA CORP  DRN Nokia Corporation SAO br_market EQUITY
+F1AN34.SA DIAMONDBACK DRN Diamondback Energy, Inc. SAO br_market EQUITY
+T1LK34.SA PT TELEKOMUNDRN Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk SAO br_market EQUITY
+M1TB34.SA MT BANK COR DRN M&T Bank Corporation SAO br_market EQUITY
+S2UI34.SA SUN COMMUN  DRN ED Sun Communities, Inc. SAO br_market EQUITY
+K1EL34.SA KELLOGG CO  DRN Kellogg Company SAO br_market EQUITY
+B1KR34.SA BAKER HUGHESDRN Baker Hughes Company SAO br_market EQUITY
+KLBN11.SA KLABIN S/A  UNT     N2 Klabin S.A. SAO br_market EQUITY
+E1SS34.SA ESSEX PROPERDRN ED Essex Property Trust, Inc. SAO br_market EQUITY
+H1ZN34.SA HORIZON THERDRN Horizon Therapeutics Public Limited Company SAO br_market EQUITY
+R1JF34.SA RAYMOND JAMEDRN ED Raymond James Financial, Inc. SAO br_market EQUITY
+H1PE34.SA HEWLETT PACKDRN Hewlett Packard Enterprise Company SAO br_market EQUITY
+FOXC34.SA FOX CORP    DRN Fox Corporation SAO br_market EQUITY
+U1LT34.SA ULTA BEAUTY DRN Ulta Beauty, Inc. SAO br_market EQUITY
+WEGE3.SA WEG         ON      NM WEG S.A. SAO br_market EQUITY
+P2AT34.SA UIPATH INC  DRN UiPath Inc. SAO br_market EQUITY
+P2IN34.SA PINTERESTINCDRN Pinterest, Inc. SAO br_market EQUITY
+V1TA34.SA VENTAS INC  DRN ED Ventas, Inc. SAO br_market EQUITY
+N1TA34.SA NETAPP INC  DRN NetApp, Inc. SAO br_market EQUITY
+W1MG34.SA WARNER MUSICDRN Warner Music Group Corp. SAO br_market EQUITY
+M1GM34.SA MGM RESORTS DRN MGM Resorts International SAO br_market EQUITY
+R1CL34.SA ROYAL CARIBBDRN Royal Caribbean Cruises Ltd. SAO br_market EQUITY
+SANB4.SA SANTANDER BRPN Banco Santander (Brasil) S.A. SAO br_market EQUITY
+W1DC34.SA WESTERN DIG DRN Western Digital Corporation SAO br_market EQUITY
+SANB3.SA SANTANDER BRON Banco Santander (Brasil) S.A. SAO br_market EQUITY
+N1VR34.SA NVR INC     DRN NVR, Inc. SAO br_market EQUITY
+FLTC34.SA FLEETCOR TECDRN FLEETCOR Technologies, Inc. SAO br_market EQUITY
+P1EA34.SA HEALTHPEAK PDRN Healthpeak Properties, Inc. SAO br_market EQUITY
+BOXP34.SA BOSTON PROP DRN ED Boston Properties, Inc. SAO br_market EQUITY
+T1TW34.SA TAKE-TWO INTDRN Take-Two Interactive Software, Inc. SAO br_market EQUITY
+I1PC34.SA INTERNATIONADRN International Paper Company SAO br_market EQUITY
+C1NS34.SA CELANESE CORDRN Celanese Corporation SAO br_market EQUITY
+BPAC5.SA BTGP BANCO  PNA EJ  N2 Banco BTG Pactual S.A. SAO br_market EQUITY
+A1CR34.SA AMCOR PLC   DRN Amcor plc SAO br_market EQUITY
+D2PZ34.SA DOMINOSPIZZADRN Domino's Pizza, Inc. SAO br_market EQUITY
+S1PL34.SA SPLUNK INC  DRN Splunk Inc. SAO br_market EQUITY
+A1KA34.SA AKAMAI TECHNDRN Akamai Technologies, Inc. SAO br_market EQUITY
+D1IS34.SA DISH NETWORKDRN DISH Network Corporation SAO br_market EQUITY
+A1LN34.SA ALNYLAM PHARDRN Alnylam Pharmaceuticals, Inc. SAO br_market EQUITY
+BPAC3.SA BTGP BANCO  ON  EJ  N2 Banco BTG Pactual S.A. SAO br_market EQUITY
+T1XT34.SA TEXTRON INC DRN Textron Inc. SAO br_market EQUITY
+C1OG34.SA COTERRA ENERDRN Coterra Energy Inc. SAO br_market EQUITY
+MKLC34.SA MARKEL CORP DRN Markel Corporation SAO br_market EQUITY
+Q1RV34.SA QORVO INC   DRN Qorvo, Inc. SAO br_market EQUITY
+O1MC34.SA OMNICOM GROUDRN Omnicom Group Inc. SAO br_market EQUITY
+A1BM34.SA ABIOMED INC DRN Abiomed, Inc. SAO br_market EQUITY
+B1MR34.SA BIOMARIN PHADRN BioMarin Pharmaceutical Inc. SAO br_market EQUITY
+B1BW34.SA BATHBODY    DRN Bath & Body Works, Inc. SAO br_market EQUITY
+A1ES34.SA AES CORP    DRN The AES Corporation SAO br_market EQUITY
+XPBR31.SA XP INC      DR1 XP Inc. SAO br_market EQUITY
+C1HK34.SA CHECK POINT DRN Check Point Software Technologies Ltd. SAO br_market EQUITY
+U1AL34.SA UNITED AIRLIDRN United Airlines Holdings, Inc. SAO br_market EQUITY
+K1IM34.SA KIMCO REALTYDRN Kimco Realty Corporation SAO br_market EQUITY
+C1FI34.SA CF INDUSTRIEDRN CF Industries Holdings, Inc. SAO br_market EQUITY
+L1BT34.SA LIBERTY GLOBDRN Liberty Global plc SAO br_market EQUITY
+DCVY34.SA DISCOVERY INDRN A Discovery, Inc. SAO br_market EQUITY
+DCVY35.SA DISCOVERY INDRN C Discovery, Inc. SAO br_market EQUITY
+A1AP34.SA ADVANCE AUTODRN Advance Auto Parts, Inc. SAO br_market EQUITY
+C1AH34.SA CARDINAL HEADRN ED Cardinal Health, Inc. SAO br_market EQUITY
+JBSS3.SA JBS         ON      NM JBS S.A. SAO br_market EQUITY
+MOSC34.SA MOSAIC CO   DRN The Mosaic Company SAO br_market EQUITY
+Z2LL34.SA ZILLOW GROUPDRN Zillow Group, Inc. SAO br_market EQUITY
+C1HR34.SA CH ROBINSON DRN C.H. Robinson Worldwide, Inc. SAO br_market EQUITY
+ITSA4.SA ITAUSA      PN  EB  N1 Itaúsa - Investimentos Itaú SA SAO br_market EQUITY
+BBAS3.SA BRASIL      ON      NM Banco do Brasil S.A. SAO br_market EQUITY
+ITSA3.SA ITAUSA      ON  EB  N1 Itaúsa - Investimentos Itaú SA SAO br_market EQUITY
+M1KT34.SA MARKETAXESS DRN MarketAxess Holdings Inc. SAO br_market EQUITY
+A1TM34.SA ATMOS ENERGYDRN Atmos Energy Corporation SAO br_market EQUITY
+RDOR3.SA REDE D OR   ON      NM Rede D'Or São Luiz S.A. SAO br_market EQUITY
+M1RO34.SA MARATHON OILDRN Marathon Oil Corporation SAO br_market EQUITY
+F1FI34.SA F5 INC      DRN F5, Inc. SAO br_market EQUITY
+H1AS34.SA HASBRO INC  DRN Hasbro, Inc. SAO br_market EQUITY
+L1MN34.SA LUMEN TECH  DRN Lumen Technologies, Inc. SAO br_market EQUITY
+SUZB3.SA SUZANO S.A. ON      NM Suzano S.A. SAO br_market EQUITY
+M2PW34.SA MEDICAL P TRDRN Medical Properties Trust, Inc. SAO br_market EQUITY
+G2DD34.SA GODADDY INC DRN GoDaddy Inc. SAO br_market EQUITY
+VIVT3.SA TELEF BRASILON  EDJ Telefônica Brasil S.A. SAO br_market EQUITY
+F1MC34.SA FMC CORP    DRN ED FMC Corporation SAO br_market EQUITY
+A1OS34.SA AO SMITH CORDRN A. O. Smith Corporation SAO br_market EQUITY
+I1RM34.SA IRON MOUNTAIDRN Iron Mountain Incorporated SAO br_market EQUITY
+N1WS35.SA NEWS CORP   DRN News Corporation SAO br_market EQUITY
+P1HM34.SA PULTEGROUP IDRN PulteGroup, Inc. SAO br_market EQUITY
+T2DH34.SA TELADOCHEALTDRN Teladoc Health, Inc. SAO br_market EQUITY
+C1BO34.SA CBOE GLOBAL DRN Cboe Global Markets, Inc. SAO br_market EQUITY
+H1ST34.SA HOST HOTELS DRN Host Hotels & Resorts, Inc. SAO br_market EQUITY
+R1EG34.SA REGENCY CENTDRN Regency Centers Corporation SAO br_market EQUITY
+L1DO34.SA LEIDOS HOLDIDRN Leidos Holdings, Inc. SAO br_market EQUITY
+M1HK34.SA MOHAWK INDUSDRN Mohawk Industries, Inc. SAO br_market EQUITY
+Z2EN34.SA ZENDESK INC DRN Zendesk, Inc. SAO br_market EQUITY
+C1MA34.SA COMERICA INCDRN Comerica Incorporated SAO br_market EQUITY
+AALL34.SA AMERICAN AIRDRN American Airlines Group Inc. SAO br_market EQUITY
+C1TX34.SA CITRIX SYSTEDRN Citrix Systems, Inc. SAO br_market EQUITY
+B3SA3.SA B3          ON  EDJ NM B3 S.A. - Brasil, Bolsa, Balcão SAO br_market EQUITY
+B1WA34.SA BORGWARNER IDRN BorgWarner Inc. SAO br_market EQUITY
+S1NA34.SA SNAP-ON INC DRN Snap-on Incorporated SAO br_market EQUITY
+A2MC34.SA AMC ENTERT HDRN AMC Entertainment Holdings, Inc. SAO br_market EQUITY
+W1SO34.SA WATSCO INC  DRN Watsco, Inc. SAO br_market EQUITY
+C2ON34.SA CYRUSONE INCDRN ED CyrusOne Inc. SAO br_market EQUITY
+J1NP34.SA JUNIPER NETWDRN Juniper Networks, Inc. SAO br_market EQUITY
+DVAI34.SA DAVITA INC  DRN DaVita Inc. SAO br_market EQUITY
+TPRY34.SA TAPESTRY INCDRN Tapestry, Inc. SAO br_market EQUITY
+D2KN34.SA DRAFTKINGS  DRN DraftKings Inc. SAO br_market EQUITY
+BPAC11.SA BTGP BANCO  UNT EJ  N2 Banco BTG Pactual S.A. SAO br_market EQUITY
+M1CB34.SA MOLSON COORSDRN Molson Coors Beverage Company SAO br_market EQUITY
+Z1IO34.SA ZIONSBANCORPDRN Zions Bancorporation, National Association SAO br_market EQUITY
+A1PA34.SA APA CORP    DRN APA Corporation SAO br_market EQUITY
+C1OU34.SA COUPA SOFTWADRN Coupa Software Incorporated SAO br_market EQUITY
+P2CO34.SA PROCORE TECHDRN Procore Technologies, Inc. SAO br_market EQUITY
+F1RI34.SA FEDERAL REALDRN ED Federal Realty Investment Trust SAO br_market EQUITY
+C1AB34.SA CABLE ONE INDRN Cable One, Inc. SAO br_market EQUITY
+N1RG34.SA NRG ENERGY IDRN NRG Energy, Inc. SAO br_market EQUITY
+S1EA34.SA SEALED AIR CDRN Sealed Air Corporation SAO br_market EQUITY
+CAPH34.SA CAPRI HOLDI DRN Capri Holdings Limited SAO br_market EQUITY
+S2TO34.SA STORECAPITALDRN ED STORE Capital Corporation SAO br_market EQUITY
+B1SA34.SA BANCO SANTANDRN Banco Santander-Chile SAO br_market EQUITY
+N1CL34.SA NORWEGIAN CRDRN Norwegian Cruise Line Holdings Ltd. SAO br_market EQUITY
+CRDA34.SA CREDIT ACCEPDRN Credit Acceptance Corporation SAO br_market EQUITY
+T2PX34.SA TEMPUR SEALYDRN Tempur Sealy International, Inc. SAO br_market EQUITY
+C2HD34.SA CHURCHILL DWDRN Churchill Downs Incorporated SAO br_market EQUITY
+FSLR34.SA FIRST SOLAR DRN First Solar, Inc. SAO br_market EQUITY
+V1NO34.SA VORNADO REALDRN Vornado Realty Trust SAO br_market EQUITY
+U1AI34.SA UNDER ARMOURDRN Under Armour, Inc. SAO br_market EQUITY
+ELET6.SA ELETROBRAS  PNB     N1 Centrais Elétricas Brasileiras S.A. - Eletrobrás SAO br_market EQUITY
+W1IX34.SA WIX.COM LTD DRN Wix.com Ltd. SAO br_market EQUITY
+A1IV34.SA APARTMENT INDRN Apartment Investment and Management Company SAO br_market EQUITY
+ELET3.SA ELETROBRAS  ON      N1 Centrais Elétricas Brasileiras S.A. - Eletrobrás SAO br_market EQUITY
+COTY34.SA COTY INC    DRN Coty Inc. SAO br_market EQUITY
+PAGS34.SA PAGSEGURO   DRN PagSeguro Digital Ltd. SAO br_market EQUITY
+P1NW34.SA PINNACLE WESDRN Pinnacle West Capital Corporation SAO br_market EQUITY
+MACY34.SA MACY S      DRN Macy's, Inc. SAO br_market EQUITY
+G1FI34.SA GOLD FIELDS DRN Gold Fields Limited SAO br_market EQUITY
+GGBR3.SA GERDAU      ON      N1 Gerdau S.A. SAO br_market EQUITY
+H1II34.SA HUNTINGTON IDRN Huntington Ingalls Industries, Inc. SAO br_market EQUITY
+GGBR4.SA GERDAU      PN      N1 Gerdau S.A. SAO br_market EQUITY
+WUNI34.SA WESTERNUNIONDRN The Western Union Company SAO br_market EQUITY
+P2LN34.SA PLANETFITNESDRN Planet Fitness, Inc. SAO br_market EQUITY
+S1RP34.SA SAREPTA THERDRN Sarepta Therapeutics, Inc. SAO br_market EQUITY
+N1LS34.SA NIELSEN HOLDDRN Nielsen Holdings plc SAO br_market EQUITY
+N1BI34.SA NEUROCRINE BDRN Neurocrine Biosciences, Inc. SAO br_market EQUITY
+BRKM5.SA BRASKEM     PNA     N1 Braskem S.A. SAO br_market EQUITY
+BRKM3.SA BRASKEM     ON      N1 Braskem S.A. SAO br_market EQUITY
+MGLU3.SA MAGAZ LUIZA ON      NM Magazine Luiza S.A. SAO br_market EQUITY
+TXSA34.SA TERNIUMSA   DRN Ternium S.A. SAO br_market EQUITY
+GPSI34.SA GAP         DRN The Gap, Inc. SAO br_market EQUITY
+BBSE3.SA BBSEGURIDADEON      NM BB Seguridade Participações S.A. SAO br_market EQUITY
+USSX34.SA US STEEL    DRN United States Steel Corporation SAO br_market EQUITY
+T1SS34.SA TENARIS SA  DRN Tenaris S.A. SAO br_market EQUITY
+CMIN3.SA CSNMINERACAOON  EJ  N2 CSN Mineração S.A. SAO br_market EQUITY
+HAPV3.SA HAPVIDA     ON  EJ  NM Hapvida Participações e Investimentos S.A. SAO br_market EQUITY
+K1SS34.SA KOHLS CORP  DRN Kohl's Corporation SAO br_market EQUITY
+TAEE11.SA TAESA       UNT     N2 Transmissora Aliança de Energia Elétrica S.A. SAO br_market EQUITY
+RENT3.SA LOCALIZA    ON      NM Localiza Rent a Car S.A. SAO br_market EQUITY
+CSAN3.SA COSAN       ON      NM Cosan S.A. SAO br_market EQUITY
+GNDI3.SA INTERMEDICA ON      NM Notre Dame Intermédica Participações S.A. SAO br_market EQUITY
+RADL3.SA RAIADROGASILON      NM Raia Drogasil S.A. SAO br_market EQUITY
+H1OG34.SA HARLEY-DAVIDDRN Harley-Davidson, Inc. SAO br_market EQUITY
+H1BI34.SA HANESBRANDS DRN Hanesbrands Inc. SAO br_market EQUITY
+CSNA3.SA SID NACIONALON Companhia Siderúrgica Nacional SAO br_market EQUITY
+U1NM34.SA UNUM GROUP  DRN Unum Group SAO br_market EQUITY
+L1EG34.SA LEGGETT PL  DRN Leggett & Platt, Incorporated SAO br_market EQUITY
+H1FC34.SA HOLLYFRONTIEDRN HollyFrontier Corporation SAO br_market EQUITY
+EGIE3.SA ENGIE BRASILON  EJ  NM Engie Brasil Energia S.A. SAO br_market EQUITY
+NTCO3.SA GRUPO NATURAON      NM Natura &Co Holding S.A. SAO br_market EQUITY
+S1LG34.SA SL GREEN READRN SL Green Realty Corp. SAO br_market EQUITY
+TIMS3.SA TIM         ON  EJ  NM TIM S.A. SAO br_market EQUITY
+RAIL3.SA RUMO S.A.   ON      NM Rumo S.A. SAO br_market EQUITY
+CPFE3.SA CPFL ENERGIAON      NM CPFL Energia S.A. SAO br_market EQUITY
+KLBN3.SA KLABIN S/A  ON      N2 Klabin S.A. SAO br_market EQUITY
+KLBN4.SA KLABIN S/A  PN      N2 Klabin S.A. SAO br_market EQUITY
+STOC31.SA STONE CO    DR1 StoneCo Ltd. SAO br_market EQUITY
+CRFB3.SA CARREFOUR BRON      NM Atacadão S.A. SAO br_market EQUITY
+THGI34.SA HANOVER INSUDRN ED The Hanover Insurance Group, Inc. SAO br_market EQUITY
+AMER3.SA AMERICANAS  ON      NM Americanas S.A. SAO br_market EQUITY
+B2YN34.SA BEYOND MEAT DRN Beyond Meat, Inc. SAO br_market EQUITY
+SBSP3.SA SABESP      ON      NM Companhia de Saneamento Básico do Estado de São Paulo - SABESP SAO br_market EQUITY
+H1RB34.SA HER BLOCK INDRN H&R Block, Inc. SAO br_market EQUITY
+CXSE3.SA CAIXA SEGURION      NM Caixa Seguridade Participações S.A. SAO br_market EQUITY
+CMIG3.SA CEMIG       ON  EJ  N1 Companhia Energética de Minas Gerais SAO br_market EQUITY
+A1YX34.SA ALTERYX INC DRN Alteryx, Inc. SAO br_market EQUITY
+CMIG4.SA CEMIG       PN  EJ  N1 Companhia Energética de Minas Gerais SAO br_market EQUITY
+CCRO3.SA CCR SA      ON      NM CCR S.A. SAO br_market EQUITY
+BIDI4.SA BANCO INTER PN      N2 Banco Inter S.A. SAO br_market EQUITY
+LREN3.SA LOJAS RENNERON  EJ  NM Lojas Renner S.A. SAO br_market EQUITY
+T1RI34.SA TRIPADVISOR DRN TripAdvisor, Inc. SAO br_market EQUITY
+S2QS34.SA SQUARESPACE DRN Squarespace, Inc. SAO br_market EQUITY
+F1SL34.SA FASTLY INC  DRN Fastly, Inc. SAO br_market EQUITY
+VBBR3.SA VIBRA       ON      NM Vibra Energia S.A. SAO br_market EQUITY
+J1WN34.SA NORDSTROM INDRN Nordstrom, Inc. SAO br_market EQUITY
+EQTL3.SA EQUATORIAL  ON      NM Equatorial Energia S.A. SAO br_market EQUITY
+R2DF34.SA REDFIN CORP DRN Redfin Corporation SAO br_market EQUITY
+F2VR34.SA FIVERR INTL DRN Fiverr International Ltd. SAO br_market EQUITY
+A1LL34.SA ALLIANCE DATDRN Alliance Data Systems Corporation SAO br_market EQUITY
+BRFS3.SA BRF SA      ON      NM BRF S.A. SAO br_market EQUITY
+CGAS5.SA COMGAS      PNA Companhia de Gás de São Paulo - COMGÁS SAO br_market EQUITY
+CGAS3.SA COMGAS      ON Companhia de Gás de São Paulo - COMGÁS SAO br_market EQUITY
+NEOE3.SA NEOENERGIA  ON      NM Neoenergia S.A. SAO br_market EQUITY
+EMBR3.SA EMBRAER     ON      NM Embraer S.A. SAO br_market EQUITY
+ALPA3.SA ALPARGATAS  ON  EJ  N1 Alpargatas S.A. SAO br_market EQUITY
+ALPA4.SA ALPARGATAS  PN  EJ  N1 Alpargatas S.A. SAO br_market EQUITY
+ENMT3.SA ENERGISA MT ON Energisa Mato Grosso - Distribuidora de Energia S/A SAO br_market EQUITY
+T1EC34.SA TECHNIPFMC PDRN TechnipFMC plc SAO br_market EQUITY
+USIM5.SA USIMINAS    PNA     N1 Usinas Siderúrgicas de Minas Gerais S.A. SAO br_market EQUITY
+USIM3.SA USIMINAS    ON      N1 Usinas Siderúrgicas de Minas Gerais S.A. SAO br_market EQUITY
+TRPL4.SA TRAN PAULISTPN  EJ  N1 CTEEP - Companhia de Transmissão de Energia Elétrica Paulista S.A. SAO br_market EQUITY
+TRPL3.SA TRAN PAULISTON  EJ  N1 CTEEP - Companhia de Transmissão de Energia Elétrica Paulista S.A. SAO br_market EQUITY
+HYPE3.SA HYPERA      ON  EJ  NM Hypera S.A. SAO br_market EQUITY
+PRIO3.SA PETRORIO    ON      NM Petro Rio S.A. SAO br_market EQUITY
+ENGI4.SA ENERGISA    PN  ED  N2 Energisa S.A. SAO br_market EQUITY
+ENGI3.SA ENERGISA    ON  ED  N2 Energisa S.A. SAO br_market EQUITY
+CPLE3.SA COPEL       ON  EJ  N2 Companhia Paranaense de Energia - COPEL SAO br_market EQUITY
+CPLE5.SA COPEL       PNA EJ  N2 Companhia Paranaense de Energia - COPEL SAO br_market EQUITY
+CPLE6.SA COPEL       PNB EJ  N2 Companhia Paranaense de Energia - COPEL SAO br_market EQUITY
+DASA3.SA DASA        ON  EJ  NM Diagnósticos da América S.A. SAO br_market EQUITY
+ASAI3.SA ASSAI       ON      NM Sendas Distribuidora S.A. SAO br_market EQUITY
+TOTS3.SA TOTVS       ON  EJ  NM TOTVS S.A. SAO br_market EQUITY
+ENEV3.SA ENEVA       ON      NM Eneva S.A. SAO br_market EQUITY
+LSXM34.SA LIBERTY MEDIDRN Liberty Media Corporation SAO br_market EQUITY
+ALUP11.SA ALUPAR      UNT     N2 Alupar Investimento S.A. SAO br_market EQUITY
+REDE3.SA REDE ENERGIAON Rede Energia Participações S.A. SAO br_market EQUITY
+MRFG3.SA MARFRIG     ON  ED  NM Marfrig Global Foods S.A. SAO br_market EQUITY
+UGPA3.SA ULTRAPAR    ON      NM Ultrapar Participações S.A. SAO br_market EQUITY
+GMAT3.SA GRUPO MATEUSON      NM Grupo Mateus S.A. SAO br_market EQUITY
+TAEE4.SA TAESA       PN      N2 Transmissora Aliança de Energia Elétrica S.A. SAO br_market EQUITY
+TAEE3.SA TAESA       ON      N2 Transmissora Aliança de Energia Elétrica S.A. SAO br_market EQUITY
+PSSA3.SA PORTO SEGUROON      NM Porto Seguro S.A. SAO br_market EQUITY
+RIGG34.SA TRANSOCEAN  DRN Transocean Ltd. SAO br_market EQUITY
+GOAU4.SA GERDAU MET  PN      N1 Metalurgica Gerdau S.A. SAO br_market EQUITY
+GOAU3.SA GERDAU MET  ON      N1 Metalurgica Gerdau S.A. SAO br_market EQUITY
+BIDI3.SA BANCO INTER ON      N2 Banco Inter S.A. SAO br_market EQUITY
+SMTO3.SA SAO MARTINHOON      NM São Martinho S.A. SAO br_market EQUITY
+ENGI11.SA ENERGISA    UNT ED  N2 Energisa S.A. SAO br_market EQUITY
+ENBR3.SA ENERGIAS BR ON      NM EDP - Energias do Brasil S.A. SAO br_market EQUITY
+LCAM3.SA LOCAMERICA  ON  EJ  NM Companhia de Locação das Américas SAO br_market EQUITY
+BPAN4.SA BANCO PAN   PN  EJ  N1 Banco Pan S.A. SAO br_market EQUITY
+EQPA3.SA EQTL PARA   ON Equatorial Pará Distribuidora de Energia S.A. SAO br_market EQUITY
+WHRL4.SA WHIRLPOOL   PN Whirlpool S.A. SAO br_market EQUITY
+WHRL3.SA WHIRLPOOL   ON Whirlpool S.A. SAO br_market EQUITY
+BSLI4.SA BRB BANCO   PN  ES BRB - Banco de Brasília S.A. SAO br_market EQUITY
+BSLI3.SA BRB BANCO   ON  ES BRB - Banco de Brasília S.A. SAO br_market EQUITY
+W1BO34.SA WEIBO CORP  DRN Weibo Corporation SAO br_market EQUITY
+DXCO3.SA DEXCO       ON      NM Dexco S.A. SAO br_market EQUITY
+BRAP3.SA BRADESPAR   ON      N1 Bradespar S.A. SAO br_market EQUITY
+BRAP4.SA BRADESPAR   PN      N1 Bradespar S.A. SAO br_market EQUITY
+SULA11.SA SUL AMERICA UNT     N2 Sul América S.A. SAO br_market EQUITY
+VAMO3.SA VAMOS       ON      NM Vamos Locação de Caminhões, Máquinas e Equipamentos S.A. SAO br_market EQUITY
+MULT3.SA MULTIPLAN   ON  EJ  N2 Multiplan Empreendimentos Imobiliários S.A. SAO br_market EQUITY
+LAME4.SA LOJAS AMERICPN      N1 Lojas Americanas S.A. SAO br_market EQUITY
+LAME3.SA LOJAS AMERICON      N1 Lojas Americanas S.A. SAO br_market EQUITY
+CEEB3.SA COELBA      ON Companhia de Eletricidade do Estado da Bahia - COELBA SAO br_market EQUITY
+GPRO34.SA GOPRO       DRN GoPro, Inc. SAO br_market EQUITY
+GGPS3.SA GPS         ON      NM GPS Participações e Empreendimentos S.A. SAO br_market EQUITY
+UNIP3.SA UNIPAR      ON  ED Unipar Carbocloro S.A. SAO br_market EQUITY
+UNIP5.SA UNIPAR      PNA ED Unipar Carbocloro S.A. SAO br_market EQUITY
+UNIP6.SA UNIPAR      PNB ED Unipar Carbocloro S.A. SAO br_market EQUITY
+SLCE3.SA SLC AGRICOLAON  EB  NM SLC Agrícola S.A. SAO br_market EQUITY
+SMFT3.SA SMART FIT   ON      NM Smartfit Escola de Ginástica e Dança S.A. SAO br_market EQUITY
+AZUL4.SA AZUL        PN      N2 Azul S.A. SAO br_market EQUITY
+SOMA3.SA GRUPO SOMA  ON      NM Grupo de Moda SOMA S.A. SAO br_market EQUITY
+A1SN34.SA ASCENDIS PHADRN Ascendis Pharma A/S SAO br_market EQUITY
+MDIA3.SA M.DIASBRANCOON      NM M. Dias Branco S.A. Indústria e Comércio de Alimentos SAO br_market EQUITY
+INTB3.SA INTELBRAS   ON      NM Intelbras S.A. - Indústria de Telecomunicação Eletrônica Brasileira SAO br_market EQUITY
+CBAV3.SA CBA         ON      NM Companhia Brasileira de Alumínio SAO br_market EQUITY
+SIMH3.SA SIMPAR      ON  EJ  NM SIMPAR S.A. SAO br_market EQUITY
+V1IP34.SA VIPSHOP HOLDDRN Vipshop Holdings Limited SAO br_market EQUITY
+GRND3.SA GRENDENE    ON      NM Grendene S.A. SAO br_market EQUITY
+ARML3.SA ARMAC       ON      NM Armac Locação, Logística e Serviços S.A. SAO br_market EQUITY
+ALUP4.SA ALUPAR      PN      N2 Alupar Investimento S.A. SAO br_market EQUITY
+ALUP3.SA ALUPAR      ON      N2 Alupar Investimento S.A. SAO br_market EQUITY
+RRRP3.SA 3R PETROLEUMON      NM 3R Petroleum Óleo e Gás S.A. SAO br_market EQUITY
+A1TH34.SA AUTOHOME INCDRN Autohome Inc. SAO br_market EQUITY
+ARZZ3.SA AREZZO CO   ON      NM Arezzo Indústria e Comércio S.A. SAO br_market EQUITY
+VIIA3.SA VIA         ON      NM Via S.A. SAO br_market EQUITY
+CESP5.SA CESP        PNA     N1 CESP - Companhia Energética de São Paulo SAO br_market EQUITY
+CESP6.SA CESP        PNB     N1 CESP - Companhia Energética de São Paulo SAO br_market EQUITY
+CESP3.SA CESP        ON      N1 CESP - Companhia Energética de São Paulo SAO br_market EQUITY
+PETZ3.SA PETZ        ON  EJ  NM Pet Center Comércio e Participações S.A. SAO br_market EQUITY
+GOLL4.SA GOL         PN      N2 Gol Linhas Aéreas Inteligentes S.A. SAO br_market EQUITY
+ODPV3.SA ODONTOPREV  ON      NM Odontoprev S.A. SAO br_market EQUITY
+BRML3.SA BR MALLS PARON      NM BR Malls Participações S.A. SAO br_market EQUITY
+BNBR3.SA NORD BRASIL ON Banco do Nordeste do Brasil S.A. SAO br_market EQUITY
+BEEF3.SA MINERVA     ON      NM Minerva S.A. SAO br_market EQUITY
+LWSA3.SA LOCAWEB     ON      NM Locaweb Serviços de Internet S.A. SAO br_market EQUITY
+EKTR4.SA ELEKTRO     PN Elektro Redes S.A. SAO br_market EQUITY
+EKTR3.SA ELEKTRO     ON Elektro Redes S.A. SAO br_market EQUITY
+YDUQ3.SA YDUQS PART  ON      NM Yduqs Participações S.A. SAO br_market EQUITY
+MLAS3.SA MULTILASER  ON      NM Multilaser Industrial S.A. SAO br_market EQUITY
+BLAU3.SA BLAU        ON      NM Blau Farmacêutica S.A. SAO br_market EQUITY
+EQMA3B.SA EQUATORIAL DISTRIB Equatorial Maranhão Distribuidora de Energia S.A. SAO br_market EQUITY
+CIEL3.SA CIELO       ON  EJ  NM Cielo S.A. SAO br_market EQUITY
+CYRE3.SA CYRELA REALTON      NM Cyrela Brazil Realty S.A. Empreendimentos e Participações SAO br_market EQUITY
+SAPR4.SA SANEPAR     PN  EJ  N2 Companhia de Saneamento do Paraná - SANEPAR SAO br_market EQUITY
+SAPR3.SA SANEPAR     ON  EJ  N2 Companhia de Saneamento do Paraná - SANEPAR SAO br_market EQUITY
+FLRY3.SA FLEURY      ON  EJ  NM Fleury S.A. SAO br_market EQUITY
+VIVA3.SA VIVARA S.A. ON  EJ  NM Vivara Participações S.A. SAO br_market EQUITY
+PCAR3.SA P.ACUCAR-CBDON      NM Companhia Brasileira de Distribuição SAO br_market EQUITY
+SULA3.SA SUL AMERICA ON      N2 Sul América S.A. SAO br_market EQUITY
+MRVE3.SA MRV         ON      NM MRV Engenharia e Participações S.A. SAO br_market EQUITY
+AESB3.SA AES BRASIL  ON      NM AES Brasil Energia S.A. SAO br_market EQUITY
+SBFG3.SA GRUPO SBF   ON      NM Grupo SBF S.A. SAO br_market EQUITY
+ALSO3.SA ALIANSCSONAEON      NM Aliansce Sonae Shopping Centers SA SAO br_market EQUITY
+MOVI3.SA MOVIDA      ON  EJ  NM Movida Participações S.A. SAO br_market EQUITY
+SULA4.SA SUL AMERICA PN      N2 Sul América S.A. SAO br_market EQUITY
+ECOR3.SA ECORODOVIAS ON      NM EcoRodovias Infraestrutura e Logística S.A. SAO br_market EQUITY
+MOAR3.SA MONT ARANHA ON Monteiro Aranha S.A. SAO br_market EQUITY
+STBP3.SA SANTOS BRP  ON  EDJ NM Santos Brasil Participações S.A. SAO br_market EQUITY
+SAPR11.SA SANEPAR     UNT EJ  N2 Companhia de Saneamento do Paraná - SANEPAR SAO br_market EQUITY
+VVEO3.SA VIVEO       ON  EJ  NM CM Hospitalar S/A SAO br_market EQUITY
+IRBR3.SA IRBBRASIL REON      NM IRB-Brasil Resseguros S.A. SAO br_market EQUITY
+AERI3.SA AERIS       ON      NM Aeris Indústria e Comércio de Equipamentos para Geração de Energia S.A. SAO br_market EQUITY
+CSMG3.SA COPASA      ON      NM Companhia de Saneamento de Minas Gerais SAO br_market EQUITY
+COCE5.SA COELCE      PNA Companhia Energética do Ceará - Coelce SAO br_market EQUITY
+OIBR4.SA OI          PN      N1 Oi S.A. SAO br_market EQUITY
+TTEN3.SA 3TENTOS     ON      NM Três Tentos Agroindustrial S/A SAO br_market EQUITY
+OIBR3.SA OI          ON      N1 Oi S.A. SAO br_market EQUITY
+BRSR5.SA BANRISUL    PNA     N1 Banco do Estado do Rio Grande do Sul S.A. SAO br_market EQUITY
+QUAL3.SA QUALICORP   ON      NM Qualicorp Consultoria e Corretora de Seguros S.A. SAO br_market EQUITY
+BRSR6.SA BANRISUL    PNB     N1 Banco do Estado do Rio Grande do Sul S.A. SAO br_market EQUITY
+GUAR3.SA GUARARAPES  ON  EJ Guararapes Confecções S.A. SAO br_market EQUITY
+RECV3.SA PETRORECSA  ON      NM Petroreconcavo S.A. SAO br_market EQUITY
+BRSR3.SA BANRISUL    ON      N1 Banco do Estado do Rio Grande do Sul S.A. SAO br_market EQUITY
+IFCM3.SA INFRACOMM   ON      NM Infracommerce CXaaS S.A. SAO br_market EQUITY
+FESA4.SA FERBASA     PN      N1 Cia de Ferro Ligas da Bahia - FERBASA SAO br_market EQUITY
+FESA3.SA FERBASA     ON      N1 Cia de Ferro Ligas da Bahia - FERBASA SAO br_market EQUITY
+GPRK34.SA GEOPARK LTD DRN GeoPark Limited SAO br_market EQUITY
+CBEE3.SA AMPLA ENERG ON Ampla Energia e Serviços S.A. SAO br_market EQUITY
+MATD3.SA MATER DEI   ON      NM Hospital Mater Dei S.A. SAO br_market EQUITY
+LEVE3.SA METAL LEVE  ON  EJ  NM MAHLE Metal Leve S.A. SAO br_market EQUITY
+EZTC3.SA EZTEC       ON      NM EZTEC Empreendimentos e Participações S.A. SAO br_market EQUITY
+AMBP3.SA AMBIPAR     ON      NM Ambipar Participações e Empreendimentos S.A. SAO br_market EQUITY
+CAML3.SA CAMIL       ON      NM Camil Alimentos S.A. SAO br_market EQUITY
+PORT3.SA WILSON SONS ON      NM Wilson Sons Holdings Brasil S.A. SAO br_market EQUITY
+KNCR11.SA FII KINEA RICI  ER Kinea Rendimentos Imobiliários Fundo de Investimento Imobiliário - FII SAO br_market EQUITY
+COGN3.SA COGNA ON    ON      NM Cogna Educação S.A. SAO br_market EQUITY
+ONCO3.SA ONCOCLINICASON      NM Oncoclínicas do Brasil Serviços Médicos S.A. SAO br_market EQUITY
+EEEL3.SA CEEE-T      ON      N1 Companhia Estadual de Geração e Transmissão de Energia Elétrica - CEEE-GT SAO br_market EQUITY
+RAPT3.SA RANDON PART ON  EJ  N1 Randon S.A. Implementos e Participações SAO br_market EQUITY
+RAPT4.SA RANDON PART PN  EJ  N1 Randon S.A. Implementos e Participações SAO br_market EQUITY
+LIGT3.SA LIGHT S/A   ON      NM Light S.A. SAO br_market EQUITY
+PGMN3.SA PAGUE MENOS ON      NM Empreendimentos Pague Menos S.A. SAO br_market EQUITY
+ABCB4.SA ABC BRASIL  PN  EJ  N2 Banco ABC Brasil S.A. SAO br_market EQUITY
+KRSA3.SA KORA SAUDE  ON      NM Kora Saúde Participações S.A. SAO br_market EQUITY
+ENAT3.SA ENAUTA PART ON      NM Enauta Participações S.A. SAO br_market EQUITY
+GETT4.SA GETNET BR   PN Getnet Adquirência e Serviços para Meios de Pagamento S.A. SAO br_market EQUITY
+GETT3.SA GETNET BR   ON Getnet Adquirência e Serviços para Meios de Pagamento S.A. SAO br_market EQUITY
+JHSF3.SA JHSF PART   ON      NM JHSF Participações S.A. SAO br_market EQUITY
+HGLG11.SA FII CSHG LOGCI  ER Cshg Logistica - Fundo De Investimento Imobiliario SAO br_market EQUITY
+BRPR3.SA BR PROPERT  ON      NM BR Properties S.A. SAO br_market EQUITY
+AURA33.SA AURA 360    DR3 Aura Minerals Inc. SAO br_market EQUITY
+GEPA4.SA GER PARANAP PN Rio Paranapanema Energia S.A. SAO br_market EQUITY
+BOAS3.SA BOA VISTA   ON  EJ  NM Boa Vista Serviços S.A. SAO br_market EQUITY
+JALL3.SA JALLESMACHADON      NM Jalles Machado S/A SAO br_market EQUITY
+MODL4.SA MODALMAIS   PN      N2 Banco Modal S.A. SAO br_market EQUITY
+MODL3.SA MODALMAIS   ON      N2 Banco Modal S.A. SAO br_market EQUITY
+IGTI3.SA IGUATEMI S.AON  EB  N1 Iguatemi S.A. SAO br_market EQUITY
+ANIM3.SA ANIMA       ON      NM Anima Holding S.A. SAO br_market EQUITY
+TUPY3.SA TUPY        ON  EJ  NM Tupy S.A. SAO br_market EQUITY
+AGRO3.SA BRASILAGRO  ON      NM BrasilAgro - Companhia Brasileira de Propriedades Agrícolas SAO br_market EQUITY
+FRAS3.SA FRAS-LE     ON  EJ  N1 Fras-le S.A. SAO br_market EQUITY
+CEED3.SA CEEE-D      ON Companhia Estadual de Distribuição de Energia Elétrica SAO br_market EQUITY
+POMO4.SA MARCOPOLO   PN  EJ  N2 Marcopolo S.A. SAO br_market EQUITY
+POMO3.SA MARCOPOLO   ON  EJ  N2 Marcopolo S.A. SAO br_market EQUITY
+CSRN3.SA COSERN      ON Companhia Energética do Rio Grande do Norte - COSERN SAO br_market EQUITY
+CSRN6.SA COSERN      PNB Companhia Energética do Rio Grande do Norte - COSERN SAO br_market EQUITY
+CSRN5.SA COSERN      PNA Companhia Energética do Rio Grande do Norte - COSERN SAO br_market EQUITY
+CVCB3.SA CVC BRASIL  ON      NM CVC Brasil Operadora e Agência de Viagens S.A. SAO br_market EQUITY
+EMAE4.SA EMAE        PN Empresa Metropolitana de Águas e Energia S.A. SAO br_market EQUITY
+CLSC3.SA CELESC      ON  EJ  N2 Centrais Elétricas de Santa Catarina S.A. SAO br_market EQUITY
+CLSC4.SA CELESC      PN  EJ  N2 Centrais Elétricas de Santa Catarina S.A. SAO br_market EQUITY
+TASA4.SA TAURUS ARMASPN      N2 Taurus Armas S.A. SAO br_market EQUITY
+TASA3.SA TAURUS ARMASON      N2 Taurus Armas S.A. SAO br_market EQUITY
+LOGN3.SA LOG-IN      ON      NM Log-In Logística Intermodal S.A. SAO br_market EQUITY
+TELB3.SA TELEBRAS    ON Telecomunicações Brasileiras S.A. - Telebras SAO br_market EQUITY
+TELB4.SA TELEBRAS    PN Telecomunicações Brasileiras S.A. - Telebras SAO br_market EQUITY
+LOGG3.SA LOG COM PROPON      NM LOG Commercial Properties e Participações S.A. SAO br_market EQUITY
+CSED3.SA CRUZEIRO EDUON      NM Cruzeiro do Sul Educacional S.A. SAO br_market EQUITY
+PARD3.SA IHPARDINI   ON      NM Instituto Hermes Pardini S.A. SAO br_market EQUITY
+CEPE6.SA CELPE       PNB Companhia Energética de Pernambuco - CELPE SAO br_market EQUITY
+HBSA3.SA HIDROVIAS   ON      NM Hidrovias do Brasil S.A. SAO br_market EQUITY
+MYPK3.SA IOCHP-MAXIONON  EJ  NM Iochpe-Maxion S.A. SAO br_market EQUITY
+SCAR3.SA SAO CARLOS  ON      NM São Carlos Empreendimentos e Participações S.A. SAO br_market EQUITY
+CASH3.SA MELIUZ      ON      NM Méliuz S.A. SAO br_market EQUITY
+LAND3.SA TERRASANTAPAON      NM Terra Santa Propriedades Agrícolas S.A. SAO br_market EQUITY
+KNRI11.SA FII KINEA   CI  ER Kinea Renda Imobiliária Fundo de Investimento Imobiliário SAO br_market EQUITY
+FIQE3.SA UNIFIQUE    ON      NM Unifique Telecomunicações S.A. SAO br_market EQUITY
+VULC3.SA VULCABRAS   ON      NM Vulcabras Azaleia S.A. SAO br_market EQUITY
+JSLG3.SA JSL         ON  EJ  NM JSL S.A. SAO br_market EQUITY
+CEPE5.SA CELPE       PNA Companhia Energética de Pernambuco - CELPE SAO br_market EQUITY
+BRIT3.SA BRISANET    ON      NM Brisanet Participações S.A. SAO br_market EQUITY
+BRCR11.SA FII BC FUND CI Fundo de Investimento Imobiliário - FII BTG Pactual Corporate Office Fund SAO br_market EQUITY
+CRPG6.SA CRISTAL     PNB EJ Tronox Pigmentos do Brasil S.A. SAO br_market EQUITY
+CRPG5.SA CRISTAL     PNA EJ Tronox Pigmentos do Brasil S.A. SAO br_market EQUITY
+AGXY3.SA AGROGALAXY  ON      NM AgroGalaxy Participações S.A. SAO br_market EQUITY
+BMGB4.SA BANCO BMG   PN  EJ  N1 Banco BMG S.A. SAO br_market EQUITY
+CURY3.SA CURY S/A    ON      NM Cury Construtora e Incorporadora S.A. SAO br_market EQUITY
+HFOF11.SA FII HTOPFOF3CI  ER Hedge Top Fofii 3 Fundo Investimento Imobilirio SAO br_market EQUITY
+TFCO4.SA TRACK FIELD PN  EJ  N2 Track & Field Co S.A. SAO br_market EQUITY
+LJQQ3.SA QUERO-QUERO ON  EJ  NM Lojas Quero-Quero S.A. SAO br_market EQUITY
+JSRE11.SA FII JS REAL CI  ER JS Real Estate multigestão - FII fund SAO br_market EQUITY
+PATI4.SA PANATLANTICAPN Panatlântica S.A. SAO br_market EQUITY
+ORVR3.SA ORIZON      ON      NM Orizon Valorização de Resíduos S.A. SAO br_market EQUITY
+SOJA3.SA BOA SAFRA   ON      NM Boa Safra Sementes S.A. SAO br_market EQUITY
+PNVL3.SA DIMED       ON  EJ  NM Dimed S.A. Distribuidora de Medicamentos SAO br_market EQUITY
+ESPA3.SA ESPACOLASER ON      NM MPM Corpóreos S.A. SAO br_market EQUITY
+CLSA3.SA CLEARSALE   ON      NM ClearSale S.A. SAO br_market EQUITY
+BEES4.SA BANESTES    PN  EJ Banestes S.A - Banco do Estado do Espírito Santo SAO br_market EQUITY
+CEAB3.SA CEA MODAS   ON      NM C&A Modas S.A. SAO br_market EQUITY
+RANI3.SA IRANI       ON      NM Irani Papel e Embalagem S.A. SAO br_market EQUITY
+BEES3.SA BANESTES    ON  EJ Banestes S.A - Banco do Estado do Espírito Santo SAO br_market EQUITY
+ANCR11B.SA FD INV IM ANCAR IC Fundo de Investimento Imobiliário - FII Ancar IC SAO br_market EQUITY
+HGRE11.SA FII HG REAL CI  ER CSHG Real Estate - Fundo de Investimento Imobiliario - FII SAO br_market EQUITY
+DIRR3.SA DIRECIONAL  ON      NM Direcional Engenharia S.A. SAO br_market EQUITY
+SEQL3.SA SEQUOIA LOG ON      NM Sequoia Logística e Transportes S.A. SAO br_market EQUITY
+AALR3.SA ALLIAR      ON      NM Centro de Imagem Diagnósticos S.A. SAO br_market EQUITY
+BKBR3.SA BK BRASIL   ON      NM BK Brasil Operação e Assessoria a Restaurantes S.A. SAO br_market EQUITY
+BBPO11.SA FII BB PRGIICI  ER BB Progressivo II Fundo de Investimento Imobiliário - FII SAO br_market EQUITY
+VISC11.SA FII VINCI SCCI  ER Vinci Shopping Centers Fundo Investimento Imobiliario - Fii SAO br_market EQUITY
+TEND3.SA TENDA       ON      NM Construtora Tenda S.A. SAO br_market EQUITY
+TRAD3.SA TC          ON      NM TC Traders Club S.A. SAO br_market EQUITY
+ALLD3.SA ALLIED      ON      NM Allied Tecnologia S.A. SAO br_market EQUITY
+ELMD3.SA ELETROMIDIA ON      NM Eletromidia S.A. SAO br_market EQUITY
+SHUL4.SA SCHULZ      PN Schulz S.A. SAO br_market EQUITY
+WLMM4.SA WLM IND COM PN WLM Participações e Comércio de Máquinas e Veículos S.A. SAO br_market EQUITY
+HGCR11.SA FII CSHG CRICI  ER CSHG Recebiveis Imobiliarios BC Fundo de Investimento Imobiliario - FII SAO br_market EQUITY
+OFSA3.SA OUROFINO S/AON      NM Ouro Fino Saúde Animal Participações S.A. SAO br_market EQUITY
+MILS3.SA MILLS       ON      NM Mills Estruturas e Serviços de Engenharia S.A. SAO br_market EQUITY
+HSML11.SA FII HSI MALLCI  ER Hsi Malls Fundo De Investimento Imobiliario SAO br_market EQUITY
+DESK3.SA DESKTOP     ON      NM Desktop S.A. SAO br_market EQUITY
+SEER3.SA SER EDUCA   ON      NM Ser Educacional S.A. SAO br_market EQUITY
+EVEN3.SA EVEN        ON  ED  NM Even Construtora e Incorporadora S.A. SAO br_market EQUITY
+BMEB4.SA MERC BRASIL PN      N1 Banco Mercantil do Brasil S.A. SAO br_market EQUITY
+HGBS11.SA FII HEDGEBS CI  ER HEDGE Brasil Shopping Fundo de Investimento Imobiliário SAO br_market EQUITY
+DOHL4.SA DOHLER      PN Döhler S.A. SAO br_market EQUITY
+BAZA3.SA AMAZONIA    ON Banco da Amazônia S.A. SAO br_market EQUITY
+POSI3.SA POSITIVO TECON      NM Positivo Tecnologia S.A. SAO br_market EQUITY
+WIZS3.SA WIZ S.A.    ON      NM Wiz Soluções e Corretagem de Seguros S.A. SAO br_market EQUITY
+ROMI3.SA INDS ROMI   ON  EJ  NM Indústrias Romi S.A. SAO br_market EQUITY
+CEBR5.SA CEB         PNA Companhia Energética de Brasília - CEB SAO br_market EQUITY
+SQIA3.SA SINQIA      ON      NM Sinqia S.A. SAO br_market EQUITY
+CEBR3.SA CEB         ON Companhia Energética de Brasília - CEB SAO br_market EQUITY
+BMOB3.SA BEMOBI TECH ON      NM Bemobi Mobile Tech S.A. SAO br_market EQUITY
+CEBR6.SA CEB         PNB Companhia Energética de Brasília - CEB SAO br_market EQUITY
+VRTA11.SA FII FATOR VECI  ER Fator Veritá Fundo de Investimento Imobiliário - FII SAO br_market EQUITY
+PTBL3.SA PORTOBELLO  ON      NM PBG S.A. SAO br_market EQUITY
+SYNE3.SA SYN PROP TECON      NM SYN prop e tech S.A. SAO br_market EQUITY
+TRIS3.SA TRISUL      ON      NM Trisul S.A. SAO br_market EQUITY
+ETER3.SA ETERNIT     ON      NM Eternit S.A. SAO br_market EQUITY
+LAVV3.SA LAVVI       ON      NM Lavvi Empreendimentos Imobiliários S.A. SAO br_market EQUITY
+KEPL3.SA KEPLER WEBERON Kepler Weber S.A. SAO br_market EQUITY
+RECR11.SA FII REC RECECI Fundo Investimento Imobiliario Fii Ubs (Br) Recebveis Imobiliarios SAO br_market EQUITY
+POWE3.SA FOCUS ON    ON      NM Focus Energia Holding Participações S.A. SAO br_market EQUITY
+MOSI3.SA MOSAICO     ON      NM Mosaico Tecnologia ao Consumidor S.A. SAO br_market EQUITY
+EUCA4.SA EUCATEX     PN  EJ  N1 Eucatex S.A. Indústria e Comércio SAO br_market EQUITY
+EUCA3.SA EUCATEX     ON  EJ  N1 Eucatex S.A. Indústria e Comércio SAO br_market EQUITY
+BIOM3.SA BIOMM       ON      MA Biomm S.A. SAO br_market EQUITY
+LVTC3.SA WDC NETWORKSON      NM Livetech da Bahia Indústria e Comércio S.A SAO br_market EQUITY
+AMAR3.SA LOJAS MARISAON      NM Marisa Lojas S.A. SAO br_market EQUITY
+ABCP11.SA FII ABC IMOBCI  ER FII ABC Plaza Shopping Fund SAO br_market EQUITY
+FHER3.SA FER HERINGERON      NM Fertilizantes Heringer S.A. SAO br_market EQUITY
+TGMA3.SA TEGMA       ON      NM Tegma Gestão Logística S.A. SAO br_market EQUITY
+RBRF11.SA FII RBRALPHACI Fundo Investimento Imobiliario Rbr Alpha Fundos De Fundos SAO br_market EQUITY
+ALPK3.SA ESTAPAR     ON      NM Allpark Empreendimentos, Participações e Serviços S.A. SAO br_market EQUITY
+LIPR3.SA ELETROPAR   ON Eletrobras Participações S.A. - Eletropar SAO br_market EQUITY
+DEXP3.SA DEXXOS PAR  ON      N1 Dexxos Participações S.A. SAO br_market EQUITY
+DEXP4.SA DEXXOS PAR  PN      N1 Dexxos Participações S.A. SAO br_market EQUITY
+PEAB4.SA PAR AL BAHIAPN Companhia de Participações Aliança da Bahia SAO br_market EQUITY
+HBRE3.SA HBR REALTY  ON      NM HBR Realty Empreendimentos Imobiliários S.A. SAO br_market EQUITY
+MELK3.SA MELNICK     ON  ED  NM Melnick Even Desenvolvimento Imobiliário S.A. SAO br_market EQUITY
+CGRA3.SA GRAZZIOTIN  ON  EJ Grazziotin S.A. SAO br_market EQUITY
+CGRA4.SA GRAZZIOTIN  PN  EJ Grazziotin S.A. SAO br_market EQUITY
+MALL11.SA FII MALLS BPCI  ER Malls Brasil Fundo Investimento Imobiliario SAO br_market EQUITY
+MTRE3.SA MITRE REALTYON      NM Mitre Realty Empreendimentos e Participações S.A. SAO br_market EQUITY
+BRIV4.SA ALFA INVEST PN Banco Alfa de Investimento S.A. SAO br_market EQUITY
+BRIV3.SA ALFA INVEST ON Banco Alfa de Investimento S.A. SAO br_market EQUITY
+AVLL3.SA ALPHAVILLE  ON      NM Alphaville S.A. SAO br_market EQUITY
+VLID3.SA VALID       ON      NM Valid Soluções S.A. SAO br_market EQUITY
+PFRM3.SA PROFARMA    ON      NM Profarma Distribuidora de Produtos Farmacêuticos S.A. SAO br_market EQUITY
+BRGE8.SA ALFA CONSORCPND Consórcio Alfa de Administração S.A. SAO br_market EQUITY
+PLPL3.SA PLANOEPLANO ON      NM Plano & Plano Desenvolvimento Imobiliário S.A. SAO br_market EQUITY
+MEAL3.SA IMC S/A     ON      NM International Meal Company Alimentação S.A. SAO br_market EQUITY
+GFSA3.SA GAFISA      ON      NM Gafisa S.A. SAO br_market EQUITY
+G2DI33.SA G2D INVEST  DR3 G2D Investments, Ltd. SAO br_market EQUITY
+NGRD3.SA NEOGRID     ON      NM Neogrid Participações S.A. SAO br_market EQUITY
+CRIV4.SA ALFA FINANC PN Financeira Alfa S.A. - Crédito, Financiamento e Investimentos SAO br_market EQUITY
+CRIV3.SA ALFA FINANC ON Financeira Alfa S.A. - Crédito, Financiamento e Investimentos SAO br_market EQUITY
+HBOR3.SA HELBOR      ON      NM Helbor Empreendimentos S.A. SAO br_market EQUITY
+AFLT3.SA AFLUENTE T  ON Afluente Transmissão de Energia Elétrica S.A. SAO br_market EQUITY
+BRGE3.SA ALFA CONSORCON Consórcio Alfa de Administração S.A. SAO br_market EQUITY
+PDTC3.SA PADTEC      ON      NM Padtec Holding S.A. SAO br_market EQUITY
+RPAD6.SA ALFA HOLDINGPNB Alfa Holdings S.A. SAO br_market EQUITY
+RPAD5.SA ALFA HOLDINGPNA Alfa Holdings S.A. SAO br_market EQUITY
+CARD3.SA CSU CARDSYSTON      NM CSU Cardsystem S.A. SAO br_market EQUITY
+OPCT3.SA OCEANPACT   ON      NM OceanPact Serviços Marítimos S.A. SAO br_market EQUITY
+SHPH11.SA FII HIGIENOPCI  ER FDO INV Imob Shopping Patio Higienopolis SAO br_market EQUITY
+PQDP11.SA FII D PEDRO CI  ER Parque Dom Pedro Shopping Center Fund SAO br_market EQUITY
+NVHO11.SA FII NOVOHORICI  ER Fundo Invest SAO br_market EQUITY
+ENJU3.SA ENJOEI      ON      NM Enjoei S.A. SAO br_market EQUITY
+BCRI11.SA FII BEES CRICI  ER Banestes Recebiveis Imobiliarios Fundo Investimento Imobiliario FII SAO br_market EQUITY
+RNEW11.SA RENOVA      UNT     N2 Renova Energia S.A. SAO br_market EQUITY
+GPIV33.SA GP INVEST   DR3 GP Investments, Ltd. SAO br_market EQUITY
+BGIP4.SA BANESE      PN Banco do Estado de Sergipe S.A. SAO br_market EQUITY
+MBLY3.SA MOBLY       ON      NM Mobly S.A. SAO br_market EQUITY
+VGIR11.SA FII VALREIIICI Valora Re III Fundo De Investimento Imobiliario SAO br_market EQUITY
+RDNI3.SA RNI         ON      NM RNI Negócios Imobiliários S.A. SAO br_market EQUITY
+HBTS5.SA HABITASUL   PNA Companhia Habitasul de Participações SAO br_market EQUITY
+APER3.SA ALPER S.A.  ON      NM Alper Consultoria e Corretora de Seguros S.A. SAO br_market EQUITY
+BAUH4.SA EXCELSIOR   PN Excelsior Alimentos S.A. SAO br_market EQUITY
+MXRF11.SA FII MAXI RENCI  ER Maxi Renda Fundo De Investimento Imobiliaro - FII SAO br_market EQUITY
+RSUL4.SA RIOSULENSE  PN Metalúrgica Riosulense S.A. SAO br_market EQUITY
+LUXM4.SA TREVISA     PN Trevisa Investimentos S.A. SAO br_market EQUITY
+SDIL11.SA FII SDI LOG CI  ER SDI Logística Rio - Fundo de Investimento Imobiliário - FII SAO br_market EQUITY
+HABT11.SA FII HABIT IICI  ER Habitat Ii - Fundo De Investimento Imobiliario SAO br_market EQUITY
+BOBR4.SA BOMBRIL     PN Bombril S.A. SAO br_market EQUITY
+RBVA11.SA FII RIOB VA CI  ER Fundo Invest Imobiliario Agencias Caixa - FII Fund SAO br_market EQUITY
+MDNE3.SA MOURA DUBEUXON      NM Moura Dubeux Engenharia S.A. SAO br_market EQUITY
+PTNT4.SA PETTENATI   PN Pettenati S.A. Industria Têxtil SAO br_market EQUITY
+PTNT3.SA PETTENATI   ON Pettenati S.A. Industria Têxtil SAO br_market EQUITY
+PMAM3.SA PARANAPANEMAON      NM Paranapanema S.A. SAO br_market EQUITY
+MTSA4.SA METISA      PN METISA Metalúrgica Timboense S.A. SAO br_market EQUITY
+CSAB4.SA SEG AL BAHIAPN Companhia de Seguros Alianca da Bahia SAO br_market EQUITY
+DOTZ3.SA DOTZ SA     ON      NM Dotz S.A. SAO br_market EQUITY
+TPIS3.SA TRIUNFO PARTON      NM Triunfo Participações e Investimentos S.A. SAO br_market EQUITY
+BCIA11.SA FII BCIA    CI  ER Bradesco Carteira Imobiliaria Ativa Fundos de Investimento Imobiliario SAO br_market EQUITY
+LPSB3.SA LOPES BRASILON      NM LPS Brasil - Consultoria de Imóveis S.A. SAO br_market EQUITY
+WEST3.SA WESTWING    ON      NM Westwing Comércio Varejista S.A. SAO br_market EQUITY
+FIIB11.SA FII INDL BR CI  ER Real Estate Investment Fund Industry in Brazil SAO br_market EQUITY
+JOPA3.SA JOSAPAR     ON JOSAPAR Joaquim Oliveira S.A. Participações SAO br_market EQUITY
+BBFI11B.SA BB FDO DE INVST I BB Fundo De Investimento Imobiliario Progressivo SAO br_market EQUITY
+CARE11.SA FII DEA CARECI Máxima Renda Corporativa Fundo de Investimento Imobiliário - FII SAO br_market EQUITY
+QAGR11.SA FII QUASAR ACI Quasar Agro - Fundo De Investimento Imobiliario SAO br_market EQUITY
+UCAS3.SA UNICASA     ON      NM Unicasa Indústria de Móveis S.A. SAO br_market EQUITY
+PPLA11.SA PPLA        UNT PPLA Participations Ltd. SAO br_market EQUITY
+NINJ3.SA GETNINJAS   ON      NM GetNinjas S.A. SAO br_market EQUITY
+RNEW3.SA RENOVA      ON      N2 Renova Energia S.A. SAO br_market EQUITY
+RNEW4.SA RENOVA      PN      N2 Renova Energia S.A. SAO br_market EQUITY
+PRNR3.SA PRINER      ON  EJ  NM Priner Serviços Industriais S.A. SAO br_market EQUITY
+AHEB3.SA SPTURIS     ON São Paulo Turismo S.A. SAO br_market EQUITY
+DMMO3.SA DOMMO       ON Dommo Energia S.A. SAO br_market EQUITY
+INEP4.SA INEPAR      PN Inepar S.A. Indústria e Construções SAO br_market EQUITY
+INEP3.SA INEPAR      ON Inepar S.A. Indústria e Construções SAO br_market EQUITY
+BAHI3.SA BAHEMA      ON      MA Bahema Educação S.A. SAO br_market EQUITY
+SGPS3.SA SPRINGS     ON      NM Springs Global Participações S.A. SAO br_market EQUITY
+EALT4.SA ACO ALTONA  PN Electro Aço Altona S.A. SAO br_market EQUITY
+TCSA3.SA TECNISA     ON      NM Tecnisa S.A. SAO br_market EQUITY
+CAMB3.SA CAMBUCI     ON Cambuci S.A. SAO br_market EQUITY
+EALT3.SA ACO ALTONA  ON Electro Aço Altona S.A. SAO br_market EQUITY
+DMVF3.SA D1000VFARMA ON      NM d1000 Varejo Farma Participações S.A. SAO br_market EQUITY
+SHOW3.SA TIME FOR FUNON      NM T4F Entretenimento S.A. SAO br_market EQUITY
+EPAR3.SA EMBPAR S/A  ON Embpar Participacoes S.A. SAO br_market EQUITY
+PLCR11.SA FII PLURAL RCI  ER Plural Recebiveis Imobiliarios Fundo De Investimento Imobiliario SAO br_market EQUITY
+CTNM4.SA COTEMINAS   PN Companhia de Tecidos Norte de Minas SAO br_market EQUITY
+PORD11.SA FII POLO CRICI  ER Polo Fundo de Investimento Imobiliário - Recebíveis Imobiliários II - FII SAO br_market EQUITY
+BPFF11.SA FII ABSOLUTOCI  ER Fundo de Investimento Imobiliário - FII Brasil Plural Absoluto Fundo de Fundos SAO br_market EQUITY
+RPMG3.SA PET MANGUINHON Refinaria de Petróleos de Manguinhos S.A. SAO br_market EQUITY
+BTLG11.SA FII BTLG    CI BTG Pactual Logística Fundo de Investimento Imobiliário SAO br_market EQUITY
+VLOL11.SA FII OLIMPIA CI  ER Fundo de Investimento Imobiliario - FII Vila Olimpia Corporate SAO br_market EQUITY
+FLMA11.SA FII S F LIMACI Unitas DTVM S.A. SAO br_market EQUITY
+CTSA3.SA SANTANENSE  ON Companhia Tecidos Santanense Ltda. SAO br_market EQUITY
+BBRC11.SA FII BB CORP CI  ER BB Renda Corporativa Fundo de Investimento Imobiliário - FII SAO br_market EQUITY
+CTSA4.SA SANTANENSE  PN Companhia Tecidos Santanense Ltda. SAO br_market EQUITY
+VIVR3.SA VIVER       ON      NM Viver Incorporadora e Construtora S.A. SAO br_market EQUITY
+RCSL3.SA RECRUSUL    ON Recrusul S/A SAO br_market EQUITY
+RCSL4.SA RECRUSUL    PN Recrusul S/A SAO br_market EQUITY
+TECN3.SA TECHNOS     ON      NM Technos S.A. SAO br_market EQUITY
+TKNO4.SA TEKNO       PN  EJ Tekno S.A. Indústria e Comércio SAO br_market EQUITY
+FPAB11.SA FII A BRANCACI  ER Fundo de Investimento Imobiliário Projeto Água Branca SAO br_market EQUITY
+FIGS11.SA FII GEN SHOPCI  ER Fundo de Investimento Imobiliário General Shopping Ativo e Renda - FII SAO br_market EQUITY
+LUPA3.SA LUPATECH    ON      NM Lupatech S.A. SAO br_market EQUITY
+JFEN3.SA JOAO FORTES ON João Fortes Engenharia S.A. SAO br_market EQUITY
+RSID3.SA ROSSI RESID ON      NM Rossi Residencial S.A. SAO br_market EQUITY
+BALM4.SA BAUMER      PN Baumer S.A. SAO br_market EQUITY
+BALM3.SA BAUMER      ON Baumer S.A. SAO br_market EQUITY
+RNGO11.SA FII RIONEGROCI  ER Fundo de Investimento Imobiliário Rio Negro SAO br_market EQUITY
+CTKA4.SA KARSTEN     PN Karsten S.A. SAO br_market EQUITY
+PLAS3.SA PLASCAR PARTON Plascar Participações Industriais S.A. SAO br_market EQUITY
+ONEF11.SA FII THE ONE CI Fundo de Investimento Imobiliario The One Fund SAO br_market EQUITY
+BMIN4.SA MERC INVEST PN Banco Mercantil de Investimentos S.A. SAO br_market EQUITY
+BMKS3.SA BIC MONARK  ON Bicicletas Monark S.A. SAO br_market EQUITY
+CEOC11.SA FII CEO CCP CI Fundo de Investimento Imobiliário FII CEO Cyrela Fund SAO br_market EQUITY
+FAMB11B.SA FD INV IM ALM BARR Fundo de Investimento Imobiliario Edificio Almirante Barroso SAO br_market EQUITY
+PINE4.SA PINE        PN      N2 Banco Pine S.A. SAO br_market EQUITY
+CBOP11.SA FII C BRANCOCI  ER Castello Branco Off Park Fund In Im SAO br_market EQUITY
+RBED11.SA FII RIOB ED CI  ER Aesapar Fundo de Investimento Imobiliário - FII SAO br_market EQUITY
+BNFS11.SA FII BANRISULCI  ER Banrisul N Front Fund Investment IMO FII Fund SAO br_market EQUITY
+LLIS3.SA LE LIS BLANCON      NM Restoque Comércio e Confecções de Roupas S.A. SAO br_market EQUITY
+MBRF11.SA FII MERC BR CI Fundo De Investimento Imobiliário Mercantil Do Brasil-fii -Inicio SAO br_market EQUITY
+SPTW11.SA FII SP DOWNTCI  ER Sp Downtown Fundo de Investimento Imobiliário - FII SAO br_market EQUITY
+MNDL3.SA MUNDIAL     ON Mundial S.A. - Produtos de Consumo SAO br_market EQUITY
+MGEL4.SA MANGELS INDLPN Mangels Industrial S.A. SAO br_market EQUITY
+EURO11.SA FII EUROPAR CI  ER Coinvalores Dtvm Ltda. SAO br_market EQUITY
+RBRD11.SA FII RB II   CI  ER RB Capital Renda II Fundo de Investimento Imobiliário - FII SAO br_market EQUITY
+BBRK3.SA BR BROKERS  ON      NM Brasil Brokers Participações S.A. SAO br_market EQUITY
+AZEV3.SA AZEVEDO     ON Azevedo & Travassos S.A. SAO br_market EQUITY
+AZEV4.SA AZEVEDO     PN Azevedo & Travassos S.A. SAO br_market EQUITY
+TXRX4.SA TEX RENAUX  PN Têxtil Renauxview S.A. SAO br_market EQUITY
+ATOM3.SA ATOMPAR     ON Atom Empreendimentos e Participações S.A. SAO br_market EQUITY
+SNSY3.SA SANSUY      ON Sansuy S.A. SAO br_market EQUITY
+RNDP11.SA FII BB R PAPCI  ER BB Renda de Papéis Imobiliários Fundo de Investimento Imobiliário - FII SAO br_market EQUITY
+ATMP3.SA ATMASA      ON      NM ATMA Participações S.A. SAO br_market EQUITY
+PDGR3.SA PDG REALT   ON      NM PDG Realty S.A. Empreendimentos e Participações SAO br_market EQUITY
+CEDO3.SA CEDRO       ON      N1 Companhia de Fiação e Tecidos Cedro e Cachoeira S.A. SAO br_market EQUITY
+CEDO4.SA CEDRO       PN      N1 Companhia de Fiação e Tecidos Cedro e Cachoeira S.A. SAO br_market EQUITY
+GSHP3.SA GENERALSHOPPON General Shopping e Outlets do Brasil S.A. SAO br_market EQUITY
+EDFO11B.SA FD INV IMOB ED OUR Fundo de Investimento Imobiliário Edifício Ourinvest SAO br_market EQUITY
+HOOT4.SA HOTEIS OTHONPN Hotéis Othon S.A. SAO br_market EQUITY
+CTXT11.SA FII C TEXTILCI Fundo Invest Imobiliario Centro Textil Internacional - Cotas Fund SAO br_market EQUITY
+HAGA4.SA HAGA S/A    PN HAGA S/A Indústria e Comércio SAO br_market EQUITY
+HAGA3.SA HAGA S/A    ON HAGA S/A Indústria e Comércio SAO br_market EQUITY
+XPCM11.SA FII XP MACAECI  ER XP Corporate Macaé Fundo de Investimento Imobiliário - FII SAO br_market EQUITY
+MNPR3.SA MINUPAR     ON Minupar Participações S.A. SAO br_market EQUITY
+DRIT11B.SA MULTIGESTAO RENDA Multigestao Renda Comercial Fundo De Investimento Imobiliario - FII SAO br_market EQUITY
+CRDE3.SA CR2         ON CR2 Empreendimentos Imobiliários S.A. SAO br_market EQUITY
+SNSY5.SA SANSUY      PNA Sansuy S.A. SAO br_market EQUITY
+PLRI11.SA FII POLO I  CI  ERA Polo Fundo de Investimento Imobiliario – FII Recebiveis Imobiliarios IMO - Cotas Fund SAO br_market EQUITY
+FMOF11.SA FII MEMORIALCI Fundos de Investimento Imobiliário Memorial Office Of Cotas SAO br_market EQUITY
+SCPF11.SA FII SCP     CI Scp Fundo De Investimento NPV SAO br_market EQUITY
+MWET4.SA WETZEL S/A  PN Wetzel S.A. SAO br_market EQUITY
+FIVN11.SA FII VIDANOVACI Vida Nova Fundo Investimento Immobiliere SAO br_market EQUITY
+BLUT4.SA B TECH EQI  PN Blue Tech Solutions E.Q.I. S.A. SAO br_market EQUITY
+IGBR3.SA IGB S/A     ON IGB Eletronica S.A. SAO br_market EQUITY
+PRSV11.SA FII P VARGASCI Fundo de Investimento Imobiliário Presidente Vargas SAO br_market EQUITY
+OSXB3.SA OSX BRASIL  ON      NM OSX Brasil S.A. SAO br_market EQUITY
+FCFL11.SA FII CAMPUSFLCI Fundo De Investimento Imobiliario Campus Faria Lima - Inicio De Negociacao SAO br_market EQUITY
+BDLL4.SA BARDELLA    PN Bardella S.A. Indústrias Mecânicas SAO br_market EQUITY
+CXTL11.SA FII CX TRX  CI  ER Fundo De Investimento Imobiliário Caixa Trx Logística Renda SAO br_market EQUITY
+SLED4.SA SARAIVA LIVRPN  EG  N2 Saraiva Livreiros S.A. - em Recuperação Judicial SAO br_market EQUITY
+SLED3.SA SARAIVA LIVRON  EG  N2 Saraiva Livreiros S.A. - em Recuperação Judicial SAO br_market EQUITY
+XTED11.SA FII TRXE CORCI XTED - TRX Edificios Corporativos Fundo Invest Imobiliario FII Fund SAO br_market EQUITY
+TCNO4.SA TECNOSOLO   PN Tecnosolo Engenharia S.A. SAO br_market EQUITY
+TCNO3.SA TECNOSOLO   ON Tecnosolo Engenharia S.A. SAO br_market EQUITY
+FRTA3.SA POMIFRUTAS  ON      NM Pomifrutas S/A SAO br_market EQUITY
+PABY11.SA FII PANAMBY CI Fundo de Investimento Imobiliário Panamby SAO br_market EQUITY
+BLUT3.SA B TECH EQI  ON Blue Tech Solutions E.Q.I. S.A. SAO br_market EQUITY
+RBVO11.SA FII RIOBCRI2CI  ER Rio Bravo Credito - Imobiliario II Fundo Invest Imobiliario FII Fund SAO br_market EQUITY
+TEKA4.SA TEKA        PN Teka Tecelagem Kuehnrich S.A. SAO br_market EQUITY
+HETA4.SA HERCULES    PN Hércules S.A - Fábrica de Talheres SAO br_market EQUITY
+CXCE11B.SA FD INV IMOB CAIXA Fundo de Investimento Caixa Cedae SAO br_market EQUITY
+NPAR11.SA FII NESTPAR CI Fii Fundo Investimento Imobiliario Nestpar SAO br_market EQUITY
+RBDS11.SA FII RBRESID2CI RB Capital Development Residential Real Estate Investment Fund II SAO br_market EQUITY
+MOAR3F.SA MONT ARANHA ON  SAO br_market EQUITY
+IFID11.SA FII IFI-D   CI  ER Ifi D Inter Fundo De Investimento Imobiliario SAO br_market EQUITY
+BEWH39.SA MSCIHONGKONGDRN ED Ishares Msci Hong Kong Etf SAO br_market EQUITY
+HSRE11.SA FII HSIRENDACI  ER Hsi Renda Imobiliario - Fundo De Investimento Imobiliario SAO br_market EQUITY
+IDFI11.SA FII UNIDADESCI  ERA Fundo De Investimento Imobiliario De Unidades Autonomas SAO br_market EQUITY
+BRGE3F.SA ALFA CONSORCON  SAO br_market EQUITY
+CSRN5F.SA COSERN      PNA  SAO br_market EQUITY
+BFDA39.SA FT RISIDIVIDDRN ED First Trust Exchange-Traded Fund VI - First Trust Rising Dividend Achievers ETF SAO br_market EQUITY
+TF703.SA ATIVO TESTE ON  SAO br_market EQUITY
+TF723.SA ATIVO TESTE ON  SAO br_market EQUITY
+TF475.SA nan  SAO br_market EQUITY
+TF495.SA nan  SAO br_market EQUITY
+TF595.SA nan  SAO br_market EQUITY
+DVFF11.SA FII DEVA FOFCI Fundo De Investimento Imobiliario - Devant Fundo De Fundos Imobiliarios SAO br_market EQUITY
+BILF39.SA LATIN AMER40DRN Ishares Latin America 40 ETF SAO br_market EQUITY
+BRGE12F.SA ALFA CONSORCPNF  SAO br_market EQUITY
+TF693.SA ATIVO TESTE ON  SAO br_market EQUITY
+SMAB11.SA BTG SMLL CAPCI Btg Pactual Smll B3 Fundo De Indice SAO br_market EQUITY
+BBSE3F.SA BBSEGURIDADEON      NM  SAO br_market EQUITY
+AZUL4F.SA AZUL        PN      N2  SAO br_market EQUITY
+APER3F.SA ALPER S.A.  ON      NM  SAO br_market EQUITY
+ANIM3F.SA ANIMA       ON      NM  SAO br_market EQUITY
+GMAT3F.SA GRUPO MATEUSON      NM  SAO br_market EQUITY
+BACW39.SA MSCI ACWI   DRN ED Ishares Msci Acwi ETF SAO br_market EQUITY
+GETT4F.SA GETNET BR   PN  SAO br_market EQUITY
+ESPA3F.SA ESPACOLASER ON      NM  SAO br_market EQUITY
+DMMO3F.SA DOMMO       ON  SAO br_market EQUITY
+VIVR3F.SA VIVER       ON      NM  SAO br_market EQUITY
+USIM5F.SA USIMINAS    PNA     N1  SAO br_market EQUITY
+MTRE3F.SA MITRE REALTYON      NM  SAO br_market EQUITY
+LOGN3F.SA LOG-IN      ON      NM  SAO br_market EQUITY
+TEQI11.SA FIA EQI TECHCI Tech Fundo De Investimento Em Acoes Investimento No Exterior SAO br_market EQUITY
+GNDI3F.SA INTERMEDICA ON      NM  SAO br_market EQUITY
+BBRK3F.SA BR BROKERS  ON      NM  SAO br_market EQUITY
+IFCM3F.SA INFRACOMM   ON      NM  SAO br_market EQUITY
+ESGU11.SA TREND ESG USCI Trend Etf Msci Usa Esg Fundo De Investimento De Indice Investimento No Exterior SAO br_market EQUITY
+HBRH11.SA FII MULT RENCI  ER Fundo De Investimento ImobiliaRio Multi Renda Urbana SAO br_market EQUITY
+GOAU3F.SA GERDAU MET  ON      N1  SAO br_market EQUITY
+DESK3F.SA DESKTOP     ON      NM  SAO br_market EQUITY
+SULA3F.SA SUL AMERICA ON      N2  SAO br_market EQUITY
+SLED4F.SA SARAIVA LIVRPN  EG  N2  SAO br_market EQUITY
+TAEE3F.SA TAESA       ON      N2  SAO br_market EQUITY
+BIDI3F.SA BANCO INTER ON      N2  SAO br_market EQUITY
+TPIS3F.SA TRIUNFO PARTON      NM  SAO br_market EQUITY
+VVEO3F.SA VIVEO       ON  EJ  NM  SAO br_market EQUITY
+TTEN3F.SA 3TENTOS     ON      NM  SAO br_market EQUITY
+BIEF39.SA COREMSCIEAFEDRN ED Ishares Core Msci Eafe ETF SAO br_market EQUITY
+BRFS3F.SA BRF SA      ON      NM  SAO br_market EQUITY
+BRML3F.SA BR MALLS PARON      NM  SAO br_market EQUITY
+ATMP3F.SA ATMASA      ON      NM  SAO br_market EQUITY
+BRPR3F.SA BR PROPERT  ON      NM  SAO br_market EQUITY
+VSEC11.SA FII VOT SEC CI  ER Imobiliario Votorantim Securities Fundos de Investimento SAO br_market EQUITY
+FAED11.SA FII ANH EDUCCI Fundo de Investimento Imobiliário - FII Anhanguera Educacional SAO br_market EQUITY
+BALM4F.SA BAUMER      PN  SAO br_market EQUITY
+REDE3F.SA REDE ENERGIAON  SAO br_market EQUITY
+PTNT3F.SA PETTENATI   ON  SAO br_market EQUITY
+UNIP5F.SA UNIPAR      PNA ED  SAO br_market EQUITY
+SMAB11.SA BTG SMLL CAPCI Btg Pactual Smll B3 Fundo De Indice SAO br_market EQUITY
+BRKM6F.SA BRASKEM     PNB     N1  SAO br_market EQUITY
+CMIN3F.SA CSNMINERACAOON  EJ  N2  SAO br_market EQUITY
+CVCB3F.SA CVC BRASIL  ON      NM  SAO br_market EQUITY
+VIVR3F.SA VIVER       ON      NM  SAO br_market EQUITY
+RZAK11.SA FII RIZA AKNCI Riza Akin Fundo De Investimento Imobiliario – FII SAO br_market EQUITY
+PCAR3F.SA P.ACUCAR-CBDON      NM  SAO br_market EQUITY
+USIM5F.SA USIMINAS    PNA     N1  SAO br_market EQUITY
+TEQI11.SA FIA EQI TECHCI Tech Fundo De Investimento Em Acoes Investimento No Exterior SAO br_market EQUITY
+TF473.SA nan  SAO br_market EQUITY
+BMEB4F.SA MERC BRASIL PN      N1  SAO br_market EQUITY
+COCE3F.SA COELCE      ON  SAO br_market EQUITY
+FPOR11.SA FIP PORT SUDCI Porto Sudeste Royalties Fundo Investimento Participacoes Infraestrutura Fund SAO br_market EQUITY
+ENMT4F.SA ENERGISA MT PN  SAO br_market EQUITY
+EKTR4F.SA ELEKTRO     PN  SAO br_market EQUITY
+SEQR11.SA FII SEQUOIA CI Sequoia III Renda Imobiliaria - Fundo De Investimento Imobiliaria SAO br_market EQUITY
+MGHT11.SA FII MOGNO HTCI Fundo De Investimento Imobiliario Mogno Hoteis SAO br_market EQUITY
+FSRF11.SA FISET FL REFCI Fiset FL Ref SAO br_market EQUITY
+TCNO3F.SA TECNOSOLO   ON  SAO br_market EQUITY
+TCNO4F.SA TECNOSOLO   PN  SAO br_market EQUITY
+BACW39.SA MSCI ACWI   DRN ED Ishares Msci Acwi ETF SAO br_market EQUITY
+BBRK3F.SA BR BROKERS  ON      NM  SAO br_market EQUITY
+ALLD3F.SA ALLIED      ON      NM  SAO br_market EQUITY
+ALUP11F.SA ALUPAR      UNT     N2  SAO br_market EQUITY
+CARD3F.SA CSU CARDSYSTON      NM  SAO br_market EQUITY
+BBSE3F.SA BBSEGURIDADEON      NM  SAO br_market EQUITY
+AZUL4F.SA AZUL        PN      N2  SAO br_market EQUITY
+APER3F.SA ALPER S.A.  ON      NM  SAO br_market EQUITY
+ANIM3F.SA ANIMA       ON      NM  SAO br_market EQUITY
+DMMO3F.SA DOMMO       ON  SAO br_market EQUITY
+MTRE3F.SA MITRE REALTYON      NM  SAO br_market EQUITY
+LOGN3F.SA LOG-IN      ON      NM  SAO br_market EQUITY
+LIGT3F.SA LIGHT S/A   ON      NM  SAO br_market EQUITY
+LCAM3F.SA LOCAMERICA  ON  EJ  NM  SAO br_market EQUITY
+POMO3F.SA MARCOPOLO   ON  EJ  N2  SAO br_market EQUITY
+ONCO3F.SA ONCOCLINICASON      NM  SAO br_market EQUITY
+PRIO3F.SA PETRORIO    ON      NM  SAO br_market EQUITY
+MATD3F.SA MATER DEI   ON      NM  SAO br_market EQUITY
+JFEN3F.SA JOAO FORTES ON  SAO br_market EQUITY
+ITSA3F.SA ITAUSA      ON  EB  N1  SAO br_market EQUITY
+MLAS3F.SA MULTILASER  ON      NM  SAO br_market EQUITY
+MEGA3F.SA OMEGAENERGIAON      NM  SAO br_market EQUITY
+GETT4F.SA GETNET BR   PN  SAO br_market EQUITY
+ESPA3F.SA ESPACOLASER ON      NM  SAO br_market EQUITY
+GMAT3F.SA GRUPO MATEUSON      NM  SAO br_market EQUITY
+GNDI3F.SA INTERMEDICA ON      NM  SAO br_market EQUITY
+BIME11.SA FII BRIO ME CI Brio Multiestrategia - Fundo De Investimento Imobiliario SAO br_market EQUITY
+BRSR6F.SA BANRISUL    PNB     N1  SAO br_market EQUITY
+PTBL3F.SA PORTOBELLO  ON      NM  SAO br_market EQUITY
+OPCT3F.SA OCEANPACT   ON      NM  SAO br_market EQUITY
+ESGU11.SA TREND ESG USCI Trend Etf Msci Usa Esg Fundo De Investimento De Indice Investimento No Exterior SAO br_market EQUITY
+IFCM3F.SA INFRACOMM   ON      NM  SAO br_market EQUITY
+DXCO3F.SA DEXCO       ON      NM  SAO br_market EQUITY
+BKBR3F.SA BK BRASIL   ON      NM  SAO br_market EQUITY
+ELMD3F.SA ELETROMIDIA ON      NM  SAO br_market EQUITY
+CSED3F.SA CRUZEIRO EDUON      NM  SAO br_market EQUITY
+VIUR11.SA FII VINCI IUCI  ER Vinci Imoveis Urbanos Fundo De Investimento Imobiliario SAO br_market EQUITY
+BEWW39.SA MSCI MEXICO DRN Ishares Msci Mexico ETF SAO br_market EQUITY
+IMBB11.SA BRAD IMA-B  F11 Etf Bradesco Ima-B Fundo De Indice SAO br_market EQUITY
+RAIL3F.SA RUMO S.A.   ON      NM  SAO br_market EQUITY
+RAIZ4F.SA RAIZEN      PN      N2  SAO br_market EQUITY
+HCST11.SA FII HECT DESCI Hectare Student Housing I - Fundo De Investimento Em Participacoes Multiestrategia SAO br_market EQUITY
+SOJA3F.SA BOA SAFRA   ON      NM  SAO br_market EQUITY
+JOPA3F.SA JOSAPAR     ON  SAO br_market EQUITY
+EMBR3F.SA EMBRAER     ON      NM  SAO br_market EQUITY
+BGRT39.SA GLOBAL REIT DRN iShares Trust - iShares Global REIT ETF SAO br_market EQUITY
+BCWV39.SA MSCIGLMIVOLFDRN iShares, Inc. - iShares MSCI Global Min Vol Factor ETF SAO br_market EQUITY
+RBRY11.SA FII RBR PCRICI Fundo Investimeto Imobiliario Rbr Private Credito Imobiliario SAO br_market EQUITY
+NETE34.SA NETEASE     DRN  SAO br_market EQUITY
+RFOF11.SA FII RB CFOF CI  ER Fundo De Investimento Imobiliario RB Capital I Fundo De Fundos SAO br_market EQUITY
+PTCH34.SA PETROCHIN   DRN  SAO br_market EQUITY
+NEWL11.SA FII NEWPORT CI  ER Newport Logastica Fundo De Investimento Imobiliario SAO br_market EQUITY
+BEGE39.SA INC ESG AWARDRN iShares, Inc. - iShares ESG Aware MSCI EM ETF SAO br_market EQUITY
+A1UA34.SA ANGLOGOLD ASDRN AngloGold Ashanti Limited SAO br_market EQUITY
+BFXI39.SA CHINALARGECADRN iShares Trust - iShares China Large-Cap ETF SAO br_market EQUITY
+NMRH34.SA NOMURA HO   DRN  SAO br_market EQUITY
+CRHP34.SA CRH PLC     DRN  SAO br_market EQUITY
+DBAG34.SA DEUTSCHE AK DRN Deutsche Bank Aktiengesellschaft SAO br_market EQUITY
+STMN34.SA STMICROEL   DRN  SAO br_market EQUITY
+HOSI11.SA FII HOUSI   CI  ER Fundo De Investimento Imobiliario Housi SAO br_market EQUITY
+BCWV39.SA MSCIGLMIVOLFDRN iShares, Inc. - iShares MSCI Global Min Vol Factor ETF SAO br_market EQUITY
+I1XC34.SA ORIX CORP   DRN  SAO br_market EQUITY
+CRHP34.SA CRH PLC     DRN  SAO br_market EQUITY
+DBAG34.SA DEUTSCHE AK DRN Deutsche Bank Aktiengesellschaft SAO br_market EQUITY
+HRDF11.SA FII HREALTY CI Hedge Realty Development Fundo Investimento Imobiliario FII SAO br_market EQUITY
+GTWR11.SA FII G TOWERSCI  ER Fundo Investimento Imobiliario Green Towers SAO br_market EQUITY
+BIHI39.SA USMEDICDEVICDRN ED iShares Trust - iShares U.S. Medical Devices ETF SAO br_market EQUITY
+RDPD11.SA FII BB PAPIICI  ER Bb Renda Papeis Imobiliarios II Fundo Investimento Imobiliario SAO br_market EQUITY
+STMN34.SA STMICROEL   DRN  SAO br_market EQUITY
+BGWH39.SA COREDIVGROWTDRN iShares Trust - iShares Core Dividend Growth ETF SAO br_market EQUITY
+B1TI34.SA BRITISH AMERDRN ED  SAO br_market EQUITY
+RCSL3F.SA RECRUSUL    ON  SAO br_market EQUITY
+HGFF11.SA FII CSHG FOFCI  ER CSHG Imobiliario Fof - Fundo De Investimento Imobiliario - Fii SAO br_market EQUITY
+XPCI11.SA FII XP CRED CI  ER Xp Credito Imobiliario ae Fundo De Investimento Imobiliario SAO br_market EQUITY
+SNCI11.SA FII SUNO CRICI  SAO br_market EQUITY
+TEPP11.SA FII TEL PROPCI  ER SDI Properties Fundo De Investimento Imobiliario SAO br_market EQUITY
+LWSA3F.SA LOCAWEB     ON      NM  SAO br_market EQUITY
+IRBR3F.SA IRBBRASIL REON      NM  SAO br_market EQUITY
+OUJP11.SA FII OURI JPPCI  ER Ourinvest Jpp Fundo Investimento Imobiliario - Fii SAO br_market EQUITY
+VOTS11.SA FII V MASTERCI  ER Votorantim Securities Master Fundo Investimento Imobiliario Fii SAO br_market EQUITY
+RDNI3F.SA RNI         ON      NM  SAO br_market EQUITY
+CPLE3F.SA COPEL       ON  EJ  N2  SAO br_market EQUITY
+ITSA4F.SA ITAUSA      PN  EB  N1  SAO br_market EQUITY
+BIWF39.SA RUSSEL1000GRDRN iShares Trust - iShares Russell 1000 Growth ETF SAO br_market EQUITY
+AMAR1.SA LOJAS MARISADO    3,08  SAO br_market EQUITY
+BRSR3F.SA BANRISUL    ON      N1  SAO br_market EQUITY
+GTLG11.SA FII GTIS LG CI Gtis Brazil Properties Fundo De Investimento Imobiliario - Fii SAO br_market EQUITY
+BEWU39.SA MSCI UK     DRN Ishares Msci United Kingdom Etf SAO br_market EQUITY
+ARZZ3F.SA AREZZO CO   ON      NM  SAO br_market EQUITY
+EDGA11.SA FII GALERIA CI  ER Fundo de Investimento Imobiliario - FII Edificio Galeria SAO br_market EQUITY
+CRIV4F.SA ALFA FINANC PN  SAO br_market EQUITY
+GOAU4F.SA GERDAU MET  PN      N1  SAO br_market EQUITY
+DNAI11.SA IT NOW DNA  CI It Now Msci Usa Imi Genomic Innovation Select 50 Fundo De Indice SAO br_market EQUITY
+IFIE11.SA FII IFI-E   CI  ER Ifi E Inter Fundo De Investimento Imobiliario SAO br_market EQUITY
+ENGI4F.SA ENERGISA    PN  ED  N2  SAO br_market EQUITY
+Z1TO34.SA ZTO EXPRESS DRN  SAO br_market EQUITY
+CPTS11.SA FII CAPI SECCI Capitania Securities II Fundo Investimento Imobiliario FII SAO br_market EQUITY
+LUGG11.SA FII LUGGO   CI  ER Luggo Fundo De Investimento Imobiliario De FII SAO br_market EQUITY
+BBSD11.SA BB ETF SP DVCI BB ETF S&P Dividendos Brasil Fundo de Indice SAO br_market EQUITY
+BRCO11.SA FII BRESCO  CI  ER Bresco - Fundo De Investimento Imobiliario SAO br_market EQUITY
+OURE11.SA FII OU RENDACI Fundo De Investimento Imobiliario - Ourinvest CYRELA - Fii SAO br_market EQUITY
+BHPG34.SA BHP GROUP   DRN  SAO br_market EQUITY
+BUSM39.SA MSCI US MVOLDRN Ishares Msci Usa Min Vol Factor ETF SAO br_market EQUITY
+BOVX11.SA TREND IBOVX CI Trend ETF Ibovespa Fundo De Indice SAO br_market EQUITY
+BAZA3F.SA AMAZONIA    ON  SAO br_market EQUITY
+BBOV11.SA BB ETF IBOV CI Bb Etf Ibovespa Fundo De Indice SAO br_market EQUITY
+TSMC34.SA TAIWANSMFAC DRN  SAO br_market EQUITY
+LVBI11.SA FII VBI LOG CI  ER Fundo De Investimento Imobiliario - VBI Logistico - Cota Fund SAO br_market EQUITY
+NSLU11.SA FII LOURDES CI  ER Hospital Nossa Senhora De Lourde Fund SAO br_market EQUITY
+RCRB11.SA FII RIOB RC CI Fundo de Investimento Imobiliário Rio Bravo Renda Corporativa SAO br_market EQUITY
+B5P211.SA IT NOW B5P2 F11 It Now Ima-B5 P2 Fundo De Indice SAO br_market EQUITY
+BABA34.SA ALIBABAGR   DRN  SAO br_market EQUITY
+IRDM11.SA FII IRIDIUM CI Fundo Investimento Imobiliario Iridium Recebiveis Imobiliarios SAO br_market EQUITY
+RPAD3F.SA ALFA HOLDINGON  SAO br_market EQUITY
+SOND6F.SA SONDOTECNICAPNB  SAO br_market EQUITY
+MERC3F.SA MERC FINANC ON  SAO br_market EQUITY
+BMEB3F.SA MERC BRASIL ON      N1  SAO br_market EQUITY
+AMAR1F.SA LOJAS MARISADO    3,08  SAO br_market EQUITY
+TF483.SA nan  SAO br_market EQUITY
+CRDE3F.SA CR2         ON  SAO br_market EQUITY
+CEPE6F.SA CELPE       PNB  SAO br_market EQUITY
+EQPA5F.SA EQTL PARA   PNA  SAO br_market EQUITY
+TF503.SA nan  SAO br_market EQUITY
+TF543.SA nan  SAO br_market EQUITY
+TF675.SA nan  SAO br_market EQUITY
+TF685.SA nan  SAO br_market EQUITY
+TF535.SA nan  SAO br_market EQUITY
+TF655.SA nan  SAO br_market EQUITY
+GPAR3F.SA CELGPAR     ON  SAO br_market EQUITY
+HCHG11.SA FII HECT CRICI  ER Hectare Recebiveis High Grade Fundo De Investimento Imobiliario  Fii SAO br_market EQUITY
+REIT11.SA FII REIT RIVCI  ERA REIT Rivera Fundo Invest Imobiliario Cotas SAO br_market EQUITY
+CTKA3F.SA KARSTEN     ON  SAO br_market EQUITY
+MRSA3BF.SA MRS LOGISTICA  SAO br_market EQUITY
+HAAA11.SA FII HEDGEAAACI  ER Hedge Aaa Fundo De Investimento Imobiliario SAO br_market EQUITY
+BDLL4F.SA BARDELLA    PN  SAO br_market EQUITY
+NORD3F.SA NORDON MET  ON  SAO br_market EQUITY
+BEWZ39.SA MSCI BRAZIL DRN ED Ishares Msci Brazil ETF SAO br_market EQUITY
+FDES11F.SA FUNDES      CI  SAO br_market EQUITY
+VITT3F.SA VITTIA      ON      NM  SAO br_market EQUITY
+CPLE6F.SA COPEL       PNB EJ  N2  SAO br_market EQUITY
+ARCT11.SA FII ARCTIUM CI Yaguara Capital High Yield Fundo De Investimento Imobiliario SAO br_market EQUITY
+TEKA4F.SA TEKA        PN  SAO br_market EQUITY
+BBDC4F.SA BRADESCO    PN  EDJ N1  SAO br_market EQUITY
+ALMI11.SA FII TORRE ALCI Fundo De Investimento Imobiliario Torre Almirante SAO br_market EQUITY
+BLCP11.SA FII BLUECAP CI Bluecap Renda Logistica FII Fund SAO br_market EQUITY
+BBAS3F.SA BRASIL      ON      NM  SAO br_market EQUITY
+B5MB11.SA BRAD IMA-B5MF11 ETF Bradesco Ima-B5 Plus Fundo De Indice SAO br_market EQUITY
+GALG11.SA FII GUARDIANCI  ER Guardian Logistica Fundo De Investimento Imobiliario SAO br_market EQUITY
+SMFT3F.SA SMART FIT   ON      NM  SAO br_market EQUITY
+EALT3F.SA ACO ALTONA  ON  SAO br_market EQUITY
+CLSC3F.SA CELESC      ON  EJ  N2  SAO br_market EQUITY
+BDLL3F.SA BARDELLA    ON  SAO br_market EQUITY
+WLMM3F.SA WLM IND COM ON  SAO br_market EQUITY
+DOHL4F.SA DOHLER      PN  SAO br_market EQUITY
+TELB3F.SA TELEBRAS    ON  SAO br_market EQUITY
+GEPA3F.SA GER PARANAP ON  SAO br_market EQUITY
+AFOF11.SA FII ALIANZFFCI Alianza Fofii Fundo De Investimento Imobiliario SAO br_market EQUITY
+MAPT4F.SA CEMEPE      PN  SAO br_market EQUITY
+FSRF11F.SA FISET FL REFCI  SAO br_market EQUITY
+RAPT4F.SA RANDON PART PN  EJ  N1  SAO br_market EQUITY
+NGRD3F.SA NEOGRID     ON      NM  SAO br_market EQUITY
+PETR3F.SA PETROBRAS   ON      N2  SAO br_market EQUITY
+YDUQ3F.SA YDUQS PART  ON      NM  SAO br_market EQUITY
+RBLG11.SA FII RBCAP LGCI Rb Capital Logastico Fundo De Investimento Imobiliario Fund SAO br_market EQUITY
+CSMG3F.SA COPASA      ON      NM  SAO br_market EQUITY
+GGBR4F.SA GERDAU      PN      N1  SAO br_market EQUITY
+CYRE3F.SA CYRELA REALTON      NM  SAO br_market EQUITY
+ENJU3F.SA ENJOEI      ON      NM  SAO br_market EQUITY
+B3SA3F.SA B3          ON  EDJ NM  SAO br_market EQUITY
+BIDI4F.SA BANCO INTER PN      N2  SAO br_market EQUITY
+BRAP3F.SA BRADESPAR   ON      N1  SAO br_market EQUITY
+BLAU3F.SA BLAU        ON      NM  SAO br_market EQUITY
+BLMR11.SA FII BLUE FOFCI Bluemacaw Renda Fof Fundo De Investimento Imobiliario SAO br_market EQUITY
+EGYR11.SA FII ENERGY  CI Energy Resort Fundo De Investimento Imobiliario SAO br_market EQUITY
+TECN3F.SA TECHNOS     ON      NM  SAO br_market EQUITY
+SYNE3F.SA SYN PROP TECON      NM  SAO br_market EQUITY
+PMAM3F.SA PARANAPANEMAON      NM  SAO br_market EQUITY
+PATL11.SA FII PATR LOGCI  ER Patria Logistica Fundo De Investimento Imobiliario SAO br_market EQUITY
+OFSA3F.SA OUROFINO S/AON      NM  SAO br_market EQUITY
+VLID3F.SA VALID       ON      NM  SAO br_market EQUITY
+TIMS3F.SA TIM         ON  EJ  NM  SAO br_market EQUITY
+RCSL4F.SA RECRUSUL    PN  SAO br_market EQUITY
+SANB3F.SA SANTANDER BRON  SAO br_market EQUITY
+USIM3F.SA USIMINAS    ON      N1  SAO br_market EQUITY
+TRAD3F.SA TC          ON      NM  SAO br_market EQUITY
+VULC3F.SA VULCABRAS   ON      NM  SAO br_market EQUITY
+TF523.SA nan  SAO br_market EQUITY
+MNPR3F.SA MINUPAR     ON  SAO br_market EQUITY
+ARCT11.SA FII ARCTIUM CI Yaguara Capital High Yield Fundo De Investimento Imobiliario SAO br_market EQUITY
+BIJH39.SA CORE MIDCAP DRN Ishares Core S&P Mid-Cap Etf SAO br_market EQUITY
+BEWZ39.SA MSCI BRAZIL DRN ED Ishares Msci Brazil ETF SAO br_market EQUITY
+HAAA11.SA FII HEDGEAAACI  ER Hedge Aaa Fundo De Investimento Imobiliario SAO br_market EQUITY
+BDLL4F.SA BARDELLA    PN  SAO br_market EQUITY
+NORD3F.SA NORDON MET  ON  SAO br_market EQUITY
+EALT3F.SA ACO ALTONA  ON  SAO br_market EQUITY
+MAPT4F.SA CEMEPE      PN  SAO br_market EQUITY
+CLSC3F.SA CELESC      ON  EJ  N2  SAO br_market EQUITY
+BDLL3F.SA BARDELLA    ON  SAO br_market EQUITY
+CESP3F.SA CESP        ON      N1  SAO br_market EQUITY
+CLSA3F.SA CLEARSALE   ON      NM  SAO br_market EQUITY
+CTKA4F.SA KARSTEN     PN  SAO br_market EQUITY
+AGXY3F.SA AGROGALAXY  ON      NM  SAO br_market EQUITY
+BSLV39.SA SILVER TRUSTDRN Ishares Silver Trust SAO br_market EQUITY
+IGTI3F.SA IGUATEMI S.AON  EB  N1  SAO br_market EQUITY
+SGPS3F.SA SPRINGS     ON      NM  SAO br_market EQUITY
+RAPT3F.SA RANDON PART ON  EJ  N1  SAO br_market EQUITY
+FNAM11.SA FINAM       CI * Fundo de Investimento Amazônia - FINAM SAO br_market EQUITY
+TRPL3F.SA TRAN PAULISTON  EJ  N1  SAO br_market EQUITY
+RNEW11F.SA RENOVA      UNT     N2  SAO br_market EQUITY
+BSLI3F.SA BRB BANCO   ON  ES  SAO br_market EQUITY
+NINJ3F.SA GETNINJAS   ON      NM  SAO br_market EQUITY
+OSXB3F.SA OSX BRASIL  ON      NM  SAO br_market EQUITY
+INEP3F.SA INEPAR      ON  SAO br_market EQUITY
+MTSA4F.SA METISA      PN  SAO br_market EQUITY
+IBCR11.SA FII BREI    CI Fundo De Investimento Imobiliario De Cri Integral Brei SAO br_market EQUITY
+MELK3F.SA MELNICK     ON  ED  NM  SAO br_market EQUITY
+PINE4F.SA PINE        PN      N2  SAO br_market EQUITY
+HETA4F.SA HERCULES    PN  SAO br_market EQUITY
+MORC11.SA FII MORE CRICI More Recebiveis Imobiliarios FII Fundo De Investimento Imobiliario SAO br_market EQUITY
+CPLE6F.SA COPEL       PNB EJ  N2  SAO br_market EQUITY
+VITT3F.SA VITTIA      ON      NM  SAO br_market EQUITY
+BBFO11.SA FII BB FOF  CI  ER BB Fundos De Fundos - Fundo De Investimento Imobiliario SAO br_market EQUITY
+BRZP11.SA FIP BRZ IE  CI  EA Brz Infra Portos Fundo De Investimento Em Participacoes Em Infraestrutura SAO br_market EQUITY
+EVBI11.SA FII VBI CON CI  ER Vbi Consumo Essencial Fundo De Investimento Imobiliarios SAO br_market EQUITY
+E1DU34.SA NEW ORIENTALDRN  SAO br_market EQUITY
+BIGF39.SA GLOBAL INFRADRN Ishares Global Infrastructure Etf SAO br_market EQUITY
+T1AL34.SA TAL EDUCATIODRN  SAO br_market EQUITY
+HGIC11.SA FII HGI CRI CI  ER Hgi Creditos Imobiliarios Fundo De Investimento SAO br_market EQUITY
+E1QN34.SA EQUINOR ASA DRN  SAO br_market EQUITY
+PHGN34.SA KOPHILIPS   DRN  SAO br_market EQUITY
+BIXJ39.SA GLOBALHEALTHDRN Ishares Global Healthcare Etf SAO br_market EQUITY
+DEOP34.SA DIAGEO PL   DRN  SAO br_market EQUITY
+H1DB34.SA HDFC BANK LTDRN  SAO br_market EQUITY
+BIVE39.SA SP500 VALUE DRN iShares Trust - iShares S&P 500 Value ETF SAO br_market EQUITY
+SQIA3F.SA SINQIA      ON      NM  SAO br_market EQUITY
+BLMG11.SA FII BLUE LOGCI Bluemacaw Logastica Fundo De Investimento ImobiliaRio SAO br_market EQUITY
+KNOX11.SA FIP IE KNOX CI Fip Knox Debt Infraestrutura SAO br_market EQUITY
+AERI3F.SA AERIS       ON      NM  SAO br_market EQUITY
+TKNO4F.SA TEKNO       PN  EJ  SAO br_market EQUITY
+MGLG11.SA FII MOGNO LGCI Mogno Logistica Fundo De Investimento Imobiliario SAO br_market EQUITY
+BKYY39.SA FT CLOUD CPTDRN ED First Trust Cloud Computing ETF SAO br_market EQUITY
+MFAI11.SA FII MERITOFACI  ER Merito Fundo E Acoes Imobiliarias Fii - Fundo De Investimento Imobiliario SAO br_market EQUITY
+HGPO11.SA FII CSHGPRIMCI  ER Cshg Jhsf Prime Offices Fundo De Investimento Imobiliario SAO br_market EQUITY
+PQAG11.SA FII PARQ ANHCI  ER Rb Capital Anhanguera Fundo De Investimento Imobiliario SAO br_market EQUITY
+TECK11.SA IT NOW TECK CI It Now Nyse Fang+ Fundo De Indice SAO br_market EQUITY
+TRXF11.SA FII TRX REALCI  ER TRX Renda Fundo Investimento Imobiliario SAO br_market EQUITY
+BBDC4F.SA BRADESCO    PN  EDJ N1  SAO br_market EQUITY
+TEKA4F.SA TEKA        PN  SAO br_market EQUITY
+B5MB11.SA BRAD IMA-B5MF11 ETF Bradesco Ima-B5 Plus Fundo De Indice SAO br_market EQUITY
+GALG11.SA FII GUARDIANCI  ER Guardian Logistica Fundo De Investimento Imobiliario SAO br_market EQUITY
+TGMA3F.SA TEGMA       ON      NM  SAO br_market EQUITY
+SMFT3F.SA SMART FIT   ON      NM  SAO br_market EQUITY
+BBAS3F.SA BRASIL      ON      NM  SAO br_market EQUITY
+BLCP11.SA FII BLUECAP CI Bluecap Renda Logistica FII Fund SAO br_market EQUITY
+ALMI11.SA FII TORRE ALCI Fundo De Investimento Imobiliario Torre Almirante SAO br_market EQUITY
+ORPD11.SA FII OURO PRTCI Ouro Preto Desenvolvimento Imobiliario I Fundo Investimento Imobiliario - Fii SAO br_market EQUITY
+S2EA34.SA SEA LTD     DRN Sea Limited SAO br_market EQUITY
+V1OD34.SA VODAFONE GRODRN  SAO br_market EQUITY
+FVPQ11.SA FII V PARQUECI  ER  SAO br_market EQUITY
+MFAI11.SA FII MERITOFACI  ER Merito Fundo E Acoes Imobiliarias Fii - Fundo De Investimento Imobiliario SAO br_market EQUITY
+TECK11.SA IT NOW TECK CI It Now Nyse Fang+ Fundo De Indice SAO br_market EQUITY
+KNOX11.SA FIP IE KNOX CI Fip Knox Debt Infraestrutura SAO br_market EQUITY
+TRXF11.SA FII TRX REALCI  ER TRX Renda Fundo Investimento Imobiliario SAO br_market EQUITY
+TKNO4F.SA TEKNO       PN  EJ  SAO br_market EQUITY
+HGPO11.SA FII CSHGPRIMCI  ER Cshg Jhsf Prime Offices Fundo De Investimento Imobiliario SAO br_market EQUITY
+PQAG11.SA FII PARQ ANHCI  ER Rb Capital Anhanguera Fundo De Investimento Imobiliario SAO br_market EQUITY
+BKYY39.SA FT CLOUD CPTDRN ED First Trust Cloud Computing ETF SAO br_market EQUITY
+MGLG11.SA FII MOGNO LGCI Mogno Logistica Fundo De Investimento Imobiliario SAO br_market EQUITY
+AERI3F.SA AERIS       ON      NM  SAO br_market EQUITY
+LFTT11.SA FII LOFT II CI  ER Loft II Fundo De Investimento Imobiliario SAO br_market EQUITY
+KISU11.SA FII KILIMA  CI  ER Kilima Fundo De Investimento Em Cotas De Fundos Imobiliarios Suno 30 SAO br_market EQUITY
+WRLD11.SA INVESTO WRLDCI Investo Ftse Global Equities Etf Fundo De Investimento De Indice Investimento Exterior SAO br_market EQUITY
+KDIF11.SA KINEA INFRAFFIDCER Kinea Infra Fundo Investimento Cotas Fundos Investimento Direitos Creditorios Infraestrutura SAO br_market EQUITY
+Z2NG34.SA ZYNGA INC   DRN Zynga Inc. SAO br_market EQUITY
+MFII11.SA FII MERITO ICI  ER Mérito Desenvolvimento Imobiliário I FII - Fundo de Investimento Imobiliário SAO br_market EQUITY
+HTEK11.SA IT NOW HCARECI Htek - It Now Morningstar Xt Us Healthcare Fundo De Indice SAO br_market EQUITY
+HCRI11.SA FII CRIANCA CI Fundo de Investimento Imobiliário - FII Hospital da Criança SAO br_market EQUITY
+EUCA4F.SA EUCATEX     PN  EJ  N1  SAO br_market EQUITY
+USTK11.SA INVESTO USTKCI Investo ETF MSCI US Technology Fundo De Investimento De Indice – Investimento No Exterior SAO br_market EQUITY
+HUSC11.SA FII H UNIMEDCI  ER Fundo Investimento Imobiliario Hospital Unimed Sul Capixaba SAO br_market EQUITY
+EEEL4F.SA CEEE-T      PN      N1  SAO br_market EQUITY
+PFRM3F.SA PROFARMA    ON      NM  SAO br_market EQUITY
+VILG11.SA FII VINCI LGCI  ER Vinci Logistica Fundo Investimento Imobiliario FII SAO br_market EQUITY
+CPLE11.SA COPEL       UNT EJ  N2 Companhia Paranaense de Energia - COPEL SAO br_market EQUITY
+ELET3F.SA ELETROBRAS  ON      N1  SAO br_market EQUITY
+ASML34.SA ASML HOLD   DRN  SAO br_market EQUITY
+BEWG39.SA MSCI GERMANYDRN ED Ishares Msci Germany ETF SAO br_market EQUITY
+BIXG39.SA BKR GL FIN  DRN ED iShares Trust - iShares Global Financials ETF SAO br_market EQUITY
+ROMI3F.SA INDS ROMI   ON  EJ  NM  SAO br_market EQUITY
+SMTO3F.SA SAO MARTINHOON      NM  SAO br_market EQUITY
+BCFF11.SA FII BC FFII CI Fundo De Investimento Imobiliário - FII BTG Pactual Fundo De Fundos SAO br_market EQUITY
+ENMT3F.SA ENERGISA MT ON  SAO br_market EQUITY
+VCRR11.SA FII VECT RENCI  ER Vectis Renda Residencial Fundo De Investimento Imobiliario SAO br_market EQUITY
+GOLD11.SA TREND OURO  CI Trend Etf Lbma Ouro Fundo Investimento Cotas De Fundo De Andice Investimento Exterior SAO br_market EQUITY
+SMAL11.SA ISHARES SMALCI iShares BM&FBovespa Small Cap Fundo de Índice SAO br_market EQUITY
+MCCI11.SA FII MAUA    CI Fundo De Investimento Imobiliario Maua Capital Recebiveis Imobiliarios SAO br_market EQUITY
+RAIZ4.SA RAIZEN      PN      N2 Raízen S.A. SAO br_market EQUITY
+WEGE3F.SA WEG         ON      NM  SAO br_market EQUITY
+IVVB11.SA ISHARE SP500CI iShares S&P 500 Fundo de Investimento - Investimento No Exterior SAO br_market EQUITY
+ITUB4F.SA ITAUUNIBANCOPN  EJ  N1  SAO br_market EQUITY
+HCTR11.SA FII HECTARE CI Fundo De Investimento Imobiliario Hectare Ce SAO br_market EQUITY
+MGLU3F.SA MAGAZ LUIZA ON      NM  SAO br_market EQUITY
+SAPR11F.SA SANEPAR     UNT EJ  N2  SAO br_market EQUITY
+VALE3F.SA VALE        ON      NM  SAO br_market EQUITY
+LASC11.SA FII LEGATUS CI  ER Legatus Shoppings Fundo De Investimento Imobiliario - FII SAO br_market EQUITY
+BGIP3F.SA BANESE      ON  SAO br_market EQUITY
+CALI4F.SA CONST A LINDPN  SAO br_market EQUITY
+EQIR11.SA FII EQI RECECI Eqi Recebiveis Imobiliarios Fundo De Investimento Imobiliario SAO br_market EQUITY
+SOND5F.SA SONDOTECNICAPNA  SAO br_market EQUITY
+BRLA11.SA FII BRLPROIICI  SAO br_market EQUITY
+FIXA11.SA MIRAE FIXA  F11 Mirae Asset Renda Fixa Pre Fundo De Indice SAO br_market EQUITY
+MGEL4F.SA MANGELS INDLPN  SAO br_market EQUITY
+BIYE39.SA BKR US ENER DRN iShares Trust - iShares U.S. Energy ETF SAO br_market EQUITY
+USIM6F.SA USIMINAS    PNB     N1  SAO br_market EQUITY
+BNBR3F.SA NORD BRASIL ON  SAO br_market EQUITY
+CEDO3F.SA CEDRO       ON      N1  SAO br_market EQUITY
+SCAR3F.SA SAO CARLOS  ON      NM  SAO br_market EQUITY
+GENB11.SA ETF BTG GENBCI Btg Pactual S&P B3 Ingenius Fundo De Indice SAO br_market EQUITY
+CEEB3F.SA COELBA      ON  SAO br_market EQUITY
+TEKA3F.SA TEKA        ON  SAO br_market EQUITY
+MTIG4F.SA METAL IGUACUPN  SAO br_market EQUITY
+ELET5F.SA ELETROBRAS  PNA     N1  SAO br_market EQUITY
+GAME11.SA FII GUARD MUCI Fundo De Investimento Imobiliario Guardian Multiestrategia Imobiliaria I SAO br_market EQUITY
+IBOB11.SA PACTUAL IBOVCI Btg Pactual B3 Ibovespa Fundo De Indice SAO br_market EQUITY
+BCIR39.SA FT NASDCYBERDRN ED First Trust Nasdaq Cybersecurity ETF SAO br_market EQUITY
+INEP4F.SA INEPAR      PN  SAO br_market EQUITY
+FRIO3F.SA METALFRIO   ON      NM  SAO br_market EQUITY
+MWET4F.SA WETZEL S/A  PN  SAO br_market EQUITY
+GEPA4F.SA GER PARANAP PN  SAO br_market EQUITY
+BRKM3F.SA BRASKEM     ON      N1  SAO br_market EQUITY
+CGAS3F.SA COMGAS      ON  SAO br_market EQUITY
+DEXP4F.SA DEXXOS PAR  PN      N1  SAO br_market EQUITY
+CEBR3F.SA CEB         ON  SAO br_market EQUITY
+CRPG6F.SA CRISTAL     PNB EJ  SAO br_market EQUITY
+LAND3F.SA TERRASANTAPAON      NM  SAO br_market EQUITY
+BSLI4F.SA BRB BANCO   PN  ES  SAO br_market EQUITY
+ATOM3F.SA ATOMPAR     ON  SAO br_market EQUITY
+FRAS3F.SA FRAS-LE     ON  EJ  N1  SAO br_market EQUITY
+GETT3F.SA GETNET BR   ON  SAO br_market EQUITY
+TF525.SA nan  SAO br_market EQUITY
+TF713.SA ATIVO TESTE ON  SAO br_market EQUITY
+TF665.SA nan  SAO br_market EQUITY
+TF485.SA nan  SAO br_market EQUITY
+TF515.SA nan  SAO br_market EQUITY
+PATI4F.SA PANATLANTICAPN  SAO br_market EQUITY
+SNSY5F.SA SANSUY      PNA  SAO br_market EQUITY
+CEBR5F.SA CEB         PNA  SAO br_market EQUITY
+TF493.SA nan  SAO br_market EQUITY
+CBEE3F.SA AMPLA ENERG ON  SAO br_market EQUITY
+TF565.SA nan  SAO br_market EQUITY
+TF603.SA nan  SAO br_market EQUITY
+RPAD5F.SA ALFA HOLDINGPNA  SAO br_market EQUITY
+RPAD6F.SA ALFA HOLDINGPNB  SAO br_market EQUITY
+LPSB3F.SA LOPES BRASILON      NM  SAO br_market EQUITY
+CGAS5F.SA COMGAS      PNA  SAO br_market EQUITY
+HOOT4F.SA HOTEIS OTHONPN  SAO br_market EQUITY
+MCHF11.SA FII MAUA HF CI Maua Capital Hedge Fund Fundo De Investimento Imobiliario SAO br_market EQUITY
+HAGA4F.SA HAGA S/A    PN  SAO br_market EQUITY
+BIDI11F.SA BANCO INTER UNT     N2  SAO br_market EQUITY
+CGAS5F.SA COMGAS      PNA  SAO br_market EQUITY
+BSLI4F.SA BRB BANCO   PN  ES  SAO br_market EQUITY
+BLUT3F.SA B TECH EQI  ON  SAO br_market EQUITY
+ATOM3F.SA ATOMPAR     ON  SAO br_market EQUITY
+SOND5F.SA SONDOTECNICAPNA  SAO br_market EQUITY
+XPCA11.SA FIAGRO XP CACI  ER Xp Credito Agricola - Fundo De Investimento Nas Cadeias Produtivas - Fiagro - Imobiliario SAO br_market EQUITY
+TFCO4F.SA TRACK FIELD PN  EJ  N2  SAO br_market EQUITY
+BIDI11F.SA BANCO INTER UNT     N2  SAO br_market EQUITY
+MODL11F.SA MODALMAIS   UNT     N2  SAO br_market EQUITY
+PARD3F.SA IHPARDINI   ON      NM  SAO br_market EQUITY
+ODPV3F.SA ODONTOPREV  ON      NM  SAO br_market EQUITY
+PNVL3F.SA DIMED       ON  EJ  NM  SAO br_market EQUITY
+PLPL3F.SA PLANOEPLANO ON      NM  SAO br_market EQUITY
+BBDC3F.SA BRADESCO    ON  EDJ N1  SAO br_market EQUITY
+JFLL11.SA FII JFL LIV CI  ER JFL Living Fundo De Investimento Imobiliario SAO br_market EQUITY
+HAPV3F.SA HAPVIDA     ON  EJ  NM  SAO br_market EQUITY
+HYPE3F.SA HYPERA      ON  EJ  NM  SAO br_market EQUITY
+IFRA11.SA FI ITAUINFRAFIDCER Itau FIC De Fundos De Investimento Em Direitos Creditorios De Infraestrutura SAO br_market EQUITY
+JURO11.SA SPARTA INFRAFIDC Sparta Infra Fundo Investimento Cotas Fundos Incentivados Investimento Infraestrutura Renda Fi Cr Pr SAO br_market EQUITY
+ENEV3F.SA ENEVA       ON      NM  SAO br_market EQUITY
+KEPL3F.SA KEPLER WEBERON  SAO br_market EQUITY
+LAME3F.SA LOJAS AMERICON      N1  SAO br_market EQUITY
+MDIA3F.SA M.DIASBRANCOON      NM  SAO br_market EQUITY
+MILS3F.SA MILLS       ON      NM  SAO br_market EQUITY
+TRPL4F.SA TRAN PAULISTPN  EJ  N1  SAO br_market EQUITY
+BOVS11.SA SAFRAETFIBOVCI Safra Ibovespa Fundo De Indice SAO br_market EQUITY
+CESP6F.SA CESP        PNB     N1  SAO br_market EQUITY
+EQTL3F.SA EQUATORIAL  ON      NM  SAO br_market EQUITY
+FHER3F.SA FER HERINGERON      NM  SAO br_market EQUITY
+BMOB3F.SA BEMOBI TECH ON      NM  SAO br_market EQUITY
+CXSE3F.SA CAIXA SEGURION      NM  SAO br_market EQUITY
+BPAN4F.SA BANCO PAN   PN  EJ  N1  SAO br_market EQUITY
+CPLE11F.SA COPEL       UNT EJ  N2  SAO br_market EQUITY
+UCAS3F.SA UNICASA     ON      NM  SAO br_market EQUITY
+OIBR3F.SA OI          ON      N1  SAO br_market EQUITY
+RELG11.SA FII REC LOG CI Fundo De Investimento Imobiliario Rec Logistaca SAO br_market EQUITY
+TAEE4F.SA TAESA       PN      N2  SAO br_market EQUITY
+SAPR4F.SA SANEPAR     PN  EJ  N2  SAO br_market EQUITY
+SANB4F.SA SANTANDER BRPN  SAO br_market EQUITY
+QAMI11.SA FII QUASAR CCI  ER Quasar Credito Imobiliario Fundo De Investimento Imobiliario SAO br_market EQUITY
+RENT3F.SA LOCALIZA    ON      NM  SAO br_market EQUITY
+TASA4F.SA TAURUS ARMASPN      N2  SAO br_market EQUITY
+TECB11.SA TECH BRASIL CI Indice De Acoes Tech Brasil ETF Fundo De Indice SAO br_market EQUITY
+TCSA3F.SA TECNISA     ON      NM  SAO br_market EQUITY
+FESA4F.SA FERBASA     PN      N1  SAO br_market EQUITY
+EGIE3F.SA ENGIE BRASILON  EJ  NM  SAO br_market EQUITY
+TF513.SA nan  SAO br_market EQUITY
+CEAB3F.SA CEA MODAS   ON      NM  SAO br_market EQUITY
+CBAV3F.SA CBA         ON      NM  SAO br_market EQUITY
+ELET6F.SA ELETROBRAS  PNB     N1  SAO br_market EQUITY
+DAMT11B.SA DIAMANTE FUNDO INV  SAO br_market EQUITY
+MGCR11.SA FII MOGNO HGCI FII Mogno Cri High Grade SAO br_market EQUITY
+ATSA11.SA FII HATRIUM CI Cshg Atrium Shopping Santo Andr Fundo De Investimento Imobilirio Fii SAO br_market EQUITY
+GGBR3F.SA GERDAU      ON      N1  SAO br_market EQUITY
+QIRI11.SA FII QUATA   CI  ER Quata Monetai Fundo De Fundos - Fii SAO br_market EQUITY
+MODL4F.SA MODALMAIS   PN      N2  SAO br_market EQUITY
+JBSS3F.SA JBS         ON      NM  SAO br_market EQUITY
+EQMA3BF.SA EQUATORIAL DISTRIB  SAO br_market EQUITY
+HBTS5F.SA HABITASUL   PNA  SAO br_market EQUITY
+CAJI34.SA CANON INC   DRN ED  SAO br_market EQUITY
+RBRR11.SA FII RBRHGRADCI Fundo Investimento Imobiliario - FII RBR Rendimento High Grade SAO br_market EQUITY
+TMCO34.SA TOYOTAMO    DRN  SAO br_market EQUITY
+B1NT34.SA BIONTECH SE DRN  SAO br_market EQUITY
+GCRI11.SA FII GLPG CRICI Galapagos Recebiveis Imobiliarios Fundo De Investimento Imobiliario SAO br_market EQUITY
+HOND34.SA HONDA MO    DRN  SAO br_market EQUITY
+PRSN11B.SA PERSONALE I FUNDO Personale I Fundo Invest Imobiliario SAO br_market EQUITY
+N1IC34.SA NICE LTD    DRN  SAO br_market EQUITY
+RBFF11.SA FII RIOB FF CI  ER Fator IFIX Fundo Investimento Imobiliario - FII - Cotas Fund SAO br_market EQUITY
+KFOF11.SA FII KINEAFOFCI  ER Kinea Fundo Fundos De Investimento Imobiliario FII SAO br_market EQUITY
+ITUB3F.SA ITAUUNIBANCOON  EJ  N1  SAO br_market EQUITY
+N1GG34.SA NATIONAL GRIDRN  SAO br_market EQUITY
+ARRI11.SA FII ATRIO   CI  ER Fundo De Investimento Imobiliario Atrio Reit Recebiveis Imobiliarios SAO br_market EQUITY
+BIVW39.SA SP500GROWTH DRN iShares Trust - iShares S&P 500 Growth ETF SAO br_market EQUITY
+BCSA34.SA SANTANDER   DRN  SAO br_market EQUITY
+R1DY34.SA DR REDDYS LADRN  SAO br_market EQUITY
+S1MF34.SA SUMITOMO MITDRN  SAO br_market EQUITY
+P1KX34.SA POSCO       DRN ED  SAO br_market EQUITY
+BSUS39.SA ESGMSCIUSA LDRN iShares Trust - iShares ESG MSCI USA Leaders ETF SAO br_market EQUITY
+HPDP11.SA FII HEDGEPDPCI  ER Hedge Real Estate I Fundo De Investimento Imobliario SAO br_market EQUITY
+L1FC34.SA CHINA LIFE IDRN  SAO br_market EQUITY
+XPHT11.SA FII XP HOT  CI XP Hoteis Fundo De Investimento Imobiliario FII SAO br_market EQUITY
+BHEF39.SA CURHEDGEMSCIDRN ED iShares Trust - iShares Currency Hedged MSCI EAFE ETF SAO br_market EQUITY
+VCJR11.SA FII VECTIS  CI  ER Vectis Juros Real Fundo De Investimento Imobiliario - Fii SAO br_market EQUITY
+BIDU34.SA BAIDU INC   DRN  SAO br_market EQUITY
+E1DI34.SA CONSOLIDATEDDRN  SAO br_market EQUITY
+EEEL3F.SA CEEE-T      ON      N1  SAO br_market EQUITY
+XPSF11.SA FII XP SELECCI  ER XP Selection Fundo De Fundos De Investimento Imobiliario - FII SAO br_market EQUITY
+XPPR11.SA FII XP PROP CI  ER Xp Properties Fundo De Investimento Imobiliario SAO br_market EQUITY
+BLCA11.SA FII BLUE AAACI Bluemacaw Catuai Triple A Fundo De Investimento Imobiliario SAO br_market EQUITY
+OIBR4F.SA OI          PN      N1  SAO br_market EQUITY
+TRNT11.SA FII TORRE NOCI Fundo de Investimento Imobiliário - FII Torre Norte SAO br_market EQUITY
+VSHO11.SA FII VOT SHOPCI  ER FII Votorantim shopping SAO br_market EQUITY
+VIGT11.SA FIP VINCI IECI Vinci Energia Fundo De Investimento Em Participacao Em Infraestrutura SAO br_market EQUITY
+ITIP11.SA nan Ifi D Inter Fundo De Investimento Imobiliario SAO br_market EQUITY
+AMER3F.SA AMERICANAS  ON      NM  SAO br_market EQUITY
+BIYF39.SA US FINANCIALDRN Ishares Us Financials Etf SAO br_market EQUITY
+MILL11.SA IT NOW MILL CI It Now Msci Usa Imi Millenials Select 50 Fundo De Indice SAO br_market EQUITY
+VIFI11.SA FII VINCI IFCI  ER Vinci Instrumentos Financeiros Fundo De Investimento Imobiliario SAO br_market EQUITY
+RDOR3F.SA REDE D OR   ON      NM  SAO br_market EQUITY
+TAEE11F.SA TAESA       UNT     N2  SAO br_market EQUITY
+BSIZ39.SA MSCIUSASIZF DRN iShares Trust - iShares MSCI USA Size Factor ETF SAO br_market EQUITY
+FNOR11.SA FINOR       CI * Finor -Ci Fund SAO br_market EQUITY
+RBCO11.SA FII R INCOMECI  ER RB Capital Office Income Fundo De Investimento Imobiliario SAO br_market EQUITY
+P1DD34.SA PINDUODUO INDRN  SAO br_market EQUITY
+E1NI34.SA ENEL AMERICADRN  SAO br_market EQUITY
+BIXN39.SA GLOBAL TECH DRN ED Ishares Global Tech ETF SAO br_market EQUITY
+BRIV4F.SA ALFA INVEST PN  SAO br_market EQUITY
+RBRS11.SA FII RIOB RR CI  ER Rio Bravo Renda Residencial Fundo De Investimentos Imobiliario SAO br_market EQUITY
+EQPA3F.SA EQTL PARA   ON  SAO br_market EQUITY
+HBOR3F.SA HELBOR      ON      NM  SAO br_market EQUITY
+PETZ3F.SA PETZ        ON  EJ  NM  SAO br_market EQUITY
+ASAI3F.SA ASSAI       ON      NM  SAO br_market EQUITY
+BTRA11.SA FII BTG TAGRCI  ER Fundo De Investimento Imobiliario Btg Pactual Terras Agricolas SAO br_market EQUITY
+BEEF3F.SA MINERVA     ON      NM  SAO br_market EQUITY
+BFDL39.SA FTMOR DV LEADRN ED First Trust Exchange-Traded Fund - First Trust Morningstar Dividend Leaders Index Fund SAO br_market EQUITY
+JOGO11.SA INVESTO JOGOCI Investo Etf Global Video Gaming & Esports Fundo De Investimento De Indice - Ie SAO br_market EQUITY
+BITO39.SA CORE SP TOTADRN Ishares Core S&P Total Us Stock Market Etf SAO br_market EQUITY
+BURT39.SA BKR MS WLD  DRN ED iShares, Inc. - iShares MSCI World ETF SAO br_market EQUITY
+BEFV39.SA MSCIEAFEVALUDRN ED iShares Trust - iShares MSCI EAFE Value ETF SAO br_market EQUITY
+BEWA39.SA MSCIAUSTRALIDRN ED iShares, Inc. - iShares MSCI Australia ETF SAO br_market EQUITY
+BIEV39.SA EUROPE ETF  DRN ED iShares Trust - iShares Europe ETF SAO br_market EQUITY
+KNHY11.SA FII KINEA HYCI  ER Kinea High Yield Cri Fundo Investimento Imobiliario FII SAO br_market EQUITY
+QETH11.SA QR ETHER    CI Qr Cme Cf Ether Reference Rate Fundo De Indice Investimento No Exterior SAO br_market EQUITY
+VSLH11.SA FII VERS CRICI Versalhes Recebiveis Imobiliarios - Fundo De Investimento Imobiliario SAO br_market EQUITY
+SNEC34.SA SONY GROUP  DRN  SAO br_market EQUITY
+CPFF11.SA FII CAP REITCI Capitania Reit FOF - Fundo De Investimento Imobiliario SAO br_market EQUITY
+TORD11.SA FII TORDE EICI Tordesilhas Ei Fundo De Investimento Imobiliario SAO br_market EQUITY
+QUAL3F.SA QUALICORP   ON      NM  SAO br_market EQUITY
+PATC11.SA FII PATRIA  CI  ER Patria Edificios Corporativos Fundo Investimento Imobiliario Fii SAO br_market EQUITY
+RECT11.SA FII REC RENDCI Fundo De Investimento Imobiliario - FII UBS Office SAO br_market EQUITY
+VGIP11.SA FII VALORAIPCI Valora Cri Indice De Preco Fundo De Investimento Imobiliario SAO br_market EQUITY
+SUZB3F.SA SUZANO S.A. ON      NM  SAO br_market EQUITY
+RIOT34.SA RIO TINTO   DRN  SAO br_market EQUITY
+MGFF11.SA FII MOGNO   CI Fundo Investimento Imobiliario Mogno Fundo Fundos SAO br_market EQUITY
+CVBI11.SA FII VBI CRI CI Fundo De Investimento Imobiliario VBI Credito SAO br_market EQUITY
+HGRU11.SA FII CSHG URBCI  ER CSHG Renda Urbana Fundo Investimento Imobilirio - FII SAO br_market EQUITY
+BIYW39.SA US TECHNOLOGDRN Ishares US Technology ETF SAO br_market EQUITY
+TRIG11.SA TRG SMIC CAPCI Etf Trigono Teva Acoes Micro Cap / Small Cap Fundo De Indice SAO br_market EQUITY
+ITIT11.SA nan Ifi E Inter Fundo De Investimento Imobiliario SAO br_market EQUITY
+NUBR33.SA NU-NUBANK   DR3 Nu Holdings Ltd. SAO br_market EQUITY
+MODL11.SA MODALMAIS   UNT     N2 Banco Modal S.A. SAO br_market EQUITY
+BIDI11.SA BANCO INTER UNT     N2 Banco Inter S.A. SAO br_market EQUITY
+NASD11.SA TREND NASDAQCI Trend Etf Nasdaq 100 Fundo De Investimento De Indice - Investimento No Exterior SAO br_market EQUITY
+VIIA3F.SA VIA         ON      NM  SAO br_market EQUITY
+BOVA11.SA ISHARES BOVACI iShares Ibovespa Index Fund SAO br_market EQUITY
+TSER11.SA FII TISHMAN CI  ER Tishman Speyer Renda Corporativa Fundo De Investimento Imobiliario SAO br_market EQUITY
+FSPE11.SA FISET PESCA CI Fiset Pesca Fiset Fspe SAO br_market EQUITY
+CTNM3F.SA COTEMINAS   ON  SAO br_market EQUITY
+TRXB11.SA FII TRX R IICI  ER Trx Real Estate II Fundo De Investimento Imobiliario - Fii SAO br_market EQUITY
+CEED3F.SA CEEE-D      ON  SAO br_market EQUITY
+DTCY3F.SA DTCOM-DIRECTON  SAO br_market EQUITY
+TF505.SA nan  SAO br_market EQUITY
+TF681.SA ATIVO TESTE ON SPA  SAO br_market EQUITY
+BFPI39.SA FT INTL EQOPDRN ED First Trust Exchange Traded Fund II - First Trust International Equity Opportunities ETF SAO br_market EQUITY
+LUXM4F.SA TREVISA     PN  SAO br_market EQUITY
+TF593.SA nan  SAO br_market EQUITY
+TF623.SA nan  SAO br_market EQUITY
+TF573.SA nan  SAO br_market EQUITY
+TF555.SA nan  SAO br_market EQUITY
+EKTR3F.SA ELEKTRO     ON  SAO br_market EQUITY
+BRGE8F.SA ALFA CONSORCPND  SAO br_market EQUITY
+BRIV3F.SA ALFA INVEST ON  SAO br_market EQUITY
+MWET3F.SA WETZEL S/A  ON  SAO br_market EQUITY
+BIOM3F.SA BIOMM       ON      MA  SAO br_market EQUITY
+CPLE5F.SA COPEL       PNA EJ  N2  SAO br_market EQUITY
+CTNM4F.SA COTEMINAS   PN  SAO br_market EQUITY
+CEDO4F.SA CEDRO       PN      N1  SAO br_market EQUITY
+CGRA3F.SA GRAZZIOTIN  ON  EJ  SAO br_market EQUITY
+SNSY3F.SA SANSUY      ON  SAO br_market EQUITY
+BEWY39.SA MSCISOUTHKORDRN Ishares Msci South Korea Etf SAO br_market EQUITY
+L1YG34.SA LLOYDS BANKIDRN  SAO br_market EQUITY
+TASA3F.SA TAURUS ARMASON      N2  SAO br_market EQUITY
+BSOX39.SA BKR SEMICONDDRN ED iShares Trust - iShares Semiconductor ETF SAO br_market EQUITY
+TELB4F.SA TELEBRAS    PN  SAO br_market EQUITY
+CLSC4F.SA CELESC      PN  EJ  N2  SAO br_market EQUITY
+BIEU39.SA COREMSCI EURDRN ED Ishares Core Msci Europe ETF SAO br_market EQUITY
+ALUP3F.SA ALUPAR      ON      N2  SAO br_market EQUITY
+CESP5F.SA CESP        PNA     N1  SAO br_market EQUITY
+CEBR6F.SA CEB         PNB  SAO br_market EQUITY
+DOTZ3F.SA DOTZ SA     ON      NM  SAO br_market EQUITY
+MODL3F.SA MODALMAIS   ON      N2  SAO br_market EQUITY
+HSAF11.SA FII HSI CRI CI  ER Hsi Ativos Financeiros Fundos Investimentos Imoliarios SAO br_market EQUITY
+HBRE3F.SA HBR REALTY  ON      NM  SAO br_market EQUITY
+FESA3F.SA FERBASA     ON      N1  SAO br_market EQUITY
+ALPA3F.SA ALPARGATAS  ON  EJ  N1  SAO br_market EQUITY
+FSTU11F.SA FISET TUR   CI  SAO br_market EQUITY
+FSTU11.SA FISET TUR   CI Fiset Tur SAO br_market EQUITY
+UNIP3F.SA UNIPAR      ON  ED  SAO br_market EQUITY
+GFSA3F.SA GAFISA      ON      NM  SAO br_market EQUITY
+DIRR3F.SA DIRECIONAL  ON      NM  SAO br_market EQUITY
+BLUT4F.SA B TECH EQI  PN  SAO br_market EQUITY
+BNDA39.SA MSCI INDIA  DRN ED Ishares Msci India Etf SAO br_market EQUITY
+BPAC3F.SA BTGP BANCO  ON  EJ  N2  SAO br_market EQUITY
+CRFB3F.SA CARREFOUR BRON      NM  SAO br_market EQUITY
+CCRO3F.SA CCR SA      ON      NM  SAO br_market EQUITY
+AALR3F.SA ALLIAR      ON      NM  SAO br_market EQUITY
+AZEV4F.SA AZEVEDO     PN  SAO br_market EQUITY
+BIDB11.SA FIC INTER   FIDCEA Inter Infra FI Cotas Fundos Incentivados De Investimento Infraestrutura Renda Fixa Credito Privado SAO br_market EQUITY
+BRKM5F.SA BRASKEM     PNA     N1  SAO br_market EQUITY
+ABCB4F.SA ABC BRASIL  PN  EJ  N2  SAO br_market EQUITY
+RBHG11.SA FII RBCRI IVCI  ER Rio Bravo Credito Imobiliario IV Fundo De Investimento Imobiliario - FII SAO br_market EQUITY
+SIMH3F.SA SIMPAR      ON  EJ  NM  SAO br_market EQUITY
+RRCI11.SA FII RBCAP RICI  ER RB Capital Asset Management Ltda. SAO br_market EQUITY
+VIVT3F.SA TELEF BRASILON  EDJ  SAO br_market EQUITY
+UGPA3F.SA ULTRAPAR    ON      NM  SAO br_market EQUITY
+VIVA3F.SA VIVARA S.A. ON  EJ  NM  SAO br_market EQUITY
+XBOV11.SA CAIXAETFXBOVCI CAIXA ETF Ibovespa Fundo de Índice - Cotas Fund SAO br_market EQUITY
+SULA11F.SA SUL AMERICA UNT     N2  SAO br_market EQUITY
+RADL3F.SA RAIADROGASILON      NM  SAO br_market EQUITY
+MOVI3F.SA MOVIDA      ON  EJ  NM  SAO br_market EQUITY
+GSHP3F.SA GENERALSHOPPON  SAO br_market EQUITY
+VGIA11.SA FIAGRO VGIA CI Valora Cra Fundo De Investimento In Agroindustrial Production Chains - Fiagro-Imobiliário SAO br_market EQUITY
+UNIP6F.SA UNIPAR      PNB ED  SAO br_market EQUITY
+WEST3F.SA WESTWING    ON      NM  SAO br_market EQUITY
+BPAC3F.SA BTGP BANCO  ON  EJ  N2  SAO br_market EQUITY
+UNIP3F.SA UNIPAR      ON  ED  SAO br_market EQUITY
+ABCB4F.SA ABC BRASIL  PN  EJ  N2  SAO br_market EQUITY
+BEFA39.SA MSCI EAFE   DRN ED Ishares Msci Eafe ETF SAO br_market EQUITY
+FIQE3F.SA UNIFIQUE    ON      NM  SAO br_market EQUITY
+GFSA3F.SA GAFISA      ON      NM  SAO br_market EQUITY
+DIRR3F.SA DIRECIONAL  ON      NM  SAO br_market EQUITY
+AALR3F.SA ALLIAR      ON      NM  SAO br_market EQUITY
+AZEV4F.SA AZEVEDO     PN  SAO br_market EQUITY
+BIDB11.SA FIC INTER   FIDCEA Inter Infra FI Cotas Fundos Incentivados De Investimento Infraestrutura Renda Fixa Credito Privado SAO br_market EQUITY
+BNDA39.SA MSCI INDIA  DRN ED Ishares Msci India Etf SAO br_market EQUITY
+CNES11.SA FII CENESP  CI  ER Fundo De Investimento Imobiliario Bm Cenesp - Fii - Inicio De Negociacao SAO br_market EQUITY
+JALL3F.SA JALLESMACHADON      NM  SAO br_market EQUITY
+JGPX11.SA FIAGRO JGP  CI  ER Fundo De Investimento Nas Cadeias Produtivas Agroindustriais Jgp Credito Fiagro Imobiliario SAO br_market EQUITY
+JHSF3F.SA JHSF PART   ON      NM  SAO br_market EQUITY
+INTB3F.SA INTELBRAS   ON      NM  SAO br_market EQUITY
+KLBN11F.SA KLABIN S/A  UNT     N2  SAO br_market EQUITY
+LEVE3F.SA METAL LEVE  ON  EJ  NM  SAO br_market EQUITY
+CRFB3F.SA CARREFOUR BRON      NM  SAO br_market EQUITY
+CCRO3F.SA CCR SA      ON      NM  SAO br_market EQUITY
+TOTS3F.SA TOTVS       ON  EJ  NM  SAO br_market EQUITY
+WIZS3F.SA WIZ S.A.    ON      NM  SAO br_market EQUITY
+VBBR3F.SA VIBRA       ON      NM  SAO br_market EQUITY
+ORVR3F.SA ORIZON      ON      NM  SAO br_market EQUITY
+BOVB11.SA ETF BRA IBOVCI ETF Bradesco Ibovespa Fundo De Indice SAO br_market EQUITY
+EMEG11.SA TREND EMEG  CI Trend Etf Msci Mercados Emergentes Fundo De Investimento De Indice - Investimento No Exterior SAO br_market EQUITY
+ESGD11.SA TREND ESG D CI Trend Etf Msci Eafe Esg Fundo De Investimento De Indice - Investimento No Exterior SAO br_market EQUITY
+DEXP3F.SA DEXXOS PAR  ON      N1  SAO br_market EQUITY
+COGN3F.SA COGNA ON    ON      NM  SAO br_market EQUITY
+BOAS3F.SA BOA VISTA   ON  EJ  NM  SAO br_market EQUITY
+TF563.SA nan  SAO br_market EQUITY
+IGBR3F.SA IGB S/A     ON  SAO br_market EQUITY
+ACWI11.SA TREND ACWI  CI Trend Etf Msci Acwi Fundo De Indice SAO br_market EQUITY
+IGTI11F.SA IGUATEMI S.AUNT EB  N1  SAO br_market EQUITY
+ZIFI11.SA FII ZION    CI Zion Capital Fundo De Investimento Imobiliario-Fii SAO br_market EQUITY
+BDIV11.SA FIP BTGDV IECI Btg Pactual Infraestrutura Dividendos Fundo De Investimento Em Participacoes Em Infraestrutura SAO br_market EQUITY
+G1SK34.SA GLAXOSMITHKLDRN  SAO br_market EQUITY
+VTLT11.SA FII VOT LOG CI  ER Fundo Investimento Imobiliario Votorantim Logistica SAO br_market EQUITY
+KNRE11.SA FII KII REALCI  ER Kinea II Real Estate Equity Fundo de Investimento Imobiliário SAO br_market EQUITY
+FIND11.SA IT NOW IFNC CI It Now IFNC Index Fund SAO br_market EQUITY
+KINP11.SA FII EV KINEACI  ERA Even Permuta Kinea Fii Fundo Investimento SAO br_market EQUITY
+I1BN34.SA ICICI BANK LDRN  SAO br_market EQUITY
+HLOG11.SA FII HEDGELOGCI  ER Hedge Logistica Fundo Investimento Imobiliario SAO br_market EQUITY
+BREV11.SA FII BRE VIC CI Brazil Real Estate Victory Fund I Fundo De Investimento Imobiliario SAO br_market EQUITY
+JPPA11.SA FII JPPMOGNOCI  ER JPP Allocation Mogno - Fundo De Investimento Imobiliario SAO br_market EQUITY
+T1EV34.SA TEVA PHARMACDRN  SAO br_market EQUITY
+BILB34.SA BILBAOVIZ   DRN  SAO br_market EQUITY
+BPML11.SA FII BTG SHOPCI Fundo De Investimento Imobiliario BTG Pactual Shoppings SAO br_market EQUITY
+I1FO34.SA INFOSYS LTD DRN  SAO br_market EQUITY
+B1IL34.SA BILIBILI INCDRN Bilibili Inc. SAO br_market EQUITY
+A1MX34.SA AMERICAMOVILDRN  SAO br_market EQUITY
+LREN3F.SA LOJAS RENNERON  EJ  NM  SAO br_market EQUITY
+PFIN11.SA FIP PERFIN  CI Perfin Apollo Energia Fundo De Investimento Em Participacoes Em Infraestrutura SAO br_market EQUITY
+HAGA3F.SA HAGA S/A    ON  SAO br_market EQUITY
+BICR11.SA FII INTER   CI  ER Inter Titulos Imobiliarios Fundo De Investimento Imobiliario SAO br_market EQUITY
+CMDB11.SA BTG COMMODITCI Btg Pactual Teva Acoes Commodities Brasil Fundo De Indice SAO br_market EQUITY
+A1ZN34.SA ASTRAZENECA DRN  SAO br_market EQUITY
+BEWL39.SA MSCI SWITZERDRN iShares, Inc. - iShares MSCI Switzerland ETF SAO br_market EQUITY
+BMTU39.SA MSCIUSAMOM FDRN iShares Trust - iShares MSCI USA Momentum Factor ETF SAO br_market EQUITY
+BIAU39.SA GOLD TRUST  DRN Ishares Gold Trust SAO br_market EQUITY
+RSUL4F.SA RIOSULENSE  PN  SAO br_market EQUITY
+BIWM39.SA RUSSELL 2000DRN Ishares Russell 2000 Etf SAO br_market EQUITY
+KNSC11.SA FII KINEA SCCI  ER Kinea Securities Fundo De Investimento Imobiliario – Fii SAO br_market EQUITY
+IBFF11.SA FII FOF BREICI Fundo De Investimento Imobiliario Fof Integral Brei SAO br_market EQUITY
+LVTC3F.SA WDC NETWORKSON      NM  SAO br_market EQUITY
+REVE11.SA IT NOW GREENCI It Now Russell® 1000 Green Revenues 50 Fundo De Indice SAO br_market EQUITY
+CSAN3F.SA COSAN       ON      NM  SAO br_market EQUITY
+AFHI11.SA FII AFHI CRICI Af Invest Cri Fundo De Investimento Imobiliario – Recebiveis Imobiliarios SAO br_market EQUITY
+GSFI11.SA FII GENERAL CI General Shopping E Outlets Do Brasil Fundo De Investimento Imobiliario FII SAO br_market EQUITY
+CXCO11.SA FII CEF CORPCI  ER Fundo De Investimento Imobiliario Caixa Imoveis Corporativos SAO br_market EQUITY
+CPFE3F.SA CPFL ENERGIAON      NM  SAO br_market EQUITY
+S1BS34.SA SIBANYE STILDRN Sibanye Stillwater Limited SAO br_market EQUITY
+GCFF11.SA FII GALAPAGOCI Galapagos Fundo De Fundos Fii Fundo De Investimento Imobiliario SAO br_market EQUITY
+BTCR11.SA FII BTG CRI CI Fundo Infestimento Imobiliario Btg Pactual Credito Imobiliario SAO br_market EQUITY
+BEGU39.SA TRUSTMSCI USDRN Ishares Trust Ishares Esg Aware Msci Usa ETF SAO br_market EQUITY
+BIBB39.SA ICE BIOTECH DRN Ishares Nasdaq Biotechnology Etf SAO br_market EQUITY
+SHOT11.SA IT NOW SHOT CI It Now S&P Kensho Moonshots Fundo De Indice SAO br_market EQUITY
+FLRP11.SA FII FLORIPA CI  ER Fundo de Investimento Imobiliário - FII Floripa Shopping SAO br_market EQUITY
+EURP11.SA TREND EUROPACI Trend ETF MSCI Europa Fundo De Andice SAO br_market EQUITY
+ENDD11.SA FIP END DEBTCI  EA Endurance Debt Fundo De Investimento Em Participacoes Em Infraestrutura SAO br_market EQUITY
+NEWU11.SA FII NEWRU   CI Renda de Escritorios Fundo de Investimento Imobiliario - Cotas Fundo SAO br_market EQUITY
+FEXC11.SA FII EXCELLENCI Fundo De Investimento Imobiliário - FII BTG Pactual Fundo De CRI SAO br_market EQUITY
+EQIN11.SA FII NCH EQI CI Real Estate Investment Fund FII Nch Brazil - Real Estate Receivables Fund SAO br_market EQUITY
+IB5M11.SA IT NOW IB5M F11 It Now IMA-B5+ Fundo De Indice SAO br_market EQUITY
+RBRP11.SA FII RBR PROPCI Fundo Investimento Imobiliario Rbr Properties Fii SAO br_market EQUITY
+DIVO11.SA IT NOW IDIV CI It Now IDIV Index Fund SAO br_market EQUITY
+IB5M11.SA IT NOW IB5M F11 It Now IMA-B5+ Fundo De Indice SAO br_market EQUITY
+DEVA11.SA FII DEVANT  CI Devant Recebiveis Imobiliarios Fundo De Investimento Imobiliario SAO br_market EQUITY
+MBLY3F.SA MOBLY       ON      NM  SAO br_market EQUITY
+RZTR11.SA FII RIZA TX CI  ER Fundo De Investimento Imobiliario Riza Terrax SAO br_market EQUITY
+SLCE3F.SA SLC AGRICOLAON  EB  NM  SAO br_market EQUITY
+SNFF11.SA FII SUNOFOFICI Suno Fundo De Fundos De Investimento Imobiliario SAO br_market EQUITY
+TGAR11.SA FII TG ATIVOCI  ER Fundo Investimento Imobiliario Tg Ativo Real SAO br_market EQUITY
+PPEI11.SA FIP PRISMA  CI Prisma Proton Energia Fundo De Investimento Em Participacoes Em Infraestrutura SAO br_market EQUITY
+IGTI11.SA IGUATEMI S.AUNT EB  N1 Iguatemi S.A. SAO br_market EQUITY
+PEAB3F.SA PAR AL BAHIAON  SAO br_market EQUITY
+RBRP11.SA FII RBR PROPCI Fundo Investimento Imobiliario Rbr Properties Fii SAO br_market EQUITY
+DIVO11.SA IT NOW IDIV CI It Now IDIV Index Fund SAO br_market EQUITY
+BZLI11.SA FII BRREALTYCI Brazil Realty Fundo Investimento Imobiliario SAO br_market EQUITY
+BEEM39.SA MSCI EMGMARKDRN ED Ishares Msci Emerging Markets ETF SAO br_market EQUITY
+BICL39.SA BKR GL CLEANDRN ED iShares Trust - iShares Global Clean Energy ETF SAO br_market EQUITY
+EQIN11.SA FII NCH EQI CI Real Estate Investment Fund FII Nch Brazil - Real Estate Receivables Fund SAO br_market EQUITY
+ISUS11.SA IT NOW ISE  CI It Now ISE Index Fund SAO br_market EQUITY
+CXRI11.SA FII CX RBRAVCI CXFI - Caixa Rio Bravo Fundo Fundos SAO br_market EQUITY
+MEGA3.SA OMEGAENERGIAON      NM Omega Energia S.A. SAO br_market EQUITY
+BAAX39.SA MSCI ASIA JPDRN Ishares Msci All Country Asia Ex Japan ETF SAO br_market EQUITY
+CJCT11.SA FII CJCTOWERCI Cidade Jardim Continental Tower Fundo De Investimento Imobiliario SAO br_market EQUITY
+BITH11.SA BITCOIN HASHCI Hashdex Nasdaq Bitcoin Reference Rate Fundo De Indice SAO br_market EQUITY
+XINA11.SA TREND CHINA CI Trend Etf Msci China Fundo De Indice SAO br_market EQUITY
+QBTC11.SA QR BITCOIN  CI Qr Cme Cf Bitcoin Reference Rate Fundo De Indice Investimento No Exterior SAO br_market EQUITY
+IRFM11.SA IT NOW IRF-MF11 It Now IRF - M P2 Fundo De Indice SAO br_market EQUITY
+ASIA11.SA TREND ASIA  CI Trend Etf Msci Asia Ex-Japao Fundo De Investimento De Indice - Investimento No Exterior SAO br_market EQUITY
+ALUG11.SA INVESTO ALUGCI Investo Msci US Real Estate ETF Fundo De Investimento De Indice Investimento Exterior SAO br_market EQUITY
+GURU11.SA ETF GURU    CI Inter Eqi Teva Etf Grandes Gurus Do Mercado Fundo De Indice SAO br_market EQUITY
+HASH11.SA HASHDEX NCI CI Hashdex Nasdaq Crypto Index Fundo De Indice SAO br_market EQUITY
+OULG11.SA FII OURILOG CI Pedra Dourada Fundo De Investimento Imobiliário - FII SAO br_market EQUITY
+XPML11.SA FII XP MALLSCI Xp Malls Fundo Investimentos Imobiliarios SAO br_market EQUITY
+AHEB5F.SA SPTURIS     PNA  SAO br_market EQUITY
+JOPA4F.SA JOSAPAR     PN  SAO br_market EQUITY
+MCHY11.SA FII MAUA HY CI Fundo De Investimento Imobiliario Maua Capital High Yield - FII SAO br_market EQUITY
+BFDN39.SA FT DJ INTERNDRN First Trust Dow Jones Internet ETF SAO br_market EQUITY
+EQPA7F.SA EQTL PARA   PNC  SAO br_market EQUITY
+AFLT3F.SA AFLUENTE T  ON  SAO br_market EQUITY
+FSPE11F.SA FISET PESCA CI  SAO br_market EQUITY
+CSRN6F.SA COSERN      PNB  SAO br_market EQUITY
+MERC4F.SA MERC FINANC PN  SAO br_market EQUITY
+TF575.SA nan  SAO br_market EQUITY
+TF585.SA nan  SAO br_market EQUITY
+TF519.SA ATIVO TESTE ON SPA  SAO br_market EQUITY
+TF553.SA nan  SAO br_market EQUITY
+TF533.SA nan  SAO br_market EQUITY
+TF625.SA nan  SAO br_market EQUITY
+TF545.SA nan  SAO br_market EQUITY
+PEAB4F.SA PAR AL BAHIAPN  SAO br_market EQUITY
+KEVE11.SA FII EVEN II CI  ERA Even II Kinea Fundo De Investimento Imobiliario SAO br_market EQUITY
+CSAB4F.SA SEG AL BAHIAPN  SAO br_market EQUITY
+EUCA3F.SA EUCATEX     ON  EJ  N1  SAO br_market EQUITY
+DOHL3F.SA DOHLER      ON  SAO br_market EQUITY
+BALM3F.SA BAUMER      ON  SAO br_market EQUITY
+XPHT12.SA FII XP HOT  CI XP Hoteis Fundo De Investimento Imobiliario FII SAO br_market EQUITY
+CEPE5F.SA CELPE       PNA  SAO br_market EQUITY
+PLAS3F.SA PLASCAR PARTON  SAO br_market EQUITY
+MATV11.SA FII MORE ATVCI More Gestao Ativa De Recebiveis Fundo De Investimento Imobiliario SAO br_market EQUITY
+PTNT4F.SA PETTENATI   PN  SAO br_market EQUITY
+BRSR5F.SA BANRISUL    PNA     N1  SAO br_market EQUITY
+BAHI3F.SA BAHEMA      ON      MA  SAO br_market EQUITY
+BLMC11.SA FII BLUE CRICI Bluemacaw Credito Imobiliario Fundo De Investimento Imobiliario SAO br_market EQUITY
+BERU39.SA BKR MS RUSS DRN ED iShares, Inc. - iShares MSCI Russia ETF SAO br_market EQUITY
+BMIN3F.SA MERC INVEST ON  SAO br_market EQUITY
+ALPK3F.SA ESTAPAR     ON      NM  SAO br_market EQUITY
+RNEW4F.SA RENOVA      PN      N2  SAO br_market EQUITY
+CAMB3F.SA CAMBUCI     ON  SAO br_market EQUITY
+RECX11.SA FII REC FOF CI Rec Fundo De Fundos - Fii Fundo De Investimento Imobiliario SAO br_market EQUITY
+WHRL3F.SA WHIRLPOOL   ON  SAO br_market EQUITY
+WPLZ11.SA FII W PLAZA CI  ER Fundo Investec IMB Shopping West Plaza Fund SAO br_market EQUITY
+BIEM39.SA COREMSCI EMKDRN Ishares Core Msci Emerging Markets ETF SAO br_market EQUITY
+CTSA4F.SA SANTANENSE  PN  SAO br_market EQUITY
+ECOO11.SA ISHARES ECOOCI iShares Índice Carbono Eficiente (ICO2) Brasil - Fundo de Índice SAO br_market EQUITY
+EQIA11.SA FIAGRO EQIA CI Nch Recebiveis Do Agronegocio - Fiagro Imobiliario SAO br_market EQUITY
+TF583.SA nan  SAO br_market EQUITY
+EALT4F.SA ACO ALTONA  PN  SAO br_market EQUITY
+FLCR11.SA FII FL RECEBCI Faria Lima Capital Recebiveis Imobiliarios I FII SAO br_market EQUITY
+KLBN3F.SA KLABIN S/A  ON      N2  SAO br_market EQUITY
+MAXR11.SA FII MAX RET CI Fundo De Investimentos Imobiliarios - Max Ret SAO br_market EQUITY
+TUPY3F.SA TUPY        ON  EJ  NM  SAO br_market EQUITY
+RBHY11.SA FII RB YIELDCI  ER Rio Bravo Credito Imobiliario High Yield Fundo De Investimento Imobiliario - FII SAO br_market EQUITY
+RECV3F.SA PETRORECSA  ON      NM  SAO br_market EQUITY
+TRIS3F.SA TRISUL      ON      NM  SAO br_market EQUITY
+DASA3F.SA DASA        ON  EJ  NM  SAO br_market EQUITY
+CORM11.SA FII CORE METCI Core Metropolis Fundo De Investimento Imobiliario SAO br_market EQUITY
+SULA4F.SA SUL AMERICA PN      N2  SAO br_market EQUITY
+SHOW3F.SA TIME FOR FUNON      NM  SAO br_market EQUITY
+STBP3F.SA SANTOS BRP  ON  EDJ NM  SAO br_market EQUITY
+SPXB11.SA BTG S&P 500 CI Btg Pactual S&P 500 Fundo De Indice SAO br_market EQUITY
+TXRX3F.SA TEX RENAUX  ON  SAO br_market EQUITY
+WLMM4F.SA WLM IND COM PN  SAO br_market EQUITY
+MNDL3F.SA MUNDIAL     ON  SAO br_market EQUITY
+AMBP3F.SA AMBIPAR     ON      NM  SAO br_market EQUITY
+AESB3F.SA AES BRASIL  ON      NM  SAO br_market EQUITY
+BRBI11F.SA BR PARTNERS UNT     N2  SAO br_market EQUITY
+BIJR39.SA CORESMALLCAPDRN Ishares Core S&P Small-Cap Etf SAO br_market EQUITY
+ABEV3F.SA AMBEV S/A   ON  SAO br_market EQUITY
+BEES3F.SA BANESTES    ON  EJ  SAO br_market EQUITY
+BPAC11F.SA BTGP BANCO  UNT EJ  N2  SAO br_market EQUITY
+GETT11F.SA GETNET BR   UNT  SAO br_market EQUITY
+ALUP4F.SA ALUPAR      PN      N2  SAO br_market EQUITY
+PORT3F.SA WILSON SONS ON      NM  SAO br_market EQUITY
+LAVV3F.SA LAVVI       ON      NM  SAO br_market EQUITY
+ETER3F.SA ETERNIT     ON      NM  SAO br_market EQUITY
+TXRX3F.SA TEX RENAUX  ON  SAO br_market EQUITY
+WLMM4F.SA WLM IND COM PN  SAO br_market EQUITY
+SHOW3F.SA TIME FOR FUNON      NM  SAO br_market EQUITY
+STBP3F.SA SANTOS BRP  ON  EDJ NM  SAO br_market EQUITY
+GETT11F.SA GETNET BR   UNT  SAO br_market EQUITY
+ABEV3F.SA AMBEV S/A   ON  SAO br_market EQUITY
+BEES3F.SA BANESTES    ON  EJ  SAO br_market EQUITY
+ALPA4F.SA ALPARGATAS  PN  EJ  N1  SAO br_market EQUITY
+ALSO3F.SA ALIANSCSONAEON      NM  SAO br_market EQUITY
+BEWT39.SA MSCI TAIWAN DRN Ishares Msci Taiwan ETF SAO br_market EQUITY
+CSRN3F.SA COSERN      ON  SAO br_market EQUITY
+ENAT3F.SA ENAUTA PART ON      NM  SAO br_market EQUITY
+ENGI11F.SA ENERGISA    UNT ED  N2  SAO br_market EQUITY
+CURY3F.SA CURY S/A    ON      NM  SAO br_market EQUITY
+DMVF3F.SA D1000VFARMA ON      NM  SAO br_market EQUITY
+EZTC3F.SA EZTEC       ON      NM  SAO br_market EQUITY
+AMBP3F.SA AMBIPAR     ON      NM  SAO br_market EQUITY
+AESB3F.SA AES BRASIL  ON      NM  SAO br_market EQUITY
+BRBI11F.SA BR PARTNERS UNT     N2  SAO br_market EQUITY
+BIJR39.SA CORESMALLCAPDRN Ishares Core S&P Small-Cap Etf SAO br_market EQUITY
+ALUP4F.SA ALUPAR      PN      N2  SAO br_market EQUITY
+CAML3F.SA CAMIL       ON      NM  SAO br_market EQUITY
+BPAC11F.SA BTGP BANCO  UNT EJ  N2  SAO br_market EQUITY
+ECOR3F.SA ECORODOVIAS ON      NM  SAO br_market EQUITY
+FLRY3F.SA FLEURY      ON  EJ  NM  SAO br_market EQUITY
+SULA4F.SA SUL AMERICA PN      N2  SAO br_market EQUITY
+ESGE11.SA TREND ESG E CI Trend Etf Msci Emerging Markets Esg Fundo De Investimento De Indice Investimento No Exterior SAO br_market EQUITY
+RBHY11.SA FII RB YIELDCI  ER Rio Bravo Credito Imobiliario High Yield Fundo De Investimento Imobiliario - FII SAO br_market EQUITY
+RECV3F.SA PETRORECSA  ON      NM  SAO br_market EQUITY
+TRIS3F.SA TRISUL      ON      NM  SAO br_market EQUITY
+POMO4F.SA MARCOPOLO   PN  EJ  N2  SAO br_market EQUITY
+PICE11.SA FIP PATR INFCI  EA Patria Infraestrutura Energia Core Fundo De Investimento Em Participacoes Em Infraestrutura SAO br_market EQUITY
+GOLL4F.SA GOL         PN      N2  SAO br_market EQUITY
+HBSA3F.SA HIDROVIAS   ON      NM  SAO br_market EQUITY
+MOSI3F.SA MOSAICO     ON      NM  SAO br_market EQUITY
+MULT3F.SA MULTIPLAN   ON  EJ  N2  SAO br_market EQUITY
+MRVE3F.SA MRV         ON      NM  SAO br_market EQUITY
+TUPY3F.SA TUPY        ON  EJ  NM  SAO br_market EQUITY
+SMAC11.SA IT NOW SMALLCI It Now Small Cap Fundo De Indice Fund SAO br_market EQUITY
+SPXB11.SA BTG S&P 500 CI Btg Pactual S&P 500 Fundo De Indice SAO br_market EQUITY
+TF583.SA nan  SAO br_market EQUITY
+CPTI11.SA FIC IE CAP  FIDCER Capitania Infra Fic Fi Infra Rf Cp SAO br_market EQUITY
+FATN11.SA FII ATHENA ICI Fundo De Investimento Imobiliario Athena I SAO br_market EQUITY
+NTCO3F.SA GRUPO NATURAON      NM  SAO br_market EQUITY
+RBRL11.SA FII RBR LOG CI RBR Log FII SAO br_market EQUITY
+BDIF11.SA FIC INFR BTGFIDC Btg Pactual Divida Infra FICF Incentivados De Investimento Em Infraestrutura Renda Fixa Credito Priv SAO br_market EQUITY
+CSNA3F.SA SID NACIONALON  SAO br_market EQUITY
+E1RI34.SA ERICSSON LM DRN  SAO br_market EQUITY
+BCHI39.SA MSCI CHINA  DRN Ishares Msci China Etf SAO br_market EQUITY
+SAPP34.SA SAP SE      DRN  SAO br_market EQUITY
+BUSR39.SA CORE US REITDRN iShares Trust - iShares Core U.S. REIT ETF SAO br_market EQUITY
+ARMT34.SA ARCELOR     DRN  SAO br_market EQUITY
+NAVT11.SA FII NAVI TOTCI Navi Imobiliario Total Return Fundos De Investimento Imobiliario SAO br_market EQUITY
+M1UF34.SA MITSUBISHI UDRN  SAO br_market EQUITY
+BEWC39.SA MSCI CANADA DRN iShares, Inc. - iShares MSCI Canada ETF SAO br_market EQUITY
+C1SU34.SA CREDIT SUISSDRN  SAO br_market EQUITY
+M1BT34.SA MOBILE JOIN DRN  SAO br_market EQUITY
+RCFA11.SA FII GP RCFA CI  EG Grupo Rcfa Fundo De Investimento SAO br_market EQUITY
+BEWJ39.SA MSCI JAPAN  DRN Ishares Msci Japan Etf SAO br_market EQUITY
+VVPR11.SA FII V2 PROP CI  ER Fundo De Investimento Imobiliario V2 Properties SAO br_market EQUITY
+M1LC34.SA MELCO RESORTDRN  SAO br_market EQUITY
+SADI11.SA FII SANT PAPCI  ER Santander Papeis Imobiliarios Cdi Fundo De Investimento Imobiliario SAO br_market EQUITY
+G1DS34.SA GDS HOLDINGSDRN GDS Holdings Limited SAO br_market EQUITY
+K1BF34.SA KB FINANCIALDRN ED  SAO br_market EQUITY
+G1LP34.SA GALAPAGOS NVDRN  SAO br_market EQUITY
+SAIC11B.SA FUNDO INVEST IMOB Fundo Investimento Imobiliario FII SAO br_market EQUITY
+BXTC39.SA EXPON TECHNLDRN Ishares Exponential Technologies ETF SAO br_market EQUITY
+XPID11.SA FIRF XP IE  FIDCEA XP FIC De Fundos Incentivados De Investimento Em Infraestrutura Renda Fixa SAO br_market EQUITY
+MDNE3F.SA MOURA DUBEUXON      NM  SAO br_market EQUITY
+BIVB39.SA CORE SP 500 DRN Ishares Core S&P 500 Etf SAO br_market EQUITY
+PVBI11.SA FII VBI PRI CI  ER Fundo De Investimento ImobiliarRio Vbi Prime Properties SAO br_market EQUITY
+PLOG11.SA FII PLURAL LCI  ER Plural Logistica Fundo De Investimento Imobiliario SAO br_market EQUITY
+PDTC3F.SA PADTEC      ON      NM  SAO br_market EQUITY
+RANI3F.SA IRANI       ON      NM  SAO br_market EQUITY
+BRAX11.SA ISHARES BRAXCI iShares IBrX-Índice Brasil (IBrX-100) Index Fund SAO br_market EQUITY
+RVBI11.SA FII VBI REITCI Vbr Reits Fof Fundo De Investimento Imobiliario SAO br_market EQUITY
+TLNC34.SA TELEFONIC   DRN  SAO br_market EQUITY
+HTMX11.SA FII HOTEL MXCI FD Invest Imob Hotel Maxinvest SAO br_market EQUITY
+XPIN11.SA FII XP INDL CI Xp Industrial Fundo Investimento Imobiliario SAO br_market EQUITY
+BTEK11.SA INVESTO BTEKCI Nvesto S&P Biotechnology Selection Industry Etf FI De Indice - Investimento No Exterior SAO br_market EQUITY
+XFIX11.SA TREND IFIX-LCI Trend Etf Ifix SAO br_market EQUITY
+AIEC11.SA FII AUTONOMYCI  ER Autonomy Edifícios Corporativos Fundo de Investimento Imobiliario SAO br_market EQUITY
+PSVM11.SA PORTO VM    TPR Porto Sudeste do Brasil S.A. VAR INCOME UNDATED ROYALTIES BASED SAO br_market EQUITY
+AGRO3F.SA BRASILAGRO  ON      NM  SAO br_market EQUITY
+RBIR11.SA FII RBRES IVCI Rb Capital Desenvolvimento Residencial IV Fundo De Investimento Imobiliario - FII SAO br_market EQUITY
+LLIS3F.SA LE LIS BLANCON      NM  SAO br_market EQUITY
+SARE11.SA FII SANT RENCI  ER Santander Renda De Alugueis Fundo Investimento Imobiliarios SAO br_market EQUITY
+GGRC11.SA FII GGRCOVEPCI Ggr Covipe Renda Fundo Investimento Imobiliario SAO br_market EQUITY
+FIIP11B.SA RB CAP RENDA I FD RB Capital Renda I Fundo de Investimento Imobiliário - FII SAO br_market EQUITY
+BMLC11.SA FII BMBRC LCCI Fundo de Investimento Imobiliário Rio Bravo Renda Corporativa SAO br_market EQUITY
+JRDM11.SA FII SHOPJSULCI Fundo de Investimento Imobiliário - FII Shopping Jardim Sul SAO br_market EQUITY
+ETHE11.SA ETHER HASH  CI Hashdex Nasdaq Ethereum Reference Price Fundo De Indice SAO br_market EQUITY
+POSI3F.SA POSITIVO TECON      NM  SAO br_market EQUITY
+IMAB11.SA IT NOW IMA-BF11 It Now Id ETF Ima-B Fundo De Indice SAO br_market EQUITY
+ESGB11.SA ETF ESG BTG CI Btg Pactual Esg Fundo De Indice S P Brazil Esg SAO br_market EQUITY
+MYPK3F.SA IOCHP-MAXIONON  EJ  NM  SAO br_market EQUITY
+VITT3.SA VITTIA      ON      NM Vittia Fertilizantes e Biológicos S.A. SAO br_market EQUITY
+XMAL11.SA TREND SMALL CI Trend Etf Small Caps Fundo De Indice SAO br_market EQUITY
+BEFG39.SA MSCIEAFEGROWDRN ED iShares Trust - iShares MSCI EAFE Growth ETF SAO br_market EQUITY
+BEZU39.SA MSCIEUROZONEDRN ED Ishares Msci Eurozone ETF SAO br_market EQUITY
+BIYG39.SA USFINANCSERVDRN ED iShares Trust - iShares U.S. Financial Services ETF SAO br_market EQUITY
+ESGB11.SA ETF ESG BTG CI Btg Pactual Esg Fundo De Indice S P Brazil Esg SAO br_market EQUITY
+I1QY34.SA IQIYI INC   DRN  SAO br_market EQUITY
+BOVV11.SA IT NOW IBOV CI It Now Ibovespa Fundo de Indice SAO br_market EQUITY
+KNIP11.SA FII KINEA IPCI  ER Kinea Indices Precos Fundo Investimento Imobiliario - FII SAO br_market EQUITY
+PETR4F.SA PETROBRAS   PN      N2  SAO br_market EQUITY
+BDVY39.SA SELECT DIVIDDRN Ishares Select Dividend Etf SAO br_market EQUITY
+VGHF11.SA FII VALOR HECI  ER Valora Hedge Fund Fundo De Investimento Imobiliario - Fii SAO br_market EQUITY
+SPXI11.SA IT NOW SPXI CI It Now S&P500 TRN Fundo de Índice SAO br_market EQUITY
+ETHE11.SA ETHER HASH  CI Hashdex Nasdaq Ethereum Reference Price Fundo De Indice SAO br_market EQUITY
+CRFF11.SA FII CX RBRA2CI Caixa Rio Bravo Fundo De Fundos De Investimento Imobiliario II-Cotas SAO br_market EQUITY
+VITT3.SA VITTIA      ON      NM Vittia Fertilizantes e Biológicos S.A. SAO br_market EQUITY
+ALZR11.SA FII ALIANZA CI Alianza Trust Renda Imobiliaria Fundo Investimento Imobiliario SAO br_market EQUITY
+BRBI11.SA BR PARTNERS UNT     N2 BR Advisory Partners Participações S.A. SAO br_market EQUITY
+BTAL11.SA FII BTG AGROCI FII Btg Pactual Agro Logistica SAO br_market EQUITY
+CXAG11.SA nan Fundo De Investimento Imobiliario Caixa Agencias SAO br_market EQUITY
+XPLG11.SA FII XP LOG  CI  ER Xp Log Fundo Investimento Imobiliario FII SAO br_market EQUITY
+GETT11.SA GETNET BR   UNT Getnet Adquirência e Serviços para Meios de Pagamento S.A. SAO br_market EQUITY
+VINO11.SA FII VINCI OFCI  ERS Vinci Corporate Fundo De Investimento Imobiliario SAO br_market EQUITY
+PIBB11.SA IT NOW PIBB CI It Now PIBB IBrX-50 Index Fund SAO br_market EQUITY

@@ -42,20 +42,21 @@ class TradeBook():
         return sum(qntds)
 
     #considera como tipo de operação, a operação do primeiro trade incluido                    
-    def gerar_operacoes(self):
-        trades = self.trades                             
-        cols=["Start", "End", "Tipo", "Lucro"]
+    def gerar_operacoes(self):        
+        trades = self.trades           
+        cols=["Start", "End", "Tipo","Entrada","Saida","Lucro"]
         mh = MathHelper()     
         df = pd.DataFrame(columns=cols)        
         for index in range(0, len(trades)-1, 2):                       
             var = mh.variation(trades[index].valor, trades[index+1].valor)
-
-            if trades[index].tipo == "VENDA": var = var*-1
-
+            if trades[index].tipo == "VENDA": var = var*-1            
+            
             df.loc[index] = pd.Series( 
                 data=[trades[index].data, 
                       trades[index+1].data, 
                       trades[index].tipo,
+                      trades[index].valor,
+                      trades[index+1].valor,
                       var],
                 index=cols)  
         df.index = range(0, len(df.index))
@@ -64,6 +65,14 @@ class TradeBook():
     def clean(self):
         list.clear(self.trades)
 
+    def isComprado(self) -> bool:
+        if not self.trades: return False
+        return self.trades[len(self.trades)-1].tipo == "COMPRA"
+    
+    def lst_value(self) -> float:
+        
+        return self.trades[len(self.trades)-1].valor
+    
     def get_dataframe_trades(self):
         df = pd.DataFrame(columns=list(self.trades[0].__dict__.keys()))
         for index,t in enumerate(self.trades):

@@ -15,3 +15,9 @@ class MathHelper():
             x *= final
             y *= final
             return [x,y]
+    
+    def inRange(self,inicio, final, n):
+        try:
+            return (inicio).__le__(n).__and__((final).__ge__(n))
+        except:
+            return None
